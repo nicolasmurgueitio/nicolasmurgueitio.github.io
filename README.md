@@ -1,11 +1,6 @@
-
-<div align="center"> 
-
 #  **Nicolas Murgueitio**
 
 ##  **Graduate Student at the University of North Carolina at Chapel Hill**
-
-</p>
 
 I am a graduate student working at the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs. My research broadly explores 1) emotional learning circuits that are preserved across species, such as fear neurocircuitry, and parental modulation of fear learning, 2) how dimensions of adversity differentially impact brain and behavioral development, and 3) the role of the gut microbiome on emotional neural development. To explore these questions I use a variety of methodologies and approaches including behavioral assesments, MRI and fMRI, EDA and RSA, parent-reported questionnaires, microbial gene sequences, machine learning, and other advanced statistical techniques. 
 
@@ -20,4 +15,5 @@ I am currently leading the following projects:
 3. **Do deprivation and threat differentially predict amygdala-vmPFC connectivity? A meta-analytic review.** We are currently reviewing whether deprivation and threat differentially predict amygdala-vmPFC connectivity across the current literature. 
 4. **The role of the gut microbiome on emotional learning neural structure and function during infancy.** Using data from the BEE Study, we are using machine learning to exploring the association between the gut microbiome and neural structure and function related to emotional learning during infancy. 
 
+To read further about some of these projects please visit my [OSF profile](https://osf.io/profile/?view_only=02023f70035a49e6b56eb969a50ae3ea), and I am working to make my code accesible and reproducible using [GitHub](https://github.com/nicolasmurgueitio)
 If you are interested in talking about my research you can contact me at: [jnicolas@email.unc.edu](mailto:jnicolas@email.unc.edu)
