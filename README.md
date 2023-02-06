@@ -16,7 +16,7 @@ To explore these questions I use a variety of methodologies and approaches inclu
 
 My research heavily focuses on the Dimensional Model of Adversity and Psychopathology (DMAP), you can read more about it here:
 
-1. Conceptual manuscritps: [McLaughlin et al (2014)](https://www.sciencedirect.com/science/article/pii/S0149763414002620); [Sheridan & McLAughlin (2014)](https://www.sciencedirect.com/science/article/pii/S1364661314002022); [McLaughlin & Sheridan (2016)](https://journals.sagepub.com/doi/pdf/10.1177/0963721416655883); [Sheridan & McLaughlin (2016)](https://www.sciencedirect.com/science/article/pii/S2352154616301140).
+1. Conceptual manuscritps: [McLaughlin et al (2014)](https://www.sciencedirect.com/science/article/pii/S0149763414002620); [Sheridan & McLaughlin (2014)](https://www.sciencedirect.com/science/article/pii/S1364661314002022); [McLaughlin & Sheridan (2016)](https://journals.sagepub.com/doi/pdf/10.1177/0963721416655883); [Sheridan & McLaughlin (2016)](https://www.sciencedirect.com/science/article/pii/S2352154616301140).
 
 2. The importance of dimensional models: [McLaughlin et al (2021)](https://journals.sagepub.com/doi/pdf/10.1177/1745691621992346)
 
