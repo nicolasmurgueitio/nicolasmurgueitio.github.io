@@ -24,14 +24,20 @@ My research heavily focuses on the Dimensional Model of Adversity and Psychopath
 
 I am currently leading the following projects:
 
-1. **Behavioral adaptations to early adversity: A 7-year longitudinal study.** Using data from the Durham Child Health and Development Study, I am exploring how deprivation and threat differentially predict cognitive abilities and emotional learning during the first 7 years of life. I am also exploring whether deprivation and threat predict psychopathology and academic achievement. 
+1. **Behavioral adaptations to early adversity: A 7-year longitudinal study.** I am exploring how deprivation and threat predict psychopathology and academic achievement through emotional learning and cognitive abilites. I am also looking at whether poverty predicts experiences of deprivation and threat, and whether attachment security can buffer the effects of threat on emotional learning. For this project, I am using data from the Durham Child Health and Development Study (DCHD), a longitudinal project following children from 3-months to their school years in North Carolina. 
+Collaborators/Mentors: Cathi Propper, Margaret Sheridan
 
-2. **Exploring unpredictability as a dimension of early adversity.** This study uses data from the Wellness Health And Life Experiences Study (WHALE) using a variety of instruments that measure unpredictability. We are using data-driven approaches to explore how these measures cluster and relate to each other, to create a robust composite of unpredictability. 
+2. **Exploring unpredictability as a dimension of early adversity.** I am using data-driven approaches, exploratory factor and network analyses, to explore how various measures and observations of fluctuations in children's environments cluster and related with each other. For this project, I am working with data from the Wellness Health and Life Experiences Study (WHALE, PI: Margaret Sheridan). 
+Collaborators/Mentors: Margaret Sheridan, Lucy Lurie
 
-3. **Do deprivation and threat differentially predict amygdala-vmPFC connectivity? A meta-analytic review.** We are currently reviewing whether deprivation and threat differentially predict amygdala-vmPFC connectivity across the current literature. 
+3. **Do deprivation and threat differentially predict amygdala-vmPFC connectivity? A meta-analytic review.** I am currently reviewing the existing literature on early adversity and fear circuitry (ie, amygdala-vmPFC connectivity), in order to explore whether threat and deprivation differentially predict it.  
+Collaborators/Mentors: Margaret Sheridan, Meredith Gruhn, Esmeralda Navarro, Amy Carolus
 
-4. **The role of the gut microbiome on emotional learning neural structure and function during infancy.** Using data from the BEE Study, we are using machine learning to exploring the association between the gut microbiome and neural structure and function related to emotional learning during infancy. 
+4. **The role of the gut microbiome on emotional learning neural structure and function during infancy.** Using machine learning approaches I am looking at the predictive capacity of the gut microbiome on emotional learning neural structure and function during infancy. I am using data from the Brain and Early Experiences Study (BEE, PI: Cathi Propper).
+Collaborators/Mentors: Cathi Propper, Margaret Sheridan, Rebecca Knickmeyer (MSU), Sarah Short (UW Madison)
 
 To read further about some of these projects please visit my [OSF profile](https://osf.io/profile/?view_only=02023f70035a49e6b56eb969a50ae3ea), and I am working to make my code accesible and reproducible using [GitHub](https://github.com/nicolasmurgueitio)
+
+Aside from working on my own research projects I also TA for undergraduate courses in child development, mentor undergraduate and postbacc research assistants, collect neuroimaging data with toddlers, coordinate biosamples, manage large/multidimensional data sets, and collaborate with other scientists in their own research projects. 
 
 If you are interested in talking about my research you can contact me at: [jnicolas@email.unc.edu](mailto:jnicolas@email.unc.edu), or dm in [twitter](https://twitter.com/jnmurgueitio) (eventhough I do not use it a lot). 
