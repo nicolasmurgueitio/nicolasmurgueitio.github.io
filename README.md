@@ -2,9 +2,14 @@
 
 ##  **Graduate Student at the University of North Carolina at Chapel Hill**
 
-I am a graduate student working at the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs. I am from Ecuador, and eventhough it is a country full of resources, it has a **big** opportunity gap (see Ecuador poverty rates [here](https://www.macrotrends.net/countries/ECU/ecuador/poverty-rate)). My academic interests come from living in a country where children across socioeconomic strata are exposed to different experiences that puts them at risk of a variety of negative life outcomes. 
+I am a graduate student working at the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs. I am from Ecuador, and eventhough it is a country full of resources, it has a **big** opportunity gap (see Ecuador increasing [poverty](https://www.macrotrends.net/countries/ECU/ecuador/poverty-rate) and [violence](https://www.macrotrends.net/countries/ECU/ecuador/murder-homicide-rate)rates ). My academic interests come from living in a country where children across socioeconomic strata are exposed to different experiences that puts them at risk of a variety of negative life outcomes. 
 
-My research broadly explores 1) emotional learning circuits that are preserved across species, such as fear neurocircuitry, and parental modulation of fear learning, 2) how dimensions of adversity differentially impact brain and behavioral development, and 3) the role of the gut microbiome on emotional neural development. To explore these questions I use a variety of methodologies and approaches including behavioral assesments, MRI and fMRI, EDA and RSA, parent-reported questionnaires, microbial gene sequences, machine learning, and other advanced statistical techniques. 
+My research broadly explores: 
+1) **Emotional learning circuits that are preserved across species, such as fear neurocircuitry, and parental modulation of fear learning.** These neural circuits have a great translational capacity, both from animal models to basic human research, and from basic to clinical human research. Focusing on these emotional learning circuits can help us understand the effects of trauma, and the role of parents, in the development of psychiatric disorders. 
+3) **How dimensions of adversity differentially impact brain and behavioral development.** Studying the impact of dimensions of adversity on neural development has the capacity to ellucidate novel pathways that can be targetted through learning interventions, such as cognitive training and cognitive reappraisal. 
+4) **The role of the gut microbiome on emotional neural development.** I believe that least *part* of the inequalities that we see in health and achievement are due to food insecurity and malnutrition. The gut microbiome brings to light innovative ways to intervene in children's emotional health through human nutrition, using pre and probiotics. 
+
+To explore these questions I use a variety of methodologies and approaches including behavioral assesments, MRI and fMRI, EDA and RSA, parent-reported questionnaires, microbial gene sequences, machine learning, and other advanced statistical techniques. 
 
 My research heavily focuses on the Dimensional Model of Adversity and Psychopathology (DMAP), you can read more about it here:
 
