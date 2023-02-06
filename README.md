@@ -2,7 +2,7 @@
 
 ##  **Graduate Student at the University of North Carolina at Chapel Hill**
 
-I am a graduate student working at the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs. I am from Ecuador, and eventhough it is a country full of resources, it has a **big** opportunity gap (see Ecuador increasing [poverty](https://www.macrotrends.net/countries/ECU/ecuador/poverty-rate) and [violence](https://www.macrotrends.net/countries/ECU/ecuador/murder-homicide-rate)rates ). My academic interests come from living in a country where children across socioeconomic strata are exposed to different experiences that puts them at risk of a variety of negative life outcomes. 
+I am a graduate student working at the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs. I am from Ecuador, and eventhough it is a country full of resources, it has a **big** opportunity gap (see Ecuador increasing [poverty](https://www.macrotrends.net/countries/ECU/ecuador/poverty-rate) and [violence](https://www.macrotrends.net/countries/ECU/ecuador/murder-homicide-rate) rates). My academic interests come from living in a country where children across socioeconomic strata are exposed to different experiences that puts them at risk of a variety of negative life outcomes. 
 
 My research broadly explores: 
 
@@ -24,17 +24,13 @@ My research heavily focuses on the Dimensional Model of Adversity and Psychopath
 
 I am currently leading the following projects:
 
-1. **Behavioral adaptations to early adversity: A 7-year longitudinal study.** I am exploring how deprivation and threat predict psychopathology and academic achievement through emotional learning and cognitive abilites. I am also looking at whether poverty predicts experiences of deprivation and threat, and whether attachment security can buffer the effects of threat on emotional learning. For this project, I am using data from the Durham Child Health and Development Study (DCHD), a longitudinal project following children from 3-months to their school years in North Carolina. 
-Collaborators/Mentors: Cathi Propper, Margaret Sheridan
+1. **Behavioral adaptations to early adversity: A 7-year longitudinal study.** I am exploring how deprivation and threat predict psychopathology and academic achievement through emotional learning and cognitive abilites. I am also looking at whether poverty predicts experiences of deprivation and threat, and whether attachment security can buffer the effects of threat on emotional learning. For this project, I am using data from the Durham Child Health and Development Study (DCHD), a longitudinal project following children from 3-months to their school years in North Carolina. **Collaborators/Mentors:** Cathi Propper, Margaret Sheridan.
 
-2. **Exploring unpredictability as a dimension of early adversity.** I am using data-driven approaches, exploratory factor and network analyses, to explore how various measures and observations of fluctuations in children's environments cluster and related with each other. For this project, I am working with data from the Wellness Health and Life Experiences Study (WHALE, PI: Margaret Sheridan). 
-Collaborators/Mentors: Margaret Sheridan, Lucy Lurie
+2. **Exploring unpredictability as a dimension of early adversity.** I am using data-driven approaches, exploratory factor and network analyses, to explore how various measures and observations of fluctuations in children's environments cluster and related with each other. For this project, I am working with data from the Wellness Health and Life Experiences Study (WHALE, PI: Margaret Sheridan). **Collaborators/Mentors:** Margaret Sheridan, Lucy Lurie.
 
-3. **Do deprivation and threat differentially predict amygdala-vmPFC connectivity? A meta-analytic review.** I am currently reviewing the existing literature on early adversity and fear circuitry (ie, amygdala-vmPFC connectivity), in order to explore whether threat and deprivation differentially predict it.  
-Collaborators/Mentors: Margaret Sheridan, Meredith Gruhn, Esmeralda Navarro, Amy Carolus
+3. **Do deprivation and threat differentially predict amygdala-vmPFC connectivity? A meta-analytic review.** I am currently reviewing the existing literature on early adversity and fear circuitry (ie, amygdala-vmPFC connectivity), in order to explore whether threat and deprivation differentially predict it.  **Collaborators/Mentors:** Margaret Sheridan, Meredith Gruhn, Esmeralda Navarro, Amy Carolus.
 
-4. **The role of the gut microbiome on emotional learning neural structure and function during infancy.** Using machine learning approaches I am looking at the predictive capacity of the gut microbiome on emotional learning neural structure and function during infancy. I am using data from the Brain and Early Experiences Study (BEE, PI: Cathi Propper).
-Collaborators/Mentors: Cathi Propper, Margaret Sheridan, Rebecca Knickmeyer (MSU), Sarah Short (UW Madison)
+4. **The role of the gut microbiome on emotional learning neural structure and function during infancy.** Using machine learning approaches I am looking at the predictive capacity of the gut microbiome on emotional learning neural structure and function during infancy. I am using data from the Brain and Early Experiences Study (BEE, PI: Cathi Propper). **Collaborators/Mentors:** Cathi Propper, Margaret Sheridan, Rebecca Knickmeyer (MSU), Sarah Short (UW Madison).
 
 To read further about some of these projects please visit my [OSF profile](https://osf.io/profile/?view_only=02023f70035a49e6b56eb969a50ae3ea), and I am working to make my code accesible and reproducible using [GitHub](https://github.com/nicolasmurgueitio)
 
