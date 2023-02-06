@@ -6,8 +6,8 @@ I am a graduate student working at the [Sheridan](https://circlelab.unc.edu/) an
 
 My research heavily focuses on the Dimensional Model of Adversity and Psychopathology (DMAP), you can read more about it here:
 1. Conceptual manuscritps: [McLaughlin et al(2014)](https://www.sciencedirect.com/science/article/pii/S0149763414002620); [Sheridan & McLAughlin (2014)](https://www.sciencedirect.com/science/article/pii/S1364661314002022); [McLaughlin & Sheridan (2016)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://journals.sagepub.com/doi/pdf/10.1177/0963721416655883); [Sheridan & McLaughlin (2016)](https://www.sciencedirect.com/science/article/pii/S2352154616301140).
-2. The importance of dimensional models: [McLaughlin et al (2021](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://journals.sagepub.com/doi/pdf/10.1177/1745691621992346)
-3. Measurement of deprivation and threat: [Berman et al (2022))](https://www.cambridge.org/core/journals/development-and-psychopathology/article/measuring-early-life-adversity-a-dimensional-approach/C7C005748EFA5E6C1DF1503E1D2A51B0)
+2. The importance of dimensional models: [McLaughlin et al (2021)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://journals.sagepub.com/doi/pdf/10.1177/1745691621992346)
+3. Measurement of deprivation and threat: [Berman et al (2022)](https://www.cambridge.org/core/journals/development-and-psychopathology/article/measuring-early-life-adversity-a-dimensional-approach/C7C005748EFA5E6C1DF1503E1D2A51B0)
 
 Currently, I am leading on the the following projects:
 1. **Behavioral adaptations to early adversity: A 7-year longitudinal study.** Using data from the Durham Child Health and Development Study, I'm exploring how deprivation and threat differentially predict cognitive abilities and emotional learning during the first 7 years of life. I am also exploring whether deprivation and threat predict psychopathology and academic achievement. 
