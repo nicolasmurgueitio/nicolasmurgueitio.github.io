@@ -32,7 +32,7 @@ I am currently *leading* the following projects:
 
 3. **Do deprivation and threat differentially predict amygdala-vmPFC connectivity? A meta-analytic review.** I am currently reviewing the existing literature on early adversity and fear circuitry (ie, amygdala-vmPFC connectivity), in order to explore whether threat and deprivation differentially predict it.  **Collaborators/Mentors:** Margaret Sheridan, Meredith Gruhn, Esmeralda Navarro, Amy Carolus.
 
-4. **The role of the gut microbiome on emotional learning neural structure and function during infancy.** Using machine learning I am looking at the predictive capacity of the gut microbiome on emotional learning neural structure and function during infancy. I am using data from the Brain and Early Experiences Study (BEE, PI: Cathi Propper). **Collaborators/Mentors:** Cathi Propper, Margaret Sheridan, Rebecca Knickmeyer (MSU), Sarah Short (UW Madison).
+4. **The role of the gut microbiome on emotional learning neural structure and function during infancy.** Using machine learning I am looking at the predictive capacity of the gut microbiome on emotional learning neural structure and function during infancy. I am using data from the Brain and Early Experiences Study (BEE, PI: Cathi Propper). **Collaborators/Mentors:** Cathi Propper, Margaret Sheridan, Rebecca Knickmeyer (MSU), Sarah Short (UW Madison). [Here](https://github.com/nicolasmurgueitio/RandomForestBrainMicrobiome) is code I am currently working on for this project. 
 
 To read more about some of these projects please visit my [OSF profile](https://osf.io/profile/?view_only=02023f70035a49e6b56eb969a50ae3ea). I am also working to make my code accesible and reproducible using [GitHub](https://github.com/nicolasmurgueitio). 
 
