@@ -1,6 +1,11 @@
 
-# <div align="center"> **Nicolas Murgueitio**
-## <div align="center"> **Graduate Student at the University of North Carolina at Chapel Hill**
+<div align="center"> 
+
+#  **Nicolas Murgueitio**
+
+##  **Graduate Student at the University of North Carolina at Chapel Hill**
+
+</p>
 
 I am a graduate student working at the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs. My research broadly explores 1) emotional learning circuits that are preserved across species, such as fear neurocircuitry, and parental modulation of fear learning, 2) how dimensions of adversity differentially impact brain and behavioral development, and 3) the role of the gut microbiome on emotional neural development. To explore these questions I use a variety of methodologies and approaches including behavioral assesments, MRI and fMRI, EDA and RSA, parent-reported questionnaires, microbial gene sequences, machine learning, and other advanced statistical techniques. 
 
