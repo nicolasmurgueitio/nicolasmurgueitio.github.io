@@ -6,11 +6,11 @@ I am a graduate student working at the [Sheridan](https://circlelab.unc.edu/) an
 
 My research broadly explores: 
 
-1) **Emotional learning circuits preserved across species, such as fear neurocircuitry, and parental modulation of fear learning.** These circuits have a great translational capacity, both from animal models to basic human research, and from basic to clinical human research. Focusing on these emotional learning circuits and structures can help us understand the effects of trauma, and the role of parents, in the development of psychiatric disorders. 
+1) **Fear learning circuits preserved across species, and parental modulation of fear.** These circuits have a great translational capacity, both from animal models to basic human research, and from basic to clinical human research. Focusing on fear learning circuitry and structure can help us understand the effects of trauma, and the role of parents, in the development of psychiatric disorders. 
 
 2) **How dimensions of adversity differentially impact brain and behavioral development.** Studying the impact early adversity on neural development with a dimensional lense has the capacity to ellucidate pathways to be targetted through learning interventions, such as cognitive training, cognitive reappraisal, and discrimination training. 
 
-3) **The role of the gut microbiome on emotional neural development.** I believe that least *part* of the inequalities we see in mental health and achievement are due to food insecurity and malnutrition. The gut microbiome brings to light innovative ways to intervene in children's emotional development through human nutrition, using pre and probiotics. 
+3) **The role of the gut microbiome on affective neural development.** I believe that least *part* of the inequalities we see in mental health and achievement are due to food insecurity and malnutrition. The gut microbiome brings to light innovative ways to intervene in children's emotional development through human nutrition, using pre and probiotics. 
 
 To explore these questions I use a variety of methodologies and approaches including behavioral assesments, MRI and fMRI, EDA and RSA, parent-reported questionnaires, microbial gene sequences, machine learning, and other advanced statistical techniques. 
 
@@ -32,7 +32,7 @@ I am currently *leading* the following projects:
 
 3. **Do deprivation and threat differentially predict amygdala-vmPFC connectivity? A meta-analytic review.** I am currently reviewing the existing literature on early adversity and fear circuitry (ie, amygdala-vmPFC connectivity), in order to explore whether threat and deprivation differentially predict it.  **Collaborators/Mentors:** Margaret Sheridan, Meredith Gruhn, Esmeralda Navarro, Amy Carolus.
 
-4. **The role of the gut microbiome on emotional learning neural structure and function during infancy.** Using machine learning I am looking at the predictive capacity of the gut microbiome on emotional learning neural structure and function during infancy. I am using data from the Brain and Early Experiences Study (BEE, PI: Cathi Propper). **Collaborators/Mentors:** Cathi Propper, Margaret Sheridan, Rebecca Knickmeyer (MSU), Sarah Short (UW Madison). [Here](https://github.com/nicolasmurgueitio/RandomForestBrainMicrobiome) is code I am currently working on for this project. 
+4. **The role of the gut microbiome on affective neural structure and function during infancy.** Using machine learning I am looking at the predictive capacity of the gut microbiome on affective neural structure and function during infancy. I am using data from the Brain and Early Experiences Study (BEE, PI: Cathi Propper). **Collaborators/Mentors:** Cathi Propper, Margaret Sheridan, Rebecca Knickmeyer (MSU), Sarah Short (UW Madison), Nick Wagner (BU). [Here](https://github.com/nicolasmurgueitio/RandomForestBrainMicrobiome) is code I am currently working on for this project. 
 
 To read more about some of these projects please visit my [OSF profile](https://osf.io/profile/?view_only=02023f70035a49e6b56eb969a50ae3ea). I am also working to make my code accesible and reproducible using [GitHub](https://github.com/nicolasmurgueitio). 
 
