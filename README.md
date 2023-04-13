@@ -6,11 +6,13 @@ I am a graduate student working at the [Sheridan](https://circlelab.unc.edu/) an
 
 My research broadly explores: 
 
-1) **Neuro-affectitve circuitry preserved across species, and parental modulation of fear.** These circuits have a great translational capacity, both from animal models to basic human research, and from basic to clinical human research. Focusing on neuro-affectitve circuitry and structure can help us understand the effects of trauma, and the role of parents, in the development of anxiety and trauma-related disorders. 
+1) **Neuro-affectitve circuitry preserved across species, and parental modulation of fear.** These circuits have a great translational capacity, both from animal models to basic human research, and from basic to clinical human research. Focusing on neuro-affectitve circuitry and structure can help us understand the effects of trauma, in the development of anxiety and trauma-related disorders. 
 
 2) **How dimensions of adversity differentially impact brain and behavioral development.** Studying the impact early adversity on neural development with a dimensional lense has the capacity to ellucidate pathways to be targetted through learning interventions (e.g., cognitive training, cognitive reappraisal, and discrimination training).  
 
-3) **The role of the gut microbiome on neuro-affectitve development.** The gut microbiome, a robust body of bacteria residing in the gastrointestinal tract, brings to light innovative ways to intervene in children's neuro-affectitve development through human nutrition, for example, using prebiotics, probiotics, and antibiotics.  
+3) **Children's neural and behavioral responses to parental stimuli.** Offspring have shown to display behavioral and neural preferences towards parents and parental-related stimuli across altricial species. Understanding the neural mechanisms of these preferences could elucidate future parent-based interventions. 
+
+4) **The role of the gut microbiome on neuro-affectitve development.** The gut microbiome, a robust body of bacteria residing in the gastrointestinal tract, brings to light innovative ways to intervene in children's neuro-affectitve development through human nutrition, for example, using prebiotics, probiotics, and antibiotics.  
 
 To explore these questions I use a variety of methodologies and approaches including behavioral assesments, MRI and fMRI, EDA, RSA, parent-reported questionnaires, microbial gene sequences, machine learning, and other advanced statistical techniques. 
 
@@ -28,7 +30,9 @@ I am currently *leading* the following projects:
 
 1. **Behavioral adaptations to early adversity: A 7-year longitudinal study.** I am exploring how cognitive deprivation and threat predict psychopathology and educational outcomes through emotional reactivity and cognitive control. I am also looking at whether socioeconomic disadvantage predicts experiences of deprivation and threat, and whether attachment security can moderate the effects of threat on emotional reactivity. For this project, I am using data from the Durham Child Health and Development Study (DCHD), a longitudinal project following children from 3-months to their school years in North Carolina. **Collaborators/Mentors:** Cathi Propper, Margaret Sheridan.
 
-2. **Exploring unpredictability as a dimension of early adversity.** I am using data-driven approaches, factor and network analyses, to explore how various measures and observations of fluctuations in children's environments cluster and relate with each other. For this project, I am working with data from the Wellness Health and Life Experiences Study (WHALE, PI: Margaret Sheridan). **Collaborators/Mentors:** Margaret Sheridan, Lucy Lurie.
+2. **Neural recruitment during parental stimuli.** I am using a novel fMRI emotion regulation task to explore how children's brains react to parental vs. non-parental stimuli. **Collaborators/Mentors**: Margaret Sheridan, Meredith Grunh, Kathryn Garrisi, Katie McLaughlin.
+
+4. **Exploring unpredictability as a dimension of early adversity.** I am using data-driven approaches, factor and network analyses, to explore how various measures and observations of fluctuations in children's environments cluster and relate with each other. For this project, I am working with data from the Wellness Health and Life Experiences Study (WHALE, PI: Margaret Sheridan). **Collaborators/Mentors:** Margaret Sheridan, Lucy Lurie.
 
 3. **Do deprivation and threat differentially predict amygdala-vmPFC connectivity? A meta-analytic review.** I am currently reviewing the existing literature on early adversity and amygdala-vmPFC resting and task-based neural activity, in order to explore whether threat and deprivation differentially predict it.  **Collaborators/Mentors:** Margaret Sheridan, Meredith Gruhn, Esmeralda Navarro, Amy Carolus, Kristen Lindquist.
 
@@ -36,6 +40,6 @@ I am currently *leading* the following projects:
 
 To read more about some of these projects please visit my [OSF profile](https://osf.io/profile/?view_only=02023f70035a49e6b56eb969a50ae3ea). I am also working to make my code accesible and reproducible using [GitHub](https://github.com/nicolasmurgueitio). 
 
-Aside from working on my own research projects I also TA for undergraduate courses in child development, mentor undergraduate and postbacc research assistants, collect neuroimaging data with toddlers, coordinate biosample storage and analyses, manage large/multidimensional data sets, and collaborate with other scientists in their own research projects. Some of these projects explore issues such as prenatal stress, diet, sleep, structural inequality, reward learning, and executive functioning.  
+Aside from working on my own research projects I also TA for undergraduate courses in child development, mentor undergraduate and postbacc research assistants, collect neuroimaging data with toddlers, coordinate biosample storage and analyses, manage large/multidimensional data sets, and collaborate with other scientists in their own research projects. Some of these projects explore issues such as prenatal stress, diet, sleep, structural inequality, reward learning, executive functioning, and emotion regulation. 
 
 If you are interested in talking about my research you can contact me at: [jnicolas@email.unc.edu](mailto:jnicolas@email.unc.edu), or dm in [twitter](https://twitter.com/jnmurgueitio). 
