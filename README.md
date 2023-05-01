@@ -31,7 +31,7 @@ I am currently *leading* the following projects:
 
     **Collaborators/Mentors:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Sarah Short (UW Madison), Robert Quinn (MSU), Martin     Styner (UNC), Rasmus Birn (UW Madison). 
     
-    ![Book logo](/insula2.png)
+    ![Book logo](/insula3.png)
 
 To read more about some of these projects please visit my [OSF profile](https://osf.io/profile/?view_only=02023f70035a49e6b56eb969a50ae3ea). I am also working to make my code accesible and reproducible using [GitHub](https://github.com/nicolasmurgueitio). 
 
