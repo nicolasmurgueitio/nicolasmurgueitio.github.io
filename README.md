@@ -11,7 +11,7 @@ I am currently *leading* the following projects:
 1. **Behavioral adaptations to early adversity: A 7-year longitudinal study.** I am exploring how cognitive deprivation and threat predict psychopathology and educational outcomes through emotional reactivity and cognitive control. I am also looking at whether socioeconomic disadvantage predicts experiences of cognitive deprivation and threat, and whether attachment security can moderate the effects of threat on emotional reactivity. 
 
     **Collaborators/Mentors:** Cathi Propper (UNC), Margaret Sheridan (UNC).
-    ![Book logo](/nicolasmurgueitio.github.io/model.png)
+    ![Book logo](/model.png)
 
 
 2. **Neural correlates of attachment learning.** I am using fMRI to explore how children's brains react to caregiver vs. non-caregiver scaffolds during a novel fMRI emotion regulation paradigm. Additionally, I am exploring how changes in caregiver impact these neural processess. 
