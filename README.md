@@ -4,7 +4,7 @@
 
 I am a graduate student working at the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs. Broadly, my research explores how early adversity impacts the brain and behaviors. I am particularly interested in emotional learning (e.g., fear learning, emotion regulation), and social (e.g., attachment learning) processess. 
 
-To explore my questions and hypotheses I use a variety of methodologies and approaches including fMRI, MRI, EDA, RSA, parent-reported questionnaires, microbial gene sequences, behavioral assesmentes, machine learning, and other advanced statistical techniques. 
+To explore my questions and hypotheses I use a variety of methodologies and approaches including fMRI, MRI, EDA, RSA, parent-reported questionnaires, microbial gene sequences, behavioral assesments, machine learning, and other advanced statistical techniques. 
     
 I am currently *leading* the following projects:
 
