@@ -10,21 +10,19 @@ I am currently *leading* the following projects:
 
 1. **Behavioral adaptations to early adversity: A 7-year longitudinal study.** I am exploring how cognitive deprivation and threat predict psychopathology and educational outcomes through emotional reactivity and cognitive control. I am also looking at whether socioeconomic disadvantage predicts experiences of cognitive deprivation and threat, and whether attachment security can moderate the effects of threat on emotional reactivity. 
 
-**Collaborators/Mentors:** Cathi Propper (UNC), Margaret Sheridan (UNC).
+    **Collaborators/Mentors:** Cathi Propper (UNC), Margaret Sheridan (UNC).
 
 2. **Neural correlates of attachment learning.** I am using fMRI to explore how children's brains react to caregiver vs. non-caregiver scaffolds during a novel fMRI emotion regulation paradigm. Additionally, I am exploring how changes in caregiver impact these neural processess. 
 
-**Collaborators/Mentors**: Margaret Sheridan (UNC), Regina Sullivan (NYU), Kathryn Garrisi (UNC), Katie McLaughlin (Harvard University).
+    **Collaborators/Mentors**: Margaret Sheridan (UNC), Regina Sullivan (NYU), Kathryn Garrisi (UNC), Katie McLaughlin (Harvard University).
 
 3. **Do deprivation and threat differentially predict amygdala-vmPFC connectivity? A meta-analytic review.** I am currently reviewing the fMRI literature on early adversity and amygdala-vmPFC connectivity across resting-state and task-based studies. This, in order to explore whether threat and cognitive deprivation, or mixed exposures (e.g., child maltreatment), differentially predict it.  
 
-**Collaborators/Mentors:** Margaret Sheridan (UNC), Meredith Gruhn (UNC), Esmeralda Navarro (UNC), Amy Carolus (UNC), Kristen Lindquist (UNC).
+    **Collaborators/Mentors:** Margaret Sheridan (UNC), Meredith Gruhn (UNC), Esmeralda Navarro (UNC), Amy Carolus (UNC), Kristen Lindquist (UNC).
 
-4. **The role of the gut microbiome on neuro-affectitve development infancy.** Using machine learning I am looking at the predictive capacity of the gut microbiome on neuro-affectitve deelopment during infancy. These include outcomes such as neural structures that support neuro-affective development (e.g., amygdala, insula), functional connectivity, and behaviors (e.g., behavioral reactivity, self-regulation) . 
+4. **The role of the gut microbiome on neuro-affectitve development infancy.** Using machine learning I am looking at the predictive capacity of the gut microbiome on neuro-affectitve deelopment during infancy. These include outcomes such as neural structures that support neuro-affective development (e.g., amygdala, insula), functional connectivity, and behaviors (e.g., behavioral reactivity, self-regulation). [Here](https://github.com/nicolasmurgueitio/RandomForestBrainMicrobiome) is code I am currently working on for this project.
 
-**Collaborators/Mentors:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Sarah Short (UW Madison), Robert Quinn (MSU), Martin Styner (UNC). 
-
-[Here](https://github.com/nicolasmurgueitio/RandomForestBrainMicrobiome) is code I am currently working on for this project. 
+    **Collaborators/Mentors:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Sarah Short (UW Madison), Robert Quinn (MSU), Martin     Styner (UNC). 
 
 To read more about some of these projects please visit my [OSF profile](https://osf.io/profile/?view_only=02023f70035a49e6b56eb969a50ae3ea). I am also working to make my code accesible and reproducible using [GitHub](https://github.com/nicolasmurgueitio). 
 
