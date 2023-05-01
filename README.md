@@ -27,7 +27,7 @@ I am currently *leading* the following projects:
 4. **The role of the gut microbiome on neuro-affectitve development infancy.** Using machine learning I am looking at the predictive capacity of the gut microbiome on neuro-affectitve deelopment during infancy. These include outcomes such as neural structures that support neuro-affective development (e.g., amygdala, insula), functional connectivity, and behaviors (e.g., behavioral reactivity, self-regulation). [Here](https://github.com/nicolasmurgueitio/RandomForestBrainMicrobiome) is code I am currently working on for this project.
 
     **Collaborators/Mentors:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Sarah Short (UW Madison), Robert Quinn (MSU), Martin     Styner (UNC). 
-    ![Book logo](/insula.png)
+    ![Book logo](/insula2.png)
 
 To read more about some of these projects please visit my [OSF profile](https://osf.io/profile/?view_only=02023f70035a49e6b56eb969a50ae3ea). I am also working to make my code accesible and reproducible using [GitHub](https://github.com/nicolasmurgueitio). 
 
