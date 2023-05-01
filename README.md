@@ -15,7 +15,7 @@ I am currently *leading* the following projects:
     ![Book logo](/model.png)
 
 
-2. **Neural correlates of attachment learning.** I am using fMRI to explore how children's brains react to caregiver vs. non-caregiver scaffolds during a novel fMRI emotion regulation paradigm. Additionally, I am exploring how changes in caregiver impact these neural processess. 
+2. **Neural correlates of attachment learning.** I am using fMRI to explore how children's brains react to caregiver vs. non-caregiver scaffolds during a novel emotion regulation paradigm. Additionally, I am exploring how changes in caregiver impact these neural processess. 
 
     **Collaborators/Mentors**: Margaret Sheridan (UNC), Regina Sullivan (NYU), Kathryn Garrisi (UNC), Katie McLaughlin (Harvard University).
     
@@ -27,7 +27,7 @@ I am currently *leading* the following projects:
     
     ![Book logo](/con.png)
 
-4. **The role of the gut microbiome on neuro-affectitve development.** Using machine learning I am looking at the predictive capacity of the gut microbiome on neuro-affectitve deelopment during infancy. These include outcomes such as neural structures that support neuro-affective development (e.g., amygdala, insula), functional connectivity, and behaviors (e.g., behavioral reactivity, self-regulation). [Here](https://github.com/nicolasmurgueitio/RandomForestBrainMicrobiome) is code I am currently working on for this project.
+4. **The role of the gut microbiome on neuro-affectitve development.** Using machine learning I am looking at the predictive capacity of the gut microbiome on neuro-affectitve development during infancy. These include outcomes such as neural structures that support neuro-affective development (e.g., amygdala, insula), functional connectivity, and behaviors (e.g., behavioral reactivity, self-regulation). [Here](https://github.com/nicolasmurgueitio/RandomForestBrainMicrobiome) is code I am currently working on for this project.
 
     **Collaborators/Mentors:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Sarah Short (UW Madison), Robert Quinn (MSU), Martin     Styner (UNC), Rasmus Birn (UW Madison). 
     
