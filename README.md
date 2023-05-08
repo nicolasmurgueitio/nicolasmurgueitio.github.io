@@ -1,12 +1,12 @@
 #  **Nicolas Murgueitio**
 
-##  **Graduate Student at the University of North Carolina at Chapel Hill**
+##  **Affective-Social Neuroscience, PhD Student @ UNC Chapel Hill**
 
-I am a graduate student working at the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs. Primarly, my research explores how species-expectanct (e.g., caregiving) and species-dependent (e.g., interpersonal violence) experiences impact behavioral and neural development. Additionally, I also explore the influences that the gut microbiome has on neural development. To explore my questions and hypotheses I use a variety of methodologies and approaches including fMRI, MRI, EDA, RSA, parent-reported questionnaires, microbial gene sequences, behavioral assesments, machine learning, and other advanced statistical techniques. 
+I am a graduate student working at the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs. Primarly, my research explores how species-expectant (e.g., caregiving) and species-dependent (e.g., interpersonal violence) experiences impact behavioral and neural development. Additionally, I also study the influence that the gut microbiome has on neural development. I am particularly interested in neural processes as they relate to basic emotional learning (e.g., fear learning), and more complex social processes (e.g., attachment learning). To explore my questions and hypotheses I use a variety of methodologies and approaches including fMRI, MRI, EDA, RSA, parent-reported questionnaires, microbial gene sequences, behavioral assesments, machine learning, and other advanced statistical techniques. 
     
 I am currently *leading* the following projects:
 
-1. **Behavioral adaptations to early adversity: A 7-year longitudinal study.** I am exploring how cognitive deprivation and threat predict psychopathology and educational outcomes through emotional reactivity and cognitive control. I am also looking at whether socioeconomic disadvantage predicts experiences of cognitive deprivation and threat, and whether attachment security can moderate the effects of threat on emotional reactivity. 
+1. **Behavioral adaptations to early adversity** I am exploring how cognitive deprivation and threat predict psychopathology and educational outcomes through emotional reactivity and cognitive control. I am also looking at whether socioeconomic disadvantage predicts experiences of cognitive deprivation and threat, and seeing whether there are differences in these associations by attachment types (i.e., secure vs. insecure). 
 
     **Collaborators/Mentors:** Cathi Propper (UNC), Margaret Sheridan (UNC).
     
@@ -19,7 +19,7 @@ I am currently *leading* the following projects:
     
     ![Book logo](/scaff.png)
 
-3. **Do deprivation and threat differentially predict amygdala-vmPFC connectivity? A meta-analytic review.** I am currently reviewing the fMRI literature on early adversity and amygdala-vmPFC connectivity across resting-state and task-based studies. This, in order to explore whether threat and cognitive deprivation, or mixed exposures (e.g., child maltreatment), differentially predict it.  
+3. **Do deprivation and threat differentially predict amygdala-mPFC connectivity? A meta-analytic review.** I am currently reviewing the fMRI literature on early adversity and amygdala-mPFC connectivity across resting-state and task-based studies. 
 
     **Collaborators/Mentors:** Margaret Sheridan (UNC), Meredith Gruhn (UNC), Esmeralda Navarro (UNC), Amy Carolus (UNC), Kristen Lindquist (UNC).
     
