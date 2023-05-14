@@ -2,7 +2,7 @@
 
 ##  **Affective-Social Neuroscience, PhD Student @ UNC Chapel Hill**
 
-I am a graduate student working at the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs. Primarly, my research explores how species-expectant (e.g., caregiving) and species-dependent (e.g., interpersonal violence) experiences impact behavioral and neural development. Additionally, I also study the influence that the gut microbiome has on neural development. I am particularly interested in neural processes as they relate to basic emotional learning (e.g., fear learning), and more complex social processes (e.g., attachment learning). To explore my questions and hypotheses I use a variety of methodologies and approaches including fMRI, MRI, EDA, RSA, parent-reported questionnaires, microbial gene sequences, behavioral assesments, machine learning, and other advanced statistical techniques. 
+I am a graduate student working at the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs. Primarly, my research explores experience-expectant (e.g., caregiving), and experience-dependent (e.g., interpersonal violence) neural and behavioral development. Additionally, I  study the role of the gut microbiome on neural development. I am particularly interested in neural processes as they relate to basic emotional learning (e.g., fear learning), and more complex social processes (e.g., attachment learning). To explore my questions and hypotheses I use a variety of methodologies and approaches including fMRI, MRI, EDA, RSA, parent-reported questionnaires, microbial gene sequences, behavioral assesments, machine learning, and other advanced statistical techniques. 
     
 I am currently *leading* the following projects:
 
