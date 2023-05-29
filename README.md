@@ -2,7 +2,7 @@
 
 ##  **Affective-Social Neuroscience, PhD Student @ UNC Chapel Hill**
 
-I am a graduate student working at the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs. Primarly, my research explores experience-expectant (e.g., caregiving), and experience-dependent (e.g., interpersonal violence) neural and behavioral development. Additionally, I  study the role of the gut microbiome on neural development. I am particularly interested in neural processes as they relate to basic emotional learning (e.g., fear learning), and more complex social processes (e.g., attachment learning). To explore my questions and hypotheses I use a variety of methodologies and approaches including fMRI, MRI, EDA, RSA, parent-reported questionnaires, microbial gene sequences, behavioral assesments, machine learning, and other advanced statistical techniques. 
+I am a graduate student working in the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs. Primarly, my research explores experience-expectant (e.g., caregiving), and experience-dependent (e.g., interpersonal violence) neural and behavioral development. Additionally, I  study the role of the gut microbiome on neural development. I am particularly interested in neural processes as they relate to basic emotional learning (e.g., fear learning), and more complex social processes. To explore my questions and hypotheses I use a variety of methodologies and approaches including fMRI, MRI, EDA, RSA, parent-reported questionnaires, microbial gene sequences, behavioral assesments, machine learning, and other advanced statistical techniques. 
     
 I am currently *leading* the following projects:
 
@@ -25,7 +25,7 @@ I am currently *leading* the following projects:
     
     ![Book logo](/con.png)
 
-4. **The role of the gut microbiome on neuro-affectitve development.** Using machine learning I am looking at the predictive capacity of the gut microbiome on neuro-affectitve development during infancy. These include outcomes such as neural structures that support neuro-affective development (e.g., amygdala, insula), functional connectivity, and behaviors (e.g., behavioral reactivity, self-regulation). [Here](https://github.com/nicolasmurgueitio/RandomForestBrainMicrobiome) is code I am currently working on for this project.
+4. **The role of the gut microbiome on neuro-affectitve development.**  I am looking at the predictive capacity of the gut microbiome on neuro-affectitve development across infancy. These include outcomes such as neural structures that support neuro-affective development (e.g., amygdala, insula), functional connectivity between these structures, and behaviors (i.e., behavioral reactivity and self-regulation). [Here](https://github.com/nicolasmurgueitio/RandomForestBrainMicrobiome) is code I am currently working on for this project.
 
     **Collaborators/Mentors:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Sarah Short (UW Madison), Robert Quinn (MSU), Martin     Styner (UNC), Rasmus Birn (UW Madison). 
     
