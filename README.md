@@ -6,7 +6,7 @@ I am a graduate student working at the [Sheridan](https://circlelab.unc.edu/) an
     
 I am currently *leading* the following projects:
 
-1. **Behavioral adaptations to early adversity** I am exploring how cognitive deprivation and threat predict psychopathology and educational outcomes through emotional reactivity and cognitive control. I am also looking at whether socioeconomic disadvantage predicts experiences of cognitive deprivation and threat, and seeing whether there are differences in these associations by attachment types (i.e., secure vs. insecure). 
+1. **Behavioral adaptations to early adversity** I am exploring how cognitive deprivation and threat predict psychopathology and educational outcomes through cognitive control and emotional reactivity.
 
     **Collaborators/Mentors:** Cathi Propper (UNC), Margaret Sheridan (UNC).
     
