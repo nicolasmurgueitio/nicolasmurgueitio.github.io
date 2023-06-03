@@ -45,6 +45,6 @@ I am currently *leading* the following projects:
 
 To read more about some of these projects please visit my [OSF profile](https://osf.io/profile/?view_only=02023f70035a49e6b56eb969a50ae3ea). I am also working to make my code accesible and reproducible using [GitHub](https://github.com/nicolasmurgueitio). 
 
-Aside from working on my own research projects I also TA for undergraduate courses in child development, mentor undergraduate and postbacc research assistants, collect neuroimaging data with toddlers, manage large/multidimensional data sets, and collaborate with other scientists in their own research projects. Some of these projects explore issues such as prenatal stress, diet, sleep, structural inequality, reward learning, executive function, emotion regulation, and even physical health. 
+Aside from working on my own research projects I also TA for undergraduate courses in child development, mentor undergraduate and postbacc research assistants, collect neuroimaging data with toddlers, manage large/multidimensional data sets, and collaborate with other scientists in their own research projects. Some of these projects explore issues such as prenatal stress, diet, sleep, structural inequality, reward learning, executive function, emotion regulation, physical brain, and mother's cognition. 
 
 If you are interested in talking about my research you can contact me at: [jnicolas@email.unc.edu](mailto:jnicolas@email.unc.edu), or dm in [twitter](https://twitter.com/jnmurgueitio). 
