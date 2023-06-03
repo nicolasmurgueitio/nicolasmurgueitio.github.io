@@ -1,38 +1,50 @@
 #  **Nicolas Murgueitio**
 
-##  **Affective-Social Neuroscience, PhD Student @ UNC Chapel Hill**
+##  **Developmental Neuroscience, PhD Student at UNC**
 
-I am a graduate student working in the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs. Primarly, my research explores experience-expectant (e.g., caregiving), and experience-dependent (e.g., interpersonal violence) neural and behavioral development. Additionally, I  study the role of the gut microbiome on neural development. I am particularly interested in neural processes as they relate to basic emotional learning (e.g., fear learning), and more complex social processes. To explore my questions and hypotheses I use a variety of methodologies and approaches including fMRI, MRI, EDA, RSA, parent-reported questionnaires, microbial gene sequences, behavioral assesments, machine learning, and other advanced statistical techniques. 
+I am a graduate student working in the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs. Primarly, my research explores experience-expectant (e.g., caregiving), and experience-dependent (e.g., interpersonal violence) neural and behavioral development. Additionally, I  study the role of the gut microbiome on brain development. I am particularly interested in neural processes as they relate to basic emotional learning (e.g., fear learning, emotional reactivity), and more complex social processes (e.g., social skills). To explore my questions I use a variety of methodologies and approaches including fMRI, MRI, EDA, RSA, parent-reported questionnaires, microbial gene sequences, behavioral assesments, statistical modeling, and machine learning. 
     
 I am currently *leading* the following projects:
 
-1. **Behavioral adaptations to early adversity** I am exploring how cognitive deprivation and threat predict psychopathology and educational outcomes through cognitive control and emotional reactivity.
+1. **Behavioral adaptations to early adversity.** Cognitive deprivation and threat are two dimensions of adversity that uniquely contribute to behavioral and neural development. This approach is promising in not only understanding how adversity puts children at risk of negative outcomes, but also in informing learning-focused intervention strategies. Using data from the Durham Child Health and Development Study (DCHD), I am exploring how cognitive deprivation and threat uniquely contribute to the development of psychopathology and school achievement through differences in cognitive control and emotional reactivity. 
 
-    **Collaborators/Mentors:** Cathi Propper (UNC), Margaret Sheridan (UNC).
+    **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC). 
     
     ![Book logo](/model.png)
 
 
-2. **Neural correlates of attachment learning.** I am using fMRI to explore how children's brains react to caregiver vs. non-caregiver scaffolds during a novel emotion regulation paradigm. Additionally, I am exploring how changes in caregiver impact these neural processess. 
+2. **Neural correlates of attachment learning.** Attachment learning is the process by which children learn to approach and prefer parents and parent-related cues. However, the neural correlates of this process in humans still needs to be commpletely understood. Using a novel fMRI paradigm of emotion regulation, I am exploring how the brain activates to caregiver-cues. 
 
-    **Collaborators/Mentors**: Margaret Sheridan (UNC), Regina Sullivan (NYU), Kathryn Garrisi (UNC), Katie McLaughlin (Harvard University).
+    **Collaborators**: Margaret Sheridan (UNC), Regina Sullivan (NYU), Kathryn Garrisi (UNC), Katie McLaughlin (Harvard University).
     
     ![Book logo](/scaff.png)
 
-3. **Do deprivation and threat differentially predict amygdala-mPFC connectivity? A meta-analytic review.** I am currently reviewing the fMRI literature on early adversity and amygdala-mPFC connectivity across resting-state and task-based studies. 
+3. **Emotion socialization, adversity, and socioemotional development.**. Early adversity is an important contributor to children's development. However, experiences of enrichment are also a powerful source of development. Socialization of emotions is a process by which children adquire knowledge about emotions (e.g., emotions are good or bad, etc). The main contributors of this process are parents. We are exploring how emotion socialization (i.e., parent beliefs about emotions) contribute to the development of socioemotional development such as emotion recognition, social skills, and anger bias above and beyond cognitive deprivation and threat. 
 
-    **Collaborators/Mentors:** Margaret Sheridan (UNC), Meredith Gruhn (UNC), Esmeralda Navarro (UNC), Amy Carolus (UNC), Kristen Lindquist (UNC).
+    **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC). 
+    
+    ![Book logo](/emo.png)
+
+4. **Dimensions of adversity and amygdala-mPFC connectivity? A meta-analytic review.** The control of the medial prefrontal cortex (mPFC) over the amygdala has been studied extensively because of its importance in emotional processess such as fear extinction and emotion regulation. However, experiences of early adversity could affect how this important circuit behaves. We are eviewing the neuroimaging literature on amygdala-mPFC connectivity, we are exploring how different dimensions of adversity (e.g., cognitive deprivation, threat, mixed exposures) relate to it. 
+
+    **Collaborators:** Margaret Sheridan (UNC), Meredith Gruhn (UNC), Esmeralda Navarro (UNC), Amy Carolus (UNC), Kristen Lindquist (UNC).
     
     ![Book logo](/con.png)
 
-4. **The role of the gut microbiome on neuro-affectitve development.**  I am looking at the predictive capacity of the gut microbiome on neuro-affectitve development across infancy. These include outcomes such as neural structures that support neuro-affective development (e.g., amygdala, insula), functional connectivity between these structures, and behaviors (i.e., behavioral reactivity and self-regulation). [Here](https://github.com/nicolasmurgueitio/RandomForestBrainMicrobiome) is code I am currently working on for this project.
+5. **When do we start to see the unique contributions of deprivation and threat on behavioral development?** Research shows that both cognitive deprivation and threat uniquely contribute to development. We have seen evidence of this as early as 4 years of age. Using data from the Brain and Early Experience (BEE) Study, we are exploring unique contributions of cognitive deprivation and threat on behavioral development at 6 and 18 months of age
 
-    **Collaborators/Mentors:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Sarah Short (UW Madison), Robert Quinn (MSU), Martin     Styner (UNC), Rasmus Birn (UW Madison). 
+    **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC). 
+    
+    ![Book logo](/bee.png)
+
+6. **Microbiome and emotional development.** Studying how the microbiome relates to brain and behavior opens the door for important nutritional interventions for psychiatric disorders to be developed. We are exploring associations between the gut microbiome and various indices of emotional development (i.e., brain structure, functional connectivity, observed behavior) as early as 2 weeks of age. 
+
+    **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Sarah Short (UW Madison), Robert Quinn (MSU), Martin Styner (UNC), Rasmus Birn (UW Madison). 
     
     ![Book logo](/insula3.png)
 
 To read more about some of these projects please visit my [OSF profile](https://osf.io/profile/?view_only=02023f70035a49e6b56eb969a50ae3ea). I am also working to make my code accesible and reproducible using [GitHub](https://github.com/nicolasmurgueitio). 
 
-Aside from working on my own research projects I also TA for undergraduate courses in child development, mentor undergraduate and postbacc research assistants, collect neuroimaging data with toddlers, coordinate biosample storage and analyses, manage large/multidimensional data sets, and collaborate with other scientists in their own research projects. Some of these projects explore issues such as prenatal stress, diet, sleep, structural inequality, reward learning, executive functioning, and emotion regulation. 
+Aside from working on my own research projects I also TA for undergraduate courses in child development, mentor undergraduate and postbacc research assistants, collect neuroimaging data with toddlers, manage large/multidimensional data sets, and collaborate with other scientists in their own research projects. Some of these projects explore issues such as prenatal stress, diet, sleep, structural inequality, reward learning, executive function, emotion regulation, and even physical health. 
 
 If you are interested in talking about my research you can contact me at: [jnicolas@email.unc.edu](mailto:jnicolas@email.unc.edu), or dm in [twitter](https://twitter.com/jnmurgueitio). 
