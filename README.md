@@ -31,20 +31,14 @@ I am currently *leading* the following projects:
     
     ![Book logo](/con.png)
 
-5. **How early do we start to see differentiations between cognitive deprivation and threat on behavioral development?** Research shows that both cognitive deprivation and threat uniquely contribute to development. We have seen evidence of this as early as 4 years of age. Using data from the Brain and Early Experience (BEE) Study, we are exploring unique contributions of cognitive deprivation and threat on behavioral development at 6 and 18 months of age
-
-    **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC). 
-    
-    ![Book logo](/bee.png)
-
-6. **Unpredictability as dimension of early adversity.** Unpredictability, or random fluctuations in the family and physical environment, might be a unique dimension of early adversity by which children learn the importance of cues in their environment. We are using a variety of data-driven techniques (e.g., exploratory factor analysis) to explore how various measures of this (e.g., household chaos, food insecurity, parental environment) cluster and behave with each other. 
+5. **Unpredictability as dimension of early adversity.** Unpredictability, or random fluctuations in the family and physical environment, might be a unique dimension of early adversity by which children learn the importance of cues in their environment. We are using a variety of data-driven techniques (e.g., exploratory factor analysis) to explore how various measures of this (e.g., household chaos, food insecurity, parental environment) cluster and behave with each other. 
 
     **Collaborators:** Margaret Sheridan (UNC). 
     
     ![Book logo](/unp.png)
 
 
-10. **Microbiome and emotional development.** Studying how the microbiome relates to brain and behavior opens the door for important nutritional interventions for psychiatric disorders to be developed. We are exploring associations between the gut microbiome and various indices of emotional development (i.e., brain structure, functional connectivity, observed behavior) as early as 2 weeks of age. 
+6. **Microbiome and emotional development.** Studying how the microbiome relates to brain and behavior opens the door for important nutritional interventions for psychiatric disorders to be developed. We are exploring associations between the gut microbiome and various indices of emotional development (i.e., brain structure, functional connectivity, observed behavior) as early as 2 weeks of age. 
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Sarah Short (UW Madison), Robert Quinn (MSU), Martin Styner (UNC), Rasmus Birn (UW Madison). 
     
