@@ -35,7 +35,7 @@ I am currently *leading* the following projects:
 
     **Collaborators:** Margaret Sheridan (UNC). 
     
-    ![Book logo](/unp.png)
+    ![Book logo](/unp.jpg)
 
 
 6. **Microbiome and emotional development.** Studying how the microbiome relates to the brain and behavior opens the door for important nutritional interventions for psychiatric disorders to be developed. We are exploring associations between the gut microbiome and various indices of emotional development (i.e., brain structure, functional connectivity, observed behavior) as early as 2 weeks of age. 
