@@ -19,7 +19,7 @@ I am currently *leading* the following projects:
     
     ![Book logo](/scaff.png)
 
-3. **Socio affective pathways linking early adversity and emotion socialization to psychopathopathology.**. Early adversity is an important contributor to children's development. However, strategies used by parents to socialize emotional experiences are also a powerful source of development. Socialization of emotions is a process by which children acquire knowledge about emotions (e.g., emotions are good or bad, etc). The main contributors of this process are parents. We are exploring how early adversity and emotion socialization (i.e., parent beliefs about emotions) contribute to socioemotional development. 
+3. **Socio affective pathways linking early adversity and emotion socialization to psychopathopathology.**. Early adversity is an important contributor to children's development. However, strategies used by parents to socialize emotional experiences are also a powerful source of development. Socialization of emotions is a process by which children acquire knowledge about emotions (e.g., emotions are good or bad, etc). The main contributors to this process are parents. We are exploring how early adversity and emotion socialization (i.e., parent beliefs about emotions) contribute to socioemotional development. 
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Amy Halberstadt (NC State), Patricia Garretts-Peters (Duke).
     
