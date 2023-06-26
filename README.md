@@ -17,7 +17,7 @@ I am currently *leading* the following projects:
 
     **Collaborators**: Margaret Sheridan (UNC), Regina Sullivan (NYU), Kathryn Garrisi (UNC), Katie McLaughlin (Harvard University).
     
-    ![Book logo](/scaff.jpg)
+    ![Book logo](/scafff.jpg)
 
 3. **Socio affective pathways linking early adversity and emotion socialization to psychopathopathology.**. Early adversity is an important contributor to children's development. However, strategies used by parents to socialize emotional experiences are also a powerful source of development. Socialization of emotions is a process by which children acquire knowledge about emotions (e.g., emotions are good or bad, etc). The main contributors to this process are parents. We are exploring how early adversity and emotion socialization (i.e., parent beliefs about emotions) contribute to socioemotional development. 
 
