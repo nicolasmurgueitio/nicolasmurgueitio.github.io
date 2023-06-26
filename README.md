@@ -17,13 +17,13 @@ I am currently *leading* the following projects:
 
     **Collaborators**: Margaret Sheridan (UNC), Regina Sullivan (NYU), Kathryn Garrisi (UNC), Katie McLaughlin (Harvard University).
     
-    ![Book logo](/scaff.png)
+    ![Book logo](/scaff.jpg)
 
 3. **Socio affective pathways linking early adversity and emotion socialization to psychopathopathology.**. Early adversity is an important contributor to children's development. However, strategies used by parents to socialize emotional experiences are also a powerful source of development. Socialization of emotions is a process by which children acquire knowledge about emotions (e.g., emotions are good or bad, etc). The main contributors to this process are parents. We are exploring how early adversity and emotion socialization (i.e., parent beliefs about emotions) contribute to socioemotional development. 
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Amy Halberstadt (NC State), Patricia Garretts-Peters (Duke).
     
-    ![Book logo](/emo.png)
+    ![Book logo](/emo.jpg)
 
 4. **Dimensions of early adversity and amygdala-mPFC connectivity? A meta-analytic review.** The control of the medial prefrontal cortex (mPFC) over the amygdala has been studied extensively because of its importance in emotional processes such as fear extinction and automatic emotion regulation. However, experiences of early adversity could affect how this important circuit behaves. We are reviewing the neuroimaging literature on amygdala-mPFC connectivity, and exploring how different dimensions of adversity (e.g., cognitive deprivation, threat, mixed exposures) relate to it. 
 
