@@ -10,7 +10,7 @@ I am currently *leading* the following projects:
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC). 
     
-    ![Book logo](/model.png)
+    ![Book logo](/model.jpg)
 
 
 2. **Neural correlates of attachment learning.** Attachment learning is the process by which children learn to approach and prefer parents and parent-related cues. However, the neural correlates of this process in humans still need to be completely understood. Using a novel fMRI paradigm of emotion regulation, I am exploring how the brain activates to caregiver cues. 
