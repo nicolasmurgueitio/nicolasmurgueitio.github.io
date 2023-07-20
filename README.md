@@ -33,12 +33,16 @@ I am currently *leading* the following projects:
 
 5. **Unpredictability as a dimension of early adversity.** Unpredictability, or random fluctuations in the family and physical environment, might be a unique dimension of early adversity by which children learn the importance of cues in their environment. We are using a variety of data-driven techniques (e.g., exploratory factor analysis) to explore how various measures of unpredictable and chaotic environments (e.g., household chaos, food insecurity, instability) cluster and behave with each other. 
 
-    **Collaborators:** Margaret Sheridan (UNC). 
+    **Collaborators:** Margaret Sheridan (UNC), Katie McLaughlin (Harvard University)
+
+6. **Unpredictable and fragmented parental signals in early childhood.** A growing body of research is focused on measuring unpredictability within the observed parent-child interactions. This method is based on pre-clinical work with rodents, specifically the limited bedding and nesting (LBN) model. We are replicating previous work in infants on how unpredictability of parental signals impact behavioral regulation in early childhood.
+
+   **Collaborators:** Margaret Sheridan (UNC), Elysia P. Davis (University of Denver), Laura Glynn (Chapman University), Katie McLaughlin             (Harvard University)
     
     ![Book logo](/unp.jpg)
 
 
-6. **Microbiome and emotional development.** Studying how the microbiome relates to the brain and behavior opens the door for important nutritional interventions for psychiatric disorders to be developed. We are exploring associations between the gut microbiome and various indices of emotional development (i.e., brain structure, functional connectivity, observed behavior) as early as 2 weeks of age. 
+8. **Microbiome and emotional development.** Studying how the microbiome relates to the brain and behavior opens the door for important nutritional interventions for psychiatric disorders to be developed. We are exploring associations between the gut microbiome and various indices of emotional development (i.e., brain structure, functional connectivity, observed behavior) as early as 2 weeks of age. 
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Sarah Short (UW Madison), Robert Quinn (MSU), Martin Styner (UNC), Rasmus Birn (UW Madison). 
     
