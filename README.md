@@ -10,26 +10,25 @@ I am currently *leading* the following projects:
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC). 
     
-    ![Book logo](/model.jpg)
 
 
 2. **Neural correlates of attachment learning.** Attachment learning is the process by which children learn to approach and prefer parents and parent-related cues. However, the neural correlates of this process in humans still need to be completely understood. Using a novel fMRI paradigm of emotion regulation, where parents scaffold their children, I am exploring how the brain activates to caregiver vs. non-caregiver audiovisual stimuli.  
 
     **Collaborators**: Margaret Sheridan (UNC), Regina Sullivan (NYU), Kathryn Garrisi (UNC), Katie McLaughlin (Harvard University).
     
-    ![Book logo](/scafff.jpg)
+
 
 3. **Socio affective pathways linking early adversity and emotion socialization to psychopathopathology.**. Early adversity is an important contributor to children's development. However, strategies used by parents to socialize emotional experiences are also a powerful source of information in development. Socialization of emotions is a process by which children acquire knowledge about emotions (e.g., emotions are good or bad, etc). The main contributors to this process are parents. We are exploring how early adversity and emotion socialization (i.e., parent beliefs about emotions) contribute to socio affective development. 
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Amy Halberstadt (NC State), Patricia Garretts-Peters (Duke).
     
-    ![Book logo](/emo.jpg)
+   
 
 4. **Dimensions of early adversity and amygdala-mPFC connectivity: A meta-analytic review.** The control of the medial prefrontal cortex (mPFC) over the amygdala has been studied extensively because of its importance in emotional processes such as fear extinction and automatic emotion regulation. However, experiences of early adversity  affect how this important circuit behaves leading to deficits in these behavioral and mental processes. We are reviewing the neuroimaging literature on amygdala-mPFC connectivity, and exploring how different dimensions of adversity (e.g., deprivation, threat, mixed exposures) relate to it. 
 
     **Collaborators:** Margaret Sheridan (UNC), Meredith Gruhn (UNC), Esmeralda Navarro (UNC), Amy Carolus (UNC), Kristen Lindquist (UNC).
     
-    ![Book logo](/con.png)
+
 
 5. **Unpredictability as a dimension of early adversity.** Unpredictability, or random fluctuations in the family and physical environment, might be a unique dimension of adversity by which children learn the importance of cues in their environment. We are using a variety of data-driven techniques (e.g., exploratory factor analysis) to explore how various measures of unpredictable and chaotic environments (e.g., household chaos, food insecurity, instability) cluster and behave with each other. 
 
@@ -39,7 +38,7 @@ I am currently *leading* the following projects:
 
    **Collaborators:** Margaret Sheridan (UNC), Elysia P. Davis (University of Denver), Laura Glynn (Chapman University), Katie McLaughlin             (Harvard University)
     
-    ![Book logo](/unp.jpg)
+
 
 
 8. **Microbiome and brain development.** Studying how the microbiome relates to the brain opens the door for important nutritional interventions for psychiatric disorders to be developed. We are exploring associations between the gut microbiome and brain structures that support socioemotional processes (i.e., amygdala, insula, hippocampus) in neonates. 
@@ -50,7 +49,7 @@ I am currently *leading* the following projects:
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Sarah Short (UW Madison), Robert Quinn (MSU). 
    
-    ![Book logo](/gut.jpg)
+
 
 To read more about some of these projects please visit my [OSF profile](https://osf.io/profile/?view_only=02023f70035a49e6b56eb969a50ae3ea). I am also working to make my code accessible and reproducible using [GitHub](https://github.com/nicolasmurgueitio). 
 
