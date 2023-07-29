@@ -1,8 +1,8 @@
 #  **Nicolas Murgueitio**
 
-##  **Developmental Neuroscience, PhD Student at UNC**
+##  **Developmental Psychology and Neuroscience PhD Student at UNC**
 
-I am a graduate student working in the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs. My research has four main themes: 1) Exploring how childhood adversity, particularly threat, impacts the development of emotional learning and memory systems, and their underlying neurobiology; 2) The neural correlates of children’s processing and preference of parents and parental-related cues and information; 3) The role of the gut microbiome on neuro-affective development; and 4) Measurement of adversity in children. 
+I am a graduate student working in the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs. My research has four main themes: 1) Exploring how childhood adversity, particularly threat, impacts the development of emotional learning and memory systems, and their underlying neurobiology; 2) The neural correlates of children’s processing and preference of parents and parental-related cues and information; 3) The role of the gut microbiome on neuro-affective development; and 4) Measurement of adversity in children and families. 
 
 To explore my questions I use a variety of methodologies and approaches including fMRI, MRI, EDA, RSA, parent-reported questionnaires, microbial gene sequences, behavioral assessments, statistical modeling, and machine learning. 
     
