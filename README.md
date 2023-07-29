@@ -14,19 +14,19 @@ I am currently *leading* the following projects:
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC).
 
-2. **Socio affective pathways linking early adversity and emotion socialization to psychopathology.**. Early adversity is an important contributor to children's development. However, strategies used by parents to socialize emotional experiences are also a powerful source of information in development. Socialization of emotions is a process by which children acquire knowledge about emotions (e.g., emotions are good or bad, etc). The main contributors to this process are parents. We are exploring how early adversity and emotion socialization (i.e., parent beliefs about emotions) contribute to socio-affective development. 
+2. **Socio-affective pathways linking early adversity and emotion socialization to psychopathology.**. Early adversity is an important contributor to children's development. However, strategies used by parents to socialize emotional experiences are also a powerful source of information in development. Socialization of emotions is a process by which children acquire knowledge about emotions (e.g., emotions are good or bad, etc). The main contributors to this process are parents. We are exploring how early adversity and emotion socialization (i.e., parent beliefs about emotions) contribute to socio-affective development. 
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Amy Halberstadt (NC State), Patricia Garretts-Peters (Duke).
       
-3. **Dimensions of early adversity and amygdala-mPFC connectivity: A meta-analytic review.** The control of the medial prefrontal cortex (mPFC) over the amygdala has been studied extensively because of its importance in emotional processes such as fear extinction and automatic emotion regulation. However, experiences of early adversity  affect how this important circuit behaves leading to deficits in these behavioral and mental processes. We are reviewing the neuroimaging literature on amygdala-mPFC connectivity, and exploring how different dimensions of adversity (e.g., deprivation, threat, mixed exposures) relate to it. 
+3. **Dimensions of early adversity and amygdala-mPFC connectivity: A meta-analytic review.** The control of the medial prefrontal cortex (mPFC) over the amygdala has been studied extensively because of its importance in emotional processes such as fear extinction and automatic emotion regulation. However, experiences of early adversity  affect how this important circuit behaves leading to deficits in these behavioral and emotional mental processes. We are reviewing the neuroimaging literature on amygdala-mPFC connectivity, and exploring how different dimensions of adversity (e.g., deprivation, threat, mixed exposures) relate to it. 
 
     **Collaborators:** Margaret Sheridan (UNC), Meredith Gruhn (UNC), Esmeralda Navarro (UNC), Amy Carolus (UNC), Kristen Lindquist (UNC).
 
-4. **Unpredictability as a dimension of early adversity.** Unpredictability, or random fluctuations in the family and physical environment, might be a unique dimension of adversity by which children learn the importance of cues in their environment. We are using a variety of data-driven techniques (e.g., exploratory factor analysis) to explore how various measures of unpredictable and chaotic environments (e.g., household chaos, food insecurity, instability) cluster and behave with each other. 
+4. **Unpredictability as a dimension of early adversity.** Unpredictability, or random fluctuations in the family and physical environment, might be a unique dimension of adversity by which children learn the importance of cues in their environment. We are using data-driven techniques (e.g., exploratory factor analysis) to explore how various measures of unpredictable and chaotic environments (e.g., household chaos, food insecurity, instability) cluster and behave with each other. 
 
     **Collaborators:** Margaret Sheridan (UNC), Katie McLaughlin (Harvard University)
 
-5. **Unpredictable and fragmented parental signals in early childhood.** A growing body of research is focused on measuring unpredictability within the observed parent-child interactions. This method is based on pre-clinical work with rodents, specifically the limited bedding and nesting (LBN) model. We are replicating previous work in infants on how the unpredictability of parental signals impacts behavioral regulation in early childhood.
+5. **Unpredictable and fragmented parental signals in early childhood.** A growing body of research is focused on measuring unpredictability within the observed parent-child interactions. This method is based on pre-clinical work with rodents, specifically the limited bedding and nesting (LBN) model. We are replicating previous work in infants on how the unpredictable and fragmented parental signals impact behavioral regulation in early childhood.
 
    **Collaborators:** Margaret Sheridan (UNC), Elysia P. Davis (University of Denver), Laura Glynn (Chapman University), Katie McLaughlin             (Harvard University)
     
@@ -38,7 +38,7 @@ I am currently *leading* the following projects:
     
 **Gut Microbiome**
 
-1. **Microbiome and brain development.** Studying how the microbiome relates to the brain opens the door for important nutritional interventions for psychiatric disorders to be developed. We are exploring associations between the gut microbiome and brain structures that support socioemotional processes (i.e., amygdala, insula, hippocampus) in neonates. 
+1. **Microbiome and brain development.** Studying how the microbiome relates to the brain opens the door for important nutritional interventions for psychiatric disorders to be developed. We are exploring associations between the gut microbiome and brain structures that support emotional development (i.e., amygdala, insula, hippocampus) in neonates. 
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Sarah Short (UW Madison), Robert Quinn (MSU), Martin Styner (UNC). 
 
