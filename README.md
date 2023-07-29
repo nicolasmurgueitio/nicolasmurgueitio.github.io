@@ -2,7 +2,7 @@
 
 ##  **Developmental Neuroscience, PhD Student at UNC**
 
-I am a graduate student working in the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs. Primarily, my research explores experience-expectant (e.g., caregiving), and experience-dependent (e.g., interpersonal violence) neural and behavioral development. Additionally, I  study the role of the gut microbiome on brain development. I am particularly interested in neural processes as they relate to emotional processes such as fear learning, emotional reactivity and regulation. To explore my questions I use a variety of methodologies and approaches including fMRI, MRI, EDA, RSA, parent-reported questionnaires, microbial gene sequences, behavioral assessments, statistical modeling, and machine learning. 
+I am a graduate student working in the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs. My research has three main themes: 1) Exploring how childhood adversity, particularly threat, impacts the development of emotional learning and memory systems, and their underlying neurobiology; 2) The neural correlates of children’s processing and preference of parents and parental-related cues and information; and 3) The role of the gut microbiome on neuro-affective development. To explore my questions I use a variety of methodologies and approaches including fMRI, MRI, EDA, RSA, parent-reported questionnaires, microbial gene sequences, behavioral assessments, statistical modeling, and machine learning. 
     
 I am currently *leading* the following projects:
 
