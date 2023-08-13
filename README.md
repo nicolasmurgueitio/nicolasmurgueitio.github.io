@@ -10,7 +10,7 @@ I am currently *leading* the following projects:
 
 **Early Adversity**
 
-1. **Dimensions of early adversity and behavioral development: A 7-year longitudinal study.** Cognitive deprivation and threat are two dimensions of adversity that uniquely contribute to behavioral and neural development. This approach is promising in not only understanding how adversity puts children at risk of negative outcomes but also in informing learning interventions. Using data from the Durham Child Health and Development Study (DCHD), I am exploring how cognitive deprivation and threat uniquely contribute to the development of psychopathology and school achievement through differences in cognitive control and negative reactivity. 
+1. **Dimensions of early adversity and behavioral development: A 7-year longitudinal study.** Cognitive deprivation and threat are two dimensions of adversity that uniquely contribute to behavioral and neural development. This approach is promising in not only understanding how adversity puts children at risk of negative outcomes but also in informing learning interventions. Using data from the Durham Child Health and Development Study (DCHD), I am exploring how  deprivation and threat uniquely contribute to the development of psychopathology and school achievement through differences in cognitive control and emotional reactivity. 
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC).
 
