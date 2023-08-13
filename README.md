@@ -44,8 +44,7 @@ I am currently *leading* the following projects:
 
 2. **Early experiences and the microbiome.** We know from animal models that cause variations in maternal care that the environment impacts how the offspring's microbiome and gastrointestinal system develop. Taking into account this, and other work, we are exploring how variations in maternal care, warm sensitivity and harshness-intrusiveness, and experiences of food insecurity and intimate partner violence, impact the child's gut microbiome. 
 
-    **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Robert Quinn (MSU). 
+    **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Robert Quinn (MSU).
    
-To read more about some of these projects please visit my [OSF profile](https://osf.io/profile/?view_only=02023f70035a49e6b56eb969a50ae3ea). I am also working to make my code accessible and reproducible using [GitHub](https://github.com/nicolasmurgueitio). 
 
 If you are interested in talking about my research you can contact me at: [jnicolas@email.unc.edu](mailto:jnicolas@email.unc.edu), or dm in [twitter](https://twitter.com/jnmurgueitio). 
