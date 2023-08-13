@@ -22,29 +22,29 @@ I am currently *leading* the following projects:
 
     **Collaborators:** Margaret Sheridan (UNC), Meredith Gruhn (UNC), Esmeralda Navarro (UNC), Amy Carolus (UNC), Kristen Lindquist (UNC).
 
-4. **Unpredictability as a dimension of early adversity.** Unpredictability, or random fluctuations in the family and physical environment, might be a unique dimension of adversity by which children learn the importance of cues in their environment. We are using data-driven techniques (e.g., exploratory factor analysis) to explore how various measures of unpredictable and chaotic environments (e.g., household chaos, food insecurity, instability) cluster and behave with each other. 
+4. **Unpredictability as a dimension of early adversity.** Unpredictability, or random fluctuations in the family and physical environment, might be a unique dimension of adversity by which children learn the importance of cues in their environment. We are using data-driven techniques (e.g., exploratory factor analysis) to explore how various measures of unpredictable and chaotic environments (e.g., household chaos, food insecurity, parental instability) statistically relate to each other. 
 
     **Collaborators:** Margaret Sheridan (UNC), Katie McLaughlin (Harvard University)
 
-5. **Unpredictable and fragmented parental signals in early childhood.** A growing body of research is focused on measuring unpredictability within the observed parent-child interactions. This method is based on pre-clinical work with rodents, specifically the limited bedding and nesting (LBN) model. We are replicating previous work in infants on how the unpredictable and fragmented parental signals impact behavioral regulation in early childhood.
+5. **Unpredictable and fragmented parental signals in early childhood.** A growing body of research is focused on measuring unpredictability within the observed parent-child interactions. This method is based on pre-clinical work with rodents, specifically the limited bedding and nesting (LBN) model. We are replicating previous work in infants on how unpredictable and fragmented parental signals impact behavioral regulation and general cognition in early childhood. 
 
-   **Collaborators:** Margaret Sheridan (UNC), Elysia P. Davis (University of Denver), Laura Glynn (Chapman University), Katie McLaughlin             (Harvard University)
+   **Collaborators:** Margaret Sheridan (UNC), Elysia P. Davis (University of Denver), Laura Glynn (Chapman University).
     
 **Attachment Learning**
 
-1. **Neural correlates of attachment learning.** Attachment learning is the process by which children learn to approach and prefer parents and parent-related cues. However, the neural correlates of this process in humans still need to be completely understood. Using a novel fMRI paradigm of emotion regulation, where parents scaffold their children, I am exploring how the brain activates to caregiver vs. non-caregiver audiovisual stimuli.  
+1. **Neural correlates of attachment learning.** Attachment learning is the process by which children learn to approach and prefer parents and parent-related cues. However, the neural correlates of this process in humans still need to be completely understood. Using a novel fMRI paradigm of emotion regulation, where parents scaffold their children, I am exploring how the brain activates to caregiver vs. non-caregiver audiovisual stimuli. We are also exploring how experiences of threat impact these patterns of activation in the brain. 
 
-    **Collaborators**: Margaret Sheridan (UNC), Regina Sullivan (NYU), Kathryn Garrisi (UNC), Katie McLaughlin (Harvard University).
+    **Collaborators**: Margaret Sheridan (UNC), Regina Sullivan (NYU).
     
 **Gut Microbiome**
 
-1. **Microbiome and brain development.** Studying how the microbiome relates to the brain opens the door for important nutritional interventions for psychiatric disorders to be developed. We are exploring associations between the gut microbiome and brain structures that support emotional development (i.e., amygdala, insula, hippocampus) in neonates. 
+1. **Microbiome, brain, and behavior.** Studying how the microbiome relates to the brain opens the door for important nutritional interventions for psychiatric disorders to be developed. We are exploring associations between the gut microbiome and brain structures that support emotional development (i.e., amygdala, insula, hippocampus) in neonates. Additionally, we are looking at how the features of the microbiome that seem to be associated with these neural structures are also associated with behavioral reactivity and regulation later in infancy. 
 
-    **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Sarah Short (UW Madison), Robert Quinn (MSU), Martin Styner (UNC). 
+    **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Robert Quinn (MSU).
 
-2. **Early experiences and the microbiome.** We know from animal models that cause variations in maternal care that the environment impacts how the offspring's microbiome and gastrointestinal system develop. Taking into account this, and other work, we are exploring how variations in maternal care in the form of sensitivity and harshness-intrusiveness impact the subsequent gut microbiome early in life. 
+2. **Early experiences and the microbiome.** We know from animal models that cause variations in maternal care that the environment impacts how the offspring's microbiome and gastrointestinal system develop. Taking into account this, and other work, we are exploring how variations in maternal care, warm sensitivity and harshness-intrusiveness, and experiences of food insecurity and intimate partner violence, impact the child's gut microbiome. 
 
-    **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Sarah Short (UW Madison), Robert Quinn (MSU). 
+    **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Robert Quinn (MSU). 
    
 To read more about some of these projects please visit my [OSF profile](https://osf.io/profile/?view_only=02023f70035a49e6b56eb969a50ae3ea). I am also working to make my code accessible and reproducible using [GitHub](https://github.com/nicolasmurgueitio). 
 
