@@ -13,10 +13,6 @@ I am currently *leading* the following projects:
 1. **Behavioral mechanisms of early adversity.** Cognitive deprivation and threat are two dimensions of adversity that uniquely contribute to behavioral and neural development. This approach is promising in not only understanding how adversity puts children at risk of negative outcomes but also in informing learning interventions. Using data from the Durham Child Health and Development Study (DCHD), I am exploring how  deprivation and threat uniquely contribute to the development of psychopathology and school achievement through differences in cognitive control and emotional reactivity. 
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC).
-
-2. **Early experiences and socio-affective precursors of psychopathology in children.** Early adversity is an important contributor to children's development. However, strategies used by parents to socialize emotional experiences are also a powerful source of information in development. Socialization of emotions is a process by which children acquire knowledge about emotions (e.g., emotions are good or bad, etc). The main contributors to this process are parents. We are exploring how early adversity and emotion socialization (i.e., parent beliefs about emotions) contribute to socio-affective development. 
-
-    **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Amy Halberstadt (NC State), Patricia Garretts-Peters (Duke).
       
 3. **Early adversity and amygdala-mPFC connectivity: A meta-analytic review.** The control of the medial prefrontal cortex (mPFC) over the amygdala has been studied extensively because of its importance in emotional processes such as fear extinction and automatic emotion regulation. However, experiences of early adversity  affect how this important circuit behaves leading to deficits in these behavioral and emotional mental processes. We are reviewing the neuroimaging literature on amygdala-mPFC connectivity, and exploring how different dimensions of adversity (e.g., deprivation, threat, mixed exposures) relate to it. 
 
