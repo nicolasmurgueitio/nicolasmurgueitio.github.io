@@ -34,7 +34,7 @@ I am currently *leading* the following projects:
     
 **Gut Microbiome**
 
-1. **Gut microbiome, brain, behavioral reactivity, and regulation.** Studying how the microbiome relates to the brain opens the door for important nutritional interventions for psychiatric disorders to be developed. We are exploring associations between the gut microbiome and brain structures that support emotional development (i.e., amygdala, insula, hippocampus) in neonates. Additionally, we are looking at how the features of the microbiome that seem to be associated with these neural structures are also associated with behavioral reactivity and regulation later in infancy. 
+1. **Gut microbiome, brain, and behavioral reactivity.** Studying how the microbiome relates to the brain opens the door for important nutritional interventions for psychiatric disorders to be developed. We are exploring associations between the gut microbiome and brain structures that support emotional development (i.e., amygdala, insula, hippocampus) in neonates. Additionally, we are looking at how the features of the microbiome that seem to be associated with these neural structures are also associated with behavioral reactivity later in infancy. 
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Robert Quinn (MSU).
 
