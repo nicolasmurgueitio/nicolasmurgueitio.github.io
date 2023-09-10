@@ -10,7 +10,7 @@ I am currently *leading* the following projects:
 
 **Early Adversity**
 
-1. **Behavioral mechanisms of early adversity.** Cognitive deprivation and threat are two dimensions of adversity that uniquely contribute to behavioral and neural development. This approach is promising in not only understanding how adversity puts children at risk of negative outcomes but also in informing learning interventions. Using data from the Durham Child Health and Development Study (DCHD), I am exploring how  deprivation and threat uniquely contribute to the development of psychopathology and school achievement through differences in cognitive control and emotional reactivity. 
+1. **Longitudinal mechanisms linking deprivation and threat to psychopathology and school outcomes.** Deprivation and threat are two dimensions of adversity that uniquely contribute to behavioral and neural development. This approach is promising in not only understanding how adversity puts children at risk of negative outcomes but also in informing learning interventions. Using data from the Durham Child Health and Development Study (DCHD), I am exploring how  deprivation and threat uniquely contribute to the development of psychopathology and school achievement through differences in cognitive control and emotional reactivity. 
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC).
       
@@ -18,7 +18,7 @@ I am currently *leading* the following projects:
 
     **Collaborators:** Margaret Sheridan (UNC), Meredith Gruhn (UNC), Esmeralda Navarro (UNC), Amy Carolus (UNC), Kristen Lindquist (UNC).
 
-4. **Measuring unpredictability in the family environment.** Unpredictability, or random fluctuations in the family and physical environment, might be a unique dimension of adversity by which children learn the importance of cues in their environment. We are using data-driven techniques (e.g., exploratory factor analysis) to explore how various measures of unpredictable and chaotic environments (e.g., household chaos, food insecurity, parental instability) statistically relate to each other. 
+4. **Measuring unpredictability in the family and physical environment.** Unpredictability, or random fluctuations in the family and physical environment, might be a unique dimension of adversity by which children learn the importance of cues in their environment. We are using data-driven techniques (e.g., exploratory factor analysis) to explore how various measures of unpredictable and chaotic environments (e.g., household chaos, food insecurity, parental instability) statistically relate to each other. 
 
     **Collaborators:** Margaret Sheridan (UNC), Katie McLaughlin (Harvard University)
 
