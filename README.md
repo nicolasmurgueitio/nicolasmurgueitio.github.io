@@ -26,12 +26,6 @@ I am currently *leading* the following projects:
 
    **Collaborators:** Margaret Sheridan (UNC), Elysia P. Davis (University of Denver), Laura Glynn (Chapman University).
     
-**Attachment Learning**
-
-1. **Neural correlates of attachment learning.** Attachment learning is the process by which children learn to approach and prefer parents and parent-related cues. However, the neural correlates of this process in humans still need to be completely understood. Using a novel fMRI paradigm of emotion regulation, where parents scaffold their children, I am exploring how the brain activates to caregiver vs. non-caregiver audiovisual stimuli. We are also exploring how experiences of threat impact these patterns of activation in the brain. 
-
-    **Collaborators**: Margaret Sheridan (UNC), Regina Sullivan (NYU).
-    
 **Gut Microbiome**
 
 1. **Gut microbiome, brain, and behavioral reactivity.** Studying how the microbiome relates to the brain opens the door for important nutritional interventions for psychiatric disorders to be developed. We are exploring associations between the gut microbiome and brain structures that support emotional development (i.e., amygdala, insula, hippocampus) in neonates. Additionally, we are looking at how the features of the microbiome that seem to be associated with these neural structures are also associated with behavioral reactivity later in infancy. 
