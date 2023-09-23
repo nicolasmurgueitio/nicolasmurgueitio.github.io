@@ -1,4 +1,4 @@
-#  **Nicolas Murgueitio**
+#  **Nicolas Murgueitio, M.A. in Developmental and Child Psychology**
 
 ##  **Developmental and Child Psychology PhD Student at UNC**
 
@@ -12,7 +12,7 @@ I am currently *leading* the following projects:
 
 1. **Longitudinal mechanisms linking deprivation and threat to psychopathology and school outcomes.** Deprivation and threat are two dimensions of adversity that uniquely contribute to behavioral and neural development. This approach is promising in not only understanding how adversity puts children at risk of negative outcomes but also in informing learning interventions. Using data from the Durham Child Health and Development Study (DCHD), I am exploring how  deprivation and threat uniquely contribute to the development of psychopathology and school achievement through differences in cognitive control and emotional reactivity. 
 
-    **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC).
+    **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Daniel Bauer (UNC).
       
 3. **Early adversity and amygdala-mPFC connectivity: A meta-analytic review.** The control of the medial prefrontal cortex (mPFC) over the amygdala has been studied extensively because of its importance in emotional processes such as fear extinction and automatic emotion regulation. However, experiences of early adversity  affect how this important circuit behaves leading to deficits in these behavioral and emotional mental processes. We are reviewing the neuroimaging literature on amygdala-mPFC connectivity, and exploring how different dimensions of adversity (e.g., deprivation, threat, mixed exposures) relate to it. 
 
