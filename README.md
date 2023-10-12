@@ -14,17 +14,9 @@ I am currently *leading* the following projects:
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Daniel Bauer (UNC).
       
-3. **Early adversity and amygdala-mPFC connectivity: A meta-analytic review.** The control of the medial prefrontal cortex (mPFC) over the amygdala has been studied extensively because of its importance in emotional processes such as fear extinction and automatic emotion regulation. However, experiences of early adversity  affect how this important circuit behaves leading to deficits in these behavioral and emotional mental processes. We are reviewing the neuroimaging literature on amygdala-mPFC connectivity, and exploring how different dimensions of adversity (e.g., deprivation, threat, mixed exposures) relate to it. 
-
-    **Collaborators:** Margaret Sheridan (UNC), Meredith Gruhn (UNC), Esmeralda Navarro (UNC), Amy Carolus (UNC), Kristen Lindquist (UNC).
-
-4. **Measuring unpredictability in the family and physical environment.** Unpredictability, or random fluctuations in the family and physical environment, might be a unique dimension of adversity by which children learn the importance of cues in their environment. We are using data-driven techniques (e.g., exploratory factor analysis) to explore how various measures of unpredictable and chaotic environments (e.g., household chaos, food insecurity, parental instability) statistically relate to each other. 
+2. **Measuring unpredictability in the family and physical environment.** Unpredictability, or random fluctuations in the family and physical environment, might be a unique dimension of adversity by which children learn the importance of cues in their environment. We are using data-driven techniques (e.g., exploratory factor analysis) to explore how various measures of unpredictable and chaotic environments (e.g., household chaos, food insecurity, parental instability) statistically relate to each other. 
 
     **Collaborators:** Margaret Sheridan (UNC), Katie McLaughlin (Harvard University)
-
-5. **Unpredictable and fragmented parental signals in early childhood.** A growing body of research is focused on measuring unpredictability within the observed parent-child interactions. This method is based on pre-clinical work with rodents, specifically the limited bedding and nesting (LBN) model. We are replicating previous work in infants on how unpredictable and fragmented parental signals impact behavioral regulation and general cognition in early childhood. 
-
-   **Collaborators:** Margaret Sheridan (UNC), Elysia P. Davis (University of Denver), Laura Glynn (Chapman University).
     
 **Gut Microbiome**
 
