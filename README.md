@@ -10,13 +10,13 @@ I am currently *leading* the following projects:
 
 **Early Adversity**
 
-1. **Longitudinal mechanisms linking deprivation and threat to psychopathology and school outcomes.** Deprivation and threat are two dimensions of early adversity that uniquely contribute to behavioral and neural development. Using data from the Durham Child Health and Development Study (DCHD), I am exploring how  deprivation and threat uniquely contribute to the development of psychopathology and school achievement through differences in cogntion and emotional reactivity. 
+1. **Longitudinal mechanisms linking deprivation and threat to psychopathology and school outcomes.** Deprivation and threat are two dimensions of early adversity that uniquely contribute to behavioral and neural development. Using data from the Durham Child Health and Development Study (DCHD), I am exploring how  deprivation and threat uniquely contribute to the development of psychopathology and school achievement through differences in cognition and emotional reactivity. 
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Daniel Bauer (UNC).
       
 2. **Measuring unpredictability in the family and physical environment.** Unpredictability, or random fluctuations in the family and physical environment, might be a unique dimension of adversity by which children learn the salience of cues in their environment. We are using data-driven techniques (e.g., exploratory factor analysis) to explore how various measures of unpredictable and chaotic environments (e.g., household chaos, food insecurity, parental instability) relate to each other. 
 
-    **Collaborators:** Margaret Sheridan (UNC), Katie McLaughlin (Harvard University)
+    **Collaborators:** Margaret Sheridan (UNC), Katie McLaughlin (Harvard University).
     
 **Gut Microbiome**
 
@@ -24,7 +24,7 @@ I am currently *leading* the following projects:
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Robert Quinn (MSU).
 
-2. **Early experiences and the gut microbiome.** We know from animal models that cause variations in maternal care that the environment impacts how the offspring's microbiome and gastrointestinal system develop. Taking into account this, and other work, we are exploring how variations in maternal care, warm sensitivity and harshness-intrusiveness, and experiences of food insecurity and intimate partner violence and chaos, impact the child's gut microbiome. 
+2. **Early experiences and the gut microbiome.** We know from animal models that cause variations in maternal care that the environment impacts how the offspring's microbiome and gastrointestinal system develop. Taking into account this, and other work, we are exploring how variations in maternal care, warm sensitivity and harshness-intrusiveness, and experiences of violence, impact the child's gut microbiome. 
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Robert Quinn (MSU).
    
