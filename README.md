@@ -10,7 +10,7 @@ I am currently *leading* the following projects:
 
 **Early Adversity**
 
-1. **Longitudinal mechanisms linking deprivation and threat to psychopathology and school outcomes.** Deprivation and threat are two dimensions of early adversity that uniquely contribute to behavioral and neural development. Using data from the Durham Child Health and Development Study (DCHD), I am exploring how  deprivation and threat uniquely contribute to the development of psychopathology and school achievement through differences in cognition and emotional reactivity. 
+1. **Developmental mechanisms linking deprivation and threat to psychopathology and school outcomes.** Deprivation and threat are two dimensions of early adversity that uniquely contribute to behavioral and neural development. Using data from the Durham Child Health and Development Study (DCHD), I am exploring how  deprivation and threat uniquely contribute to the development of psychopathology and school achievement through differences in cognition and emotional reactivity. 
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Daniel Bauer (UNC).
       
