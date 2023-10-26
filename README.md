@@ -1,6 +1,6 @@
 #  **Nicolas Murgueitio MA**
 
-##  **Developmental and Child Psychology PhD Student at UNC**
+##  **Developmental Psychology PhD Student at UNC**
 
 I am a graduate student working in the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs. Broadly, I am interested in how experiences enriched in violence impact the development of neural and behavioral systems. Specifically, I study neural and behavioral systems related to fear learning and memory, emotional reactivity, and emotion regulation. I am also interested in how these systems are influenced by the gut microbiome. 
 
