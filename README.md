@@ -20,7 +20,7 @@ I am currently *leading* the following projects:
 
     **Collaborators:** Margaret Sheridan (UNC), Katie McLaughlin (Harvard University).
 
-3. **Threat exposure and infant behavior.** We are looking at how exposure to threat impacts infant behavior during the Still Paradigm during infancy. We are also looking at whether these effects interact with infant age, as animal work shows that exposure to threat does not modify attachment strategy very early in pup hood.
+3. **Threat exposure and infant behavior.** We are looking at how exposure to threat impacts infant behavior during the Still Paradigm. We are also looking at whether these effects interact with infant age, as animal work suggests that exposure to threat does not modify attachment strategies early in pup hood.
 
    **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC).
     
