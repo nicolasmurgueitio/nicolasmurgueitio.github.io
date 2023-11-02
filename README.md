@@ -19,6 +19,10 @@ I am currently *leading* the following projects:
 2. **Measuring unpredictability in the family and physical environment.** Unpredictability, or random fluctuations in the family and physical environment, might be a unique dimension of early adversity. We are using data-driven techniques (i.e., exploratory factor analysis) to explore how various measures of unpredictable and chaotic environments (e.g., household chaos, food insecurity, parental instability) relate to each other. 
 
     **Collaborators:** Margaret Sheridan (UNC), Katie McLaughlin (Harvard University).
+
+3. **Threat exposure and infant behavior.** We are looking at how exposure to threat impacts infant behavior during the Still Paradigm during infancy. We are also looking at whether these effects interact with infant age, as animal work shows that exposure to threat does not modify attachment strategy very early in pup hood.
+
+   **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC).
     
 **Microbiome**
 
