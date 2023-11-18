@@ -20,7 +20,7 @@ I am currently *leading* the following projects:
 
     **Collaborators:** Margaret Sheridan (UNC), Katie McLaughlin (Harvard University).
 
-3. **Threat exposure and infant behavior and physiology.** We are looking at how exposure to threat impacts infant behavioral and physiological reactivit, and affiliative behavior during the Still Paradigm. We are also looking at whether these effects interact with infant age, as animal work suggests that exposure to threat does not modify attachment strategies early in puphood.
+3. **Threat exposure and infant behavior and physiology.** We are looking at how exposure to threat impacts infant behavioral and physiological reactivity, and affiliative behavior during the Still Paradigm. We are also looking at whether these effects interact with infant age, as animal work suggests that exposure to threat does not modify attachment strategies early in puphood.
 
    **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC).
     
@@ -30,7 +30,7 @@ I am currently *leading* the following projects:
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Robert Quinn (MSU).
 
-2. **Early experiences and the microbiome.** We know from animal models that cause variations in maternal care that the environment impacts the offspring's microbiome and gastrointestinal health. Taking into account this, and other work, we are exploring how variations in maternal care, in the form of sensitivity and harshness-intrusiveness, and experiences of violence, impact the child's microbiome. 
+2. **Early experiences and the microbiome.** We know from animal models that cause variations in maternal care that the environment impacts the offspring's microbiome and gastrointestinal health. Taking into account this, and other work, we are exploring how variations in maternal behavior are associated with the child's gut microbiome.  
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Robert Quinn (MSU).
    
