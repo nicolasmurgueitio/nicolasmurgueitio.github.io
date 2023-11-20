@@ -2,7 +2,7 @@
 
 ##  **Developmental Psychology PhD Student**
 
-I am a graduate student with a focus on Developmental Neuroscience and Quantitative Methods working in the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs at the University of North Carolina at Chapel Hill. Broadly, I am interested in how interpersonal violence impacts the development of neural and behavioral systems to increase psychopathology risk. Specifically, I study neural and behavioral systems that support fear and extinction learning, reactivity, and emotion regulation. I am also interested in how these systems are influenced by the microbiome. 
+I am a graduate student with a focus on Developmental Neuroscience and Quantitative Methods working in the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs at the University of North Carolina at Chapel Hill. Broadly, I am interested in how interpersonal violence impacts the development of neural and behavioral systems to increase neuropsychiatric risk. Specifically, I study neural and behavioral systems that support fear and extinction learning, reactivity, and emotion regulation. I am also interested in how these systems are influenced by the microbiome. 
 
 To explore my questions I use a variety of methodologies and approaches including MRI and task-based fMRI, EDA, RSA, parent-reported questionnaires, genetic sequencing, behavioral assessments of the child, parent-child interactions, statistical modeling, and machine learning. 
 
@@ -26,7 +26,7 @@ I am currently *leading* the following projects:
     
 **Microbiome**
 
-1. **Microbiome, brain, and behavioral reactivity.** Studying how the microbiome relates to the brain could inform important interventions for psychiatric risk. We are exploring associations between the microbiome and brain structures involved in the salience network and fear learning (i.e., amygdala, insula, hippocampus, acc) in neonates. Additionally, we are looking at how the features of the microbiome that are to be associated with these neural structures are associated with behavioral reactivity later in infancy. 
+1. **Microbiome, brain, and behavioral reactivity.** Studying how the microbiome relates to the brain could inform important interventions for neuropsychiatric disorders. We are exploring associations between the microbiome and brain structures involved in the salience network and fear learning (i.e., amygdala, insula, hippocampus, acc) in neonates. Additionally, we are looking at how the features of the microbiome that are to be associated with these neural structures are associated with behavioral reactivity later in infancy. 
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Robert Quinn (MSU).
 
