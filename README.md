@@ -20,7 +20,7 @@ I am currently *leading* the following projects:
 
     **Collaborators:** Margaret Sheridan (UNC), Katie McLaughlin (Harvard University).
 
-3. **Threat exposure, infant behavior, physiological reactivity.** We are looking at how exposure to threat impacts infant behavioral and physiological reactivity, and affiliative behavior during the Still Face Paradigm. We are also looking at whether these effects interact with infant age, as animal work suggests that there are sensitive periods of threat exposure on pup learning strategies. 
+3. **Threat exposure, infant behavior, and vagal reactivity.** We are looking at how exposure to threat impacts infant behavioral and vagal reactivity, and affiliative behavior during the Still Face Paradigm. We are also looking at whether these effects interact with infant age, as animal work suggests that there are sensitive periods of threat exposure on pup learning strategies. 
 
    **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC).
     
