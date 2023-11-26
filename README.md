@@ -26,11 +26,11 @@ I am currently *leading* the following projects:
     
 **Microbiome**
 
-1. **Microbiome, brain, and behavioral reactivity.** Studying how the microbiome relates to the brain could inform important interventions for neuropsychiatric disorders. We are exploring associations between the microbiome and brain structures involved in the salience network and fear learning (i.e., amygdala, insula, hippocampus, acc) in neonates. Additionally, we are looking at how the features of the microbiome that are to be associated with these neural structures are associated with behavioral reactivity later in infancy. 
+1. **The gut microbiome influences brain structure and behavioral reactivity during infancy.** Studying how the microbiome relates to the brain could inform important interventions for neuropsychiatric disorders. We are exploring associations between the microbiome and brain structures involved in the salience network and fear learning (i.e., amygdala, insula, hippocampus, acc) in neonates. Additionally, we are looking at how the features of the microbiome that are to be associated with these neural structures are associated with behavioral reactivity later in infancy. 
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Robert Quinn (MSU).
 
-2. **Maternal behavior, the microbiome, and reactivity.** We know from animal models that cause variations in maternal care that the environment impacts the offspring's microbiome and gastrointestinal system. Taking into account this, and other work, we are exploring how variations in maternal behavior are associated with the child's gut microbiome, and how those changes are associated with toddler behavioral reactivity. 
+2. **Longitudinal associations between the gut microbiome and behavioral reactivity in early childhood: Contributions of the early caregiving environment.** We know from animal models that cause variations in maternal care that the environment impacts the offspring's microbiome and gastrointestinal system. Taking into account this, and other work, we are exploring how variations in maternal behavior are associated with the child's gut microbiome, and how those changes are associated with  behavioral reactivity. 
 
     **Collaborators:** Cathi Propper (UNC), Margaret Sheridan (UNC), Rebecca Knickmeyer (MSU), Robert Quinn (MSU).
    
