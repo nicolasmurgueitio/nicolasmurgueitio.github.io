@@ -1,6 +1,4 @@
-#  **Nicolas Murgueitio MA**
-
-##  **Developmental Psychology PhD Student**
+#  **Nicolas Murgueitio**
 
 I am a PhD student with a focus on Developmental Neuroscience and Quantitative Methods working in the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs at the University of North Carolina at Chapel Hill. Broadly, I am interested in predictors of psychopathology in young children. Specifically, I am interested in how exposure to violence and the microbiome impact emotional learning, memory, reactivity, and regulation, as well as their underlying physiological and neural systems.
 
