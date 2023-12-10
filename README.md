@@ -4,12 +4,12 @@ I am a PhD student with a focus on Developmental Neuroscience and Quantitative M
 
 To explore these questions I use a variety of methodologies and approaches including MRI and task-based fMRI, physiology, parent-reported questionnaires, genetic sequencing, psychiatric assessments, behavioral observations of the child and the parent-child interaction, statistical modeling, and machine learning. 
 
-I also collaborate with other scientists and help them answer their research questions on topics such as maternal health, prenatal stress and nutrition, child's physical health, sleep, executive function, reward, systemic inflammation, structural inequality, and racism. 
+I also collaborate with other scientists and help them answer their research questions on topics such as maternal health, prenatal stress and nutrition, physical health, sleep, executive function, reward, systemic inflammation, structural inequality, and racism. 
     
 I am currently focused on the following ideas: 
 
-**Effects of early adversity in infancy and early childhood.** Neuroscientific models of early adversity propose that separate dimensions of adversity predict distinct mechanisms to predict psychopathology. However, most of the empirical testing of these ideas has been conducted with adolescent samples. I am working to replicate these findings in samples of infants (<12 months), and longitudinally across early (5 years) and middle childhood (7 years). 
+**Effects of early adversity in infancy and early childhood.** Neuroscientific models of early adversity propose that separate dimensions of adversity predict psychopathology through differential mechanisms. However, most of the empirical testing of these ideas has been conducted with adolescent samples. I am working to replicate these findings in samples of infants (<12 months), and longitudinally across early (5 years) and middle childhood (7 years). 
 
-**The Microbiome.** The early gut microbiome has gained significant interest within the neuropsychiatric community as it could inform novel  strategies to prevent the development of psychopathology. I am working to explore how the microbiome is associated with the brain and emotional reactivity, both as a mechanism of maternal behavior and as an isolated predictor across infancy and toddlerhood. 
+**The microbiome.** The early gut microbiome has gained significant interest within the neuropsychiatric community as it could inform novel  strategies to prevent the development of psychopathology. I am working to explore how the microbiome is associated with the brain and emotional reactivity, both as a mechanism of maternal behavior and as an isolated predictor across infancy and toddlerhood. 
    
 If you are interested in talking about my research you can contact me at: [jnicolas@email.unc.edu](mailto:jnicolas@email.unc.edu), or dm in [Twitter/X](https://twitter.com/jnmurgueitio). 
