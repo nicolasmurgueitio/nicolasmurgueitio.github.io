@@ -21,3 +21,5 @@ I am currently leading the following projects:
 **Autonomic nervous sytem and neural systems underlying emotion dysregulation in early childhood.** Using an fMRI paradigm, we are exploring how the autonomic nervous system at rest impacts the neural correlates underlying emotional reactivity and regulation in early childhood. *This manuscript is currently in preparation.*
 
 If you are interested in talking about my research you can contact me at: [jnicolas@email.unc.edu](mailto:jnicolas@email.unc.edu), or dm in [Twitter/X](https://twitter.com/jnmurgueitio). 
+
+You can also visit my [github](https://github.com/nicolasmurgueitio).
