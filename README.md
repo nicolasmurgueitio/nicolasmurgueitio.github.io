@@ -16,7 +16,7 @@ I am currently leading the following projects:
 
 **Neural systems supporting cognitive reappraisal in early childhood.** We developed a novel fMRI paradigm to measure children's neural under cognitive reappraisal and emotional reactivity. This manuscript is currently in preparation.
 
-**Gut microbiome and neural structure**. This project explores associations between the gut microbiome and neural structures involved in threat processing (ie amygdala, insula, acc, thalamus) in neonates. This manuscript is currently in preparation.
+**Gut microbiome and neural structure**. This project explores associations between the gut microbiome and neural structures involved in threat processing (ie, amygdala, insula, acc, thalamus) in neonates. This manuscript is currently in preparation.
 
 **Autonomic nervous sytem and neural systems underlying emotion dysregulation in early childhood.** Using an fMRI paradigm, we are exploring how the autonomic nervous system at rest impacts the neural correlates underlying emotional reactivity and regulation in early childhood. This manuscript is currently in preparation.
 
