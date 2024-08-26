@@ -1,6 +1,6 @@
 #  **Nicolas Murgueitio**
 
-I am a graduate student with a focus on Developmental Neuroscience working in the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs at The University of North Carolina at Chapel Hill. Broadly, I study the immediate and enduring consequeneces of childhood trauma, with a focus on emotional reactivity and aversive learning. I am also interested in how peripheral systems support emotional response and regulatory systems. 
+I am a graduate student with a focus on Developmental Neuroscience working in the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs at The University of North Carolina at Chapel Hill. Broadly, I study the immediate and enduring consequeneces of childhood trauma, with a focus on emotional reactivity and aversive learning. I am also interested in how peripheral systems support emotional response and regulatory systems. This research program is heavily inform by rodent models of trauma rearing. 
 
 I use a variety of methodologies and approaches including structural MRI and task-based fMRI, physiology (i.e., HRV, SCR), parent-reported questionnaires, genetic sequencing, psychiatric assessments, behavioral observations, statistical modeling, and machine learning. 
     
