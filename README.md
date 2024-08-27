@@ -17,8 +17,15 @@ I am currently leading the following projects:
 - **Gut microbiome and neural structure**: This project explores associations between the gut microbiome taxonomy and diversity, and neural structures involved in threat processing (ie, amygdala, insula, acc, thalamus) in neonates. This manuscript is currently in preparation. (Collaborators: Michelle Graf co-first author, Margaret Sheridan, Rebecca Knickmeyer, Cathi Propper)
 - **Autonomic nervous system and neural systems underlying emotion dysregulation in early childhood**: Using an fMRI paradigm, we are exploring how the autonomic nervous system at rest impacts the neural correlates underlying emotional reactivity and regulation in early childhood. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan)
 
+</details>
+
+<details>
+<summary>Contact</summary>
+  
 ## Contact
 
 If you are interested in talking about my research you can contact me at: jnicolas@email.unc.edu, or DM me on [![Twitter](https://img.icons8.com/material-outlined/24/000000/twitter.png)](https://twitter.com/jnmurgueitio).
 
 You can also visit my [![GitHub](https://img.icons8.com/material-outlined/24/000000/github.png)](https://github.com/nicolasmurgueitio).
+
+</details>
