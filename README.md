@@ -1,4 +1,5 @@
 #  **Nicolas Murgueitio**
+
 I am a graduate student with a focus on Developmental Neuroscience working in the Sheridan and Propper Labs at The University of North Carolina at Chapel Hill. I study the immediate and enduring consequences of childhood trauma, with a focus on emotional reactivity and aversive learning. I am also interested in how peripheral biological systems support emotional reactivity, regulation, and brain development. This research program is heavily informed by rodent models of adversity rearing, specifically those focused on traumatic learning environments.
 
 I use a variety of methodologies and approaches including task-based fMRI and structural MRI, physiology (ie, HRV, EDA), parent-reported and self-report questionnaires, genetic sequencing, psychiatric assessments, behavioral observations, statistical modeling, and machine learning.
@@ -7,6 +8,7 @@ I use a variety of methodologies and approaches including task-based fMRI and st
 <summary><strong><span style="font-size: 30px;">Projects</span></strong></summary>
 
 ## Projects
+
 I am currently leading the following projects:
 - **Developmental mechanisms of deprivation and threat**: For my master's thesis I explored how deprivation and threat differentially increase risk for psychopathology and poor academic achievement through executive function and emotional reactivity. I utilized data from a longitudinal cohort study following mother-child dyads from 6 months to 7 years of age. This manuscript is currently under review. (Collaborators: Cathi Propper, Margaret Sheridan, Daniel Bauer)
 - **Intimate-partner violence and anger bias**: This project explores how early exposure to intimate-partner violence impacts anger bias in early (6 years) and middle childhood (9 years), above experiences of cognitive deprivation and emotion socialization. We are also exploring whether these experiences differentially predict global emotion recognition at the same ages. This manuscript is currently under review. (Collaborators: Cathi Propper, Margaret Sheridan)
@@ -21,7 +23,7 @@ I am currently leading the following projects:
 <details>
 <summary><strong><span style="font-size: 30px;">Contact</span></strong></summary>
 
-  
+
 ## Contact
 
 If you are interested in talking about my research you can contact me at: jnicolas@email.unc.edu, or DM me on [![Twitter](https://img.icons8.com/material-outlined/24/000000/twitter.png)](https://twitter.com/jnmurgueitio).
