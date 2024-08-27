@@ -9,6 +9,8 @@ I use a variety of methodologies and approaches including task-based fMRI and st
 ## Projects
 I am currently leading the following projects:
 
+### <strong>Developmental mechanisms of deprivation and threat</strong>
+
 - **Developmental mechanisms of deprivation and threat**: For my master's thesis I explored how deprivation and threat differentially increase risk for psychopathology and poor academic achievement through executive function and emotional reactivity. I utilized data from a longitudinal cohort study following mother-child dyads from 6 months to 7 years of age. This manuscript is currently under review. (Collaborators: Cathi Propper, Margaret Sheridan, Daniel Bauer)
 - **Intimate-partner violence and anger bias**: This project explores how early exposure to intimate-partner violence impacts anger bias in early (6 years) and middle childhood (9 years), above experiences of cognitive deprivation and emotion socialization. We are also exploring whether these experiences differentially predict global emotion recognition at the same ages. This manuscript is currently under review. (Collaborators: Cathi Propper, Margaret Sheridan)
 - **Childhood trauma and aversive learning**: We developed a novel learning paradigm to study how young children acquire aversive responses to caregivers and strangers, and we are studying how exposure to childhood threat impacts physiological (ie HRV, SCR) responses to this paradigm. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Regina Sullivan)
