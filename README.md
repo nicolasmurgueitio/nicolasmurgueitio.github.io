@@ -1,8 +1,8 @@
 #  **Nicolas Murgueitio**
 
-I am a graduate student with a focus on Developmental Neuroscience working in the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs at The University of North Carolina at Chapel Hill. Broadly, I study the immediate and enduring consequeneces of childhood trauma, with a focus on emotional reactivity and aversive learning. I am also interested in how peripheral systems support emotional response and regulatory systems. This research program is heavily informed by rodent models of trauma rearing. 
+I am a graduate student with a focus on Developmental Neuroscience working in the [Sheridan](https://circlelab.unc.edu/) and [Propper](https://beelab.web.unc.edu/) Labs at The University of North Carolina at Chapel Hill. I study the immediate and enduring consequeneces of childhood trauma, with a focus on emotional reactivity and aversive learning. I am also interested in how peripheral biological systems support emotional reactivity, regulation, and brain development. This research program is heavily informed by rodent models of adversity rearing, specifically those focused on traumatic learning environments. 
 
-I use a variety of methodologies and approaches including structural MRI and task-based fMRI, physiology (i.e., HRV, SCR), parent-reported questionnaires, genetic sequencing, psychiatric assessments, behavioral observations, statistical modeling, and machine learning. 
+I use a variety of methodologies and approaches including task-based fMRI and structural MRI, physiology (ie, HRV, EDA), parent-reported and self-report questionnaires, genetic sequencing, psychiatric assessments, behavioral observations, statistical modeling, and machine learning. 
     
 I am currently leading the following projects: 
 
@@ -12,11 +12,11 @@ I am currently leading the following projects:
 
 **Childhood trauma and aversive learning.** We developed a novel learning paradigm to study how young children acquire aversive responses to caregivers and strangers, and we are studying how exposure to childhood threat impacts physiological (ie HRV, SCR) responses to this paradigm. *This manuscript is currently in preparation.* (Collaborators: Margaret Sheridan, Regina Sullivan)
 
-**Neural processing of caregiver cues in threat reared children.** We are exploring how exposure to threat impacts children's neural responses to caregivers in an fMRI paradigm. *This manuscript is currently in preparation.* (Collaborators: Margaret Sheridan, Regina Sullivan)
+**Neural processing of caregiver cues in threat reared children.** We are exploring how exposure to threat impacts children's neural responses to caregivers during a fMRI paradigm. *This manuscript is currently in preparation.* (Collaborators: Margaret Sheridan, Regina Sullivan)
 
 **Neural systems supporting cognitive reappraisal in early childhood.** We developed a novel fMRI paradigm to measure children's neural correlates of cognitive reappraisal and emotional reactivity. *This manuscript is currently in preparation.* (Collaborators: Michelle Shipkova co-first author, Margaret Sheridan)
 
-**Gut microbiome and neural structure**. This project explores associations between the gut microbiome and neural structures involved in threat processing (ie, amygdala, insula, acc, thalamus) in neonates. *This manuscript is currently in preparation.* (Collaborators: Michelle Graf co-first author, Margaret Sheridan, Rebecca Knickmeyer, Cathi Propper)
+**Gut microbiome and neural structure**. This project explores associations between the gut microbiome taxonomy and diversity, and neural structures involved in threat processing (ie, amygdala, insula, acc, thalamus) in neonates. *This manuscript is currently in preparation.* (Collaborators: Michelle Graf co-first author, Margaret Sheridan, Rebecca Knickmeyer, Cathi Propper)
 
 **Autonomic nervous sytem and neural systems underlying emotion dysregulation in early childhood.** Using an fMRI paradigm, we are exploring how the autonomic nervous system at rest impacts the neural correlates underlying emotional reactivity and regulation in early childhood. *This manuscript is currently in preparation.* (Collaborators: Margaret Sheridan)
 
