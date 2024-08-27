@@ -3,8 +3,8 @@ I am a graduate student with a focus on Developmental Neuroscience working in th
 
 I use a variety of methodologies and approaches including task-based fMRI and structural MRI, physiology (ie, HRV, EDA), parent-reported and self-report questionnaires, genetic sequencing, psychiatric assessments, behavioral observations, statistical modeling, and machine learning.
 
-- [Projects](#projects)
-- [Contact](#contact)
+<details>
+<summary>Projects</summary>
 
 ## Projects
 I am currently leading the following projects:
