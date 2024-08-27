@@ -3,6 +3,10 @@ I am a graduate student with a focus on Developmental Neuroscience working in th
 
 I use a variety of methodologies and approaches including task-based fMRI and structural MRI, physiology (ie, HRV, EDA), parent-reported and self-report questionnaires, genetic sequencing, psychiatric assessments, behavioral observations, statistical modeling, and machine learning.
 
+- [Projects](#projects)
+- [Contact](#contact)
+
+## Projects
 I am currently leading the following projects:
 
 - **Developmental mechanisms of deprivation and threat**: For my master's thesis I explored how deprivation and threat differentially increase risk for psychopathology and poor academic achievement through executive function and emotional reactivity. I utilized data from a longitudinal cohort study following mother-child dyads from 6 months to 7 years of age. This manuscript is currently under review. (Collaborators: Cathi Propper, Margaret Sheridan, Daniel Bauer)
@@ -12,6 +16,8 @@ I am currently leading the following projects:
 - **Neural systems supporting cognitive reappraisal in early childhood**: We developed a novel fMRI paradigm to measure children's neural correlates of cognitive reappraisal and emotional reactivity. This manuscript is currently in preparation. (Collaborators: Michelle Shipkova co-first author, Margaret Sheridan)
 - **Gut microbiome and neural structure**: This project explores associations between the gut microbiome taxonomy and diversity, and neural structures involved in threat processing (ie, amygdala, insula, acc, thalamus) in neonates. This manuscript is currently in preparation. (Collaborators: Michelle Graf co-first author, Margaret Sheridan, Rebecca Knickmeyer, Cathi Propper)
 - **Autonomic nervous system and neural systems underlying emotion dysregulation in early childhood**: Using an fMRI paradigm, we are exploring how the autonomic nervous system at rest impacts the neural correlates underlying emotional reactivity and regulation in early childhood. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan)
+
+## Contact
 
 If you are interested in talking about my research you can contact me at: jnicolas@email.unc.edu, or DM me on [![Twitter](https://img.icons8.com/material-outlined/24/000000/twitter.png)](https://twitter.com/jnmurgueitio).
 
