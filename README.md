@@ -16,6 +16,15 @@ I am currently leading the following projects:
 - **Gut microbiome and neural structure**: This project explores associations between the gut microbiome taxonomy and diversity, and neural structures involved in threat processing (ie, amygdala, insula, acc, thalamus) in neonates. This manuscript is currently in preparation. (Collaborators: Michelle Graf co-first author, Margaret Sheridan, Rebecca Knickmeyer, Cathi Propper)
 - **Autonomic nervous system and neural systems underlying emotion dysregulation in early childhood**: Using an fMRI paradigm, we are exploring how the autonomic nervous system at rest impacts the neural correlates underlying emotional reactivity and regulation in early childhood. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan)
 
+## Publications
+
+Murgueitio N, Sheridan MA, Bauer DJ, Propper CB. (accepted). Developmental mechanisms linking deprivation and threat to psychopathology and school outcomes. Development and Psychopathology. 
+Murgueitio N, Tate M, Lurie L, Priddy Z, Boda S, Shipkova M, Rodriguez M, Machlin L, Furlong S, Mitchell A, McLaughlin KA, Sheridan MA. (2024). Testing a conceptual model of early adversity, neural function, and psychopathology: Protocol for a retrospective observational cohort study. JMIR Research Protocols. PMID: 39287225. 
+Reyes-Rodriguez ML, Pérez M, Murgueitio J, Martinez Caballero M, Ortiz Gonzalez, JC. (2023). Eating and Feeding Disorders in Latino Communities in the Caribbean: A Narrative Systematic Review. Revista Puertorriqueña de Psicología. 
+Romano KA, Lipson SK, Beccia AL, Quatromoni PA, Murgueitio J. (2023). Disparities in eating disorder symptoms and mental healthcare engagement prior to and following the onset of the COVID ‐19 pandemic: Findings from a national study of US college students. International Journal of Eating Disorders. PMID: 36479981. 
+Romano KA, Lipson SK, Beccia AL, Quatromoni PA, Gordon AR, Murgueitio J. (2022). Changes in the prevalence and sociodemographic correlates of eating disorder symptoms from 2013 to 2020 among a large national sample of U.S. young adults: A repeated cross‐sectional study. International Journal of Eating Disorders. PMID: 35338504. 
+Jimenez-Borja M, Jimenez-Borja V, Borja-Alvarez T, Jimenez-Mosquera CJ, Murgueitio J. (2020). Prevalence of child maltreatment in Ecuador using the ICAST-R. Child Abuse & Neglect. PMID: 31722265.
+
 
 ## Contact
 
