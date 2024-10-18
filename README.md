@@ -1,14 +1,17 @@
 #  **Nicolas Murgueitio**
 
-I am a graduate student with a focus on Developmental Neuroscience working in the Sheridan and Propper Labs at The University of North Carolina at Chapel Hill. I study the immediate and enduring consequences of childhood trauma, with a focus on how children learn from, remember, forget, and respond to aversive experiences. I am also interested in how peripheral biological systems support emotional reactivity, regulation, and brain development. This research program is heavily informed by rodent models of adversity rearing, specifically those focused on traumatic learning environments.
+## About Me
+
+I am a graduate student with a focus on Developmental Neuroscience working in the Sheridan and Propper Labs at The University of North Carolina at Chapel Hill. I study the immediate and enduring consequences of childhood trauma, with a focus on how children learn from, remember, forget, and respond to aversive experiences. I am also interested in how peripheral biological systems are associated with aversive neural responses and brain development. This research program is heavily informed by rodent models of adversity rearing, specifically those focused on traumatic learning environments.
 
 I use a variety of methodologies and approaches including task-based fMRI and structural MRI, physiology (ie, HRV, EDA), parent-reported and self-report questionnaires, genetic sequencing, psychiatric assessments, behavioral observations, statistical modeling, and machine learning.
 
-
 ## Projects
 
+### Intimate-Partner Violence and Anger Bias
+
 I am currently leading the following projects:
-- **Intimate-partner violence and anger bias**: This project explores how early exposure to intimate-partner violence impacts anger bias in early (6 years) and middle childhood (9 years), above experiences of cognitive deprivation and emotion socialization. We are also exploring whether these experiences differentially predict global emotion recognition at the same ages. This manuscript is currently under review. (Collaborators: Cathi Propper, Margaret Sheridan)
+- **Intimate-partner violence and anger bias**: Children exposed to violence often show atypical social behaviors that might origin in how they process social and affective information. This project explores whether experiences of intimate-partner violence predict anger bias across early and middle childhood above experiences of deprivation and emotion socialization. This manuscript is currently under review.
 - **Childhood trauma and aversive learning**: We developed a novel learning paradigm to study how young children acquire aversive responses to caregivers and strangers, and we are studying how exposure to childhood threat impacts physiological (ie HRV, SCR) responses to this paradigm. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Regina Sullivan, Katie McLaughlin)
 - **Neural processing of caregiver cues in threat-reared children**: We are exploring how exposure to threat impacts children's neural responses to caregivers during an fMRI paradigm. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Regina Sullivan, Katie McLaughlin)
 - **Neural systems supporting cognitive reappraisal in early childhood**: We developed a novel fMRI paradigm to measure children's neural correlates of cognitive reappraisal and emotional reactivity. This manuscript is currently in preparation. (Collaborators: Michelle Shipkova co-first author, Margaret Sheridan)
