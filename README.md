@@ -44,6 +44,25 @@ Romano KA, Lipson SK, Beccia AL, Quatromoni PA, Gordon AR, Murgueitio J. (2022).
 
 Jimenez-Borja M, Jimenez-Borja V, Borja-Alvarez T, Jimenez-Mosquera CJ, Murgueitio J. (2020). Prevalence of child maltreatment in Ecuador using the ICAST-R. Child Abuse & Neglect. PMID: 31722265.
 
+## Selected Conference Presentations
+Murgueitio N, Garrisi K, Shipkova M, Sheridan MA. (2024). Autonomic nervous system activity is associated with neural correlates of emotion dysregulation in early childhood: A preliminary analysis. 63rd Annual Meeting of the American College of Neuropsychopharmacology. Poster Presentation. 
+
+Murgueitio N, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB. (2024). Early exposure to intimate-partner violence predicts anger bias in early and middle childhood. Flux Society for Developmental Cognitive Neuroscience. Poster Presentation.
+
+Murgueitio N, Garrisi K, Shipkova M, Sheridan MA. (2024). Vagal tone and neural systems underlying emotional reactivity in young children. Society for Behavioral Neuroendocrinology. Poster Presentation.
+
+Murgueitio N, Sheridan MA, Quinn RA, Carlson AL, Styner MA, Alex AM, Stephens RL, Mills-Koonce WR, Short SJ, Knickmeyer RC, Propper CB. (2023). The gut microbiome is associated with insula structure in neonates. 62nd Annual Meeting of the American College of Neuropsychopharmacology. Poster Presentation. 
+
+Murgueitio N, Sheridan MA, Bauer DJ, Propper CB. (2023). Emotional reactivity as a mechanism linking threat and psychopathology: A multimodal assessment study from infancy to childhood. Developmental Affective Neuroscience Symposium. Poster Presentation. 
+
+Murgueitio N, Carlson AL, Quinn RA, Sheridan MA, Styner MA, Birn RM, Stephens RL, Mills-Koonce WR, Short SJ, Knickmeyer RC, Propper CB.  (2023). Gut microbiome is associated with neuro-affective development during infancy. Fetal Infant Toddler Neuroimaging Group. Poster Presentation. 
+
+Murgueitio N, Garrisi K, Tate M, Meyer C, Motton S, Milojevich H, Mitchell A, Sullivan R, McLaughlin KA, Dennis TA, Myruski S, Sheridan MA. (2023). Neural correlates of attachment learning. Flux Society for Developmental Cognitive Neuroscience. Poster Presentation.
+
+Murgueitio N, Garrisi K, Tate M, Meyer C, Motton S, Milojevich H, Mitchell A, Sullivan R, McLaughlin KA, Dennis TA, Myruski S, Sheridan MA. (2023). Impact of caregiving instability on young children’s neural processes using a novel emotion regulation fMRI paradigm. The Social Neuroscience of Relationships, Attachment, and Caregiving. Poster Presentation.
+
+Murgueitio JN, McLaughlin K, Sheridan MA, Willoughby M, Mills-Koonce WR, Short SJ, Propper CB. (2022). Testing the effects of threat exposure on negative affect and parasympathetic activity during infancy and early childhood. International Society for Developmental Psychobiology. Poster Presentation.
+
 
 ## Contact
 
