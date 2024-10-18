@@ -6,19 +6,29 @@ I am a graduate student with a focus on Developmental Neuroscience working in th
 
 I use a variety of methodologies and approaches including task-based fMRI and structural MRI, physiology (ie, HRV, EDA), parent-reported and self-report questionnaires, genetic sequencing, psychiatric assessments, behavioral observations, statistical modeling, and machine learning.
 
+Additionally, I collaborate with scientists across disciplines to explore other questions such as how adolescents brains process social information and the role of prenatal experiences (ie stress, sleep, nutrition) on child brain development. 
+
 ## Projects
 
-### Intimate-Partner Violence and Anger Bias
+### Intimate-partner violence and anger bias
 
-I am currently leading the following projects:
-- **Intimate-partner violence and anger bias**: Children exposed to violence often show atypical social behaviors that might origin in how they process social and affective information. This project explores whether experiences of intimate-partner violence predict anger bias across early and middle childhood above experiences of deprivation and emotion socialization. This manuscript is currently under review.
-- **Childhood trauma and aversive learning**: We developed a novel learning paradigm to study how young children acquire aversive responses to caregivers and strangers, and we are studying how exposure to childhood threat impacts physiological (ie HRV, SCR) responses to this paradigm. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Regina Sullivan, Katie McLaughlin)
-- **Neural processing of caregiver cues in threat-reared children**: We are exploring how exposure to threat impacts children's neural responses to caregivers during an fMRI paradigm. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Regina Sullivan, Katie McLaughlin)
-- **Neural systems supporting cognitive reappraisal in early childhood**: We developed a novel fMRI paradigm to measure children's neural correlates of cognitive reappraisal and emotional reactivity. This manuscript is currently in preparation. (Collaborators: Michelle Shipkova co-first author, Margaret Sheridan)
-- **Preschool threat exposure, emotional reactivity, and affective coloring**: We using data from a longitudinal study exploring the role of preschool threat exposure on the neural correlates of emotional reactivity and affective coloring. (Collaborators: Margaret Sheridan, William Copeland, Kimberly Carpenter)
-- **Gut microbiome and neural structure**: This project explores associations between the gut microbiome taxonomy and diversity, and neural structures involved in threat processing (ie, amygdala, insula, acc, thalamus) in neonates. This manuscript is currently in preparation. (Collaborators: Michelle Graf co-first author, Margaret Sheridan, Rebecca Knickmeyer, Cathi Propper)
-- **Autonomic nervous system and neural systems underlying emotional reactivity in early childhood**: Using an fMRI paradigm, we are exploring how the autonomic nervous system at rest impacts the neural correlates underlying emotional reactivity in early childhood. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Katie Mclaughlin)
-- **Threat and anger**: Prior research shows that threat exposure but not experiences of deprivation are linked with irritability in youth. This project explores whether anger  acts as a unique link between threat experiences and psychopathology across childhood, and whether it differs with other negative emotions such as fear. This manuscript is currently in preparation. (Collaborators: Cathi Propper, Margaret Sheridan)
+Children exposed to violence often show atypical social behaviors that might origin in how they process social and affective information. This project explores whether experiences of intimate-partner violence predict anger bias across early and middle childhood above experiences of deprivation and emotion socialization. This manuscript is currently under review. (Collaborators: Cathi Propper Margaret Sheridan).
+
+### Threat exposure and aversive learning in early childhood
+
+Rodent models of threat rearing show that these experiences drive an accelerated development of aversive learning in young offspring. This study explores associations between threat  exposure and physiological systems underlying aversive learning using a novel caregiver-stranger paradigm. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Regina Sullivan, Katie McLaughlin).
+
+### Neural processing of caregiver cues in threat reared children
+
+Research suggests that children exposed to childhood adversity show differences in how they process caregiver (ie faces) cues. However, animal models of threat rearing suggest that experiences of threat might drive these neurobiological effects. This study uses fMRI to explore how threat exposure impacts neural processing of caregiver (audio-visual) cues in early childhood. This manuscript is currently in preparation.(Collaborators: Margaret Sheridan, Regina Sullivan).
+
+## Autonomic nervous system and neural correlates of emotional reactivity
+
+Extensive research shows that individual autonomic nervous system functioning relate to behavioral developmenta and emotional response systems. The present study explores whether this association is in part explained by how children's brains respond to negative stimuli using fMRI. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Katie Mclaughlin).
+
+## Gut microbiome and neural strucutre
+
+The gut microbiome has been identified as a possible mechanism and biomarker of precursors of psychopathology, including how children process and respond to aversive stimuli. This project explores associations between the neonatal gut microbiome and structures of the brain involved in salience processing. (Collaborators: Michelle Graf co-first author, Margaret Sheridan, Rebecca Knickmeyer, Cathi Propper).
 
 ## Publications
 
