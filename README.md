@@ -22,11 +22,11 @@ Rodent models of threat rearing show that these experiences drive an accelerated
 
 Research suggests that children exposed to childhood adversity show differences in how they process caregiver (ie faces) cues. However, animal models of threat rearing suggest that experiences of threat might drive these neurobiological effects. This study uses fMRI to explore how threat exposure impacts neural processing of caregiver (audio-visual) cues in early childhood. This manuscript is currently in preparation.(Collaborators: Margaret Sheridan, Regina Sullivan).
 
-## Autonomic nervous system and neural correlates of emotional reactivity
+### Autonomic nervous system and neural correlates of emotional reactivity
 
 Extensive research shows that individual autonomic nervous system functioning relate to behavioral developmenta and emotional response systems. The present study explores whether this association is in part explained by how children's brains respond to negative stimuli using fMRI. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Katie Mclaughlin).
 
-## Gut microbiome and neural strucutre
+### Gut microbiome and neural strucutre
 
 The gut microbiome has been identified as a possible mechanism and biomarker of precursors of psychopathology, including how children process and respond to aversive stimuli. This project explores associations between the neonatal gut microbiome and structures of the brain involved in salience processing. (Collaborators: Michelle Graf co-first author, Margaret Sheridan, Rebecca Knickmeyer, Cathi Propper).
 
