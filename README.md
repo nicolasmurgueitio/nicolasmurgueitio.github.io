@@ -36,6 +36,8 @@ Murgueitio N, Sheridan MA, Bauer DJ, Propper CB. (2024). Developmental mechanism
 
 Murgueitio N, Tate M, Lurie L, Priddy Z, Boda S, Shipkova M, Rodriguez M, Machlin L, Furlong S, Mitchell A, McLaughlin KA, Sheridan MA. (2024). Testing a conceptual model of early adversity, neural function, and psychopathology: Protocol for a retrospective observational cohort study. JMIR Research Protocols. PMID: 39287225. 
 
+Graf MD, Murgueitio N, Vogel SC, Carlson AL, Hicks L, Propper CB, Kimmel MC. (2024). Maternal prenatal stress and the offspring gut microbiome: A cross-species systematic review. Developmental Psychobiology. 
+
 Reyes-Rodriguez ML, Pérez M, Murgueitio J, Martinez Caballero M, Ortiz Gonzalez JC. (2023). Eating and Feeding Disorders in Latino Communities in the Caribbean: A Narrative Systematic Review. Revista Puertorriqueña de Psicología. 
 
 Romano KA, Lipson SK, Beccia AL, Quatromoni PA, Murgueitio J. (2023). Disparities in eating disorder symptoms and mental healthcare engagement prior to and following the onset of the COVID ‐19 pandemic: Findings from a national study of US college students. International Journal of Eating Disorders. PMID: 36479981. 
