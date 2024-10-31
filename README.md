@@ -2,11 +2,11 @@
 
 ## About Me
 
-I am a graduate student with a focus on Developmental Neuroscience working in the Sheridan and Propper Labs at The University of North Carolina at Chapel Hill. I study the immediate and enduring consequences of childhood trauma, with a focus on how children learn from, remember, forget, and respond to aversive experiences. I am also interested in how peripheral biological systems are associated with aversive neural responses and brain development. This research program is heavily informed by rodent models of adversity rearing, specifically those focused on traumatic learning environments.
+I am a graduate student with a focus on Developmental Neuroscience working in the Sheridan and Propper Labs at The University of North Carolina at Chapel Hill. I study the immediate and enduring consequences of childhood trauma, with a focus on how children learn from, remember, and respond to aversive experiences. I am also interested in how peripheral biology is associated with neurodevelopment, specifically with neural networks that support aversive learning and response systems. This research program is heavily informed by rodent models of adversity rearing, specifically those focused on traumatic learning environments.
 
 I use a variety of methodologies and approaches including task-based fMRI and structural MRI, physiology (ie, HRV, EDA), parent-reported and self-report questionnaires, genetic sequencing, psychiatric assessments, behavioral observations, statistical modeling, and machine learning.
 
-Additionally, I collaborate with scientists across disciplines to explore other questions such as how adolescents brains process social information and the role of prenatal experiences (ie stress, sleep, nutrition) on child brain development. 
+Additionally, I collaborate with scientists across disciplines to explore other questions such as how the adolescent brain processess social information and the role of prenatal exposures (ie stress, sleep, nutrition, toxic metals) on offspring neurodevelopment. 
 
 ## Projects
 
@@ -16,7 +16,7 @@ Children exposed to violence often show atypical social behaviors that might ori
 
 ### Threat exposure and aversive learning in early childhood
 
-Rodent models of threat rearing show that these experiences drive an accelerated development of aversive learning in young offspring. This study explores associations between threat  exposure and physiological systems underlying aversive learning using a novel caregiver-stranger paradigm. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Regina Sullivan, Katie McLaughlin).
+Rodent models of threat rearing show that these experiences drive an accelerated development of aversive learning in young offspring. This study explores associations between threat  exposure and physiological systems underlying aversive learning using a novel caregiver-stranger paradigm. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Regina Sullivan).
 
 ### Neural processing of caregiver cues in threat reared children
 
@@ -28,7 +28,7 @@ Extensive research shows that individual autonomic nervous system functioning re
 
 ### Gut microbiome and neural strucutre
 
-The gut microbiome has been identified as a possible mechanism and biomarker of precursors of psychopathology, including how children process and respond to aversive stimuli. This project explores associations between the neonatal gut microbiome and structures of the brain involved in salience processing. (Collaborators: Michelle Graf co-first author, Margaret Sheridan, Rebecca Knickmeyer, Cathi Propper).
+The gut microbiome has been identified as a possible mechanism and biomarker of precursors of psychopathology, including how children process and respond to aversive stimuli. This project explores associations between the neonatal gut microbiome and structures of the brain involved in salience processing. This manuscript is currently in preparation. (Collaborators: Michelle Graf co-first author, Margaret Sheridan, Rebecca Knickmeyer, Cathi Propper).
 
 ## Publications
 
