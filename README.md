@@ -28,7 +28,7 @@ Extensive research shows that individual autonomic nervous system functioning re
 
 ### Gut microbiome and neural strucutre
 
-The gut microbiome has been identified as a possible mechanism and biomarker of precursors of psychopathology, including how children process and respond to aversive stimuli. This project explores associations between the neonatal gut microbiome and structures of the brain involved in salience processing. This manuscript is currently in preparation. (Collaborators: Michelle Graf co-first author, Margaret Sheridan, Rebecca Knickmeyer, Cathi Propper).
+The gut microbiome has been identified as a possible mechanism and biomarker of precursors of psychopathology, including how children process and respond to aversive stimuli. This project explores associations between the neonatal gut microbiome and structures of the brain involved in salience detection. This manuscript is currently under review. (Collaborators: Michelle Graf co-first author, Margaret Sheridan, Rebecca Knickmeyer, Cathi Propper).
 
 ## Publications
 
