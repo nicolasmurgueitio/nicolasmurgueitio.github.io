@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a graduate student with a focus on Developmental Neuroscience working in the Sheridan and Propper Labs at The University of North Carolina at Chapel Hill. I study the immediate and enduring consequences of childhood trauma, with a focus on how children learn from, remember, and respond to aversive experiences. I am also interested in how peripheral biology is associated with neurodevelopment, specifically with neural networks that support aversive learning and response systems. This research program is heavily informed by rodent models of adversity rearing, specifically those focused on traumatic learning environments.
+I am a PhD candidate with a focus on Developmental Neuroscience working in the Sheridan and Propper Labs at The University of North Carolina at Chapel Hill. I study the immediate and enduring consequences of childhood trauma, with a focus on how children learn from, remember, and respond to aversive experiences. I am also interested in how peripheral biology is associated with neurodevelopment, specifically with neural networks that support aversive learning and response systems. This research program is heavily informed by rodent models of adversity rearing, specifically those focused on traumatic learning environments.
 
 I use a variety of methodologies and approaches including task-based fMRI and structural MRI, physiology (ie, HRV, EDA), parent-reported and self-report questionnaires, genetic sequencing, psychiatric assessments, behavioral observations, statistical modeling, and machine learning.
 
@@ -32,43 +32,43 @@ The gut microbiome has been identified as a possible mechanism and biomarker of 
 
 ## Publications
 
-Murgueitio N, Sheridan MA, Bauer DJ, Propper CB. (2024). Developmental mechanisms linking deprivation and threat to psychopathology and school outcomes. Development and Psychopathology. PMID:39429002
+**Murgueitio N**, Sheridan MA, Bauer DJ, Propper CB. (2024). Developmental mechanisms linking deprivation and threat to psychopathology and school outcomes. Development and Psychopathology. PMID:39429002
 
-Murgueitio N, Tate M, Lurie L, Priddy Z, Boda S, Shipkova M, Rodriguez M, Machlin L, Furlong S, Mitchell A, McLaughlin KA, Sheridan MA. (2024). Testing a conceptual model of early adversity, neural function, and psychopathology: Protocol for a retrospective observational cohort study. JMIR Research Protocols. PMID: 39287225. 
+**Murgueitio N**, Tate M, Lurie L, Priddy Z, Boda S, Shipkova M, Rodriguez M, Machlin L, Furlong S, Mitchell A, McLaughlin KA, Sheridan MA. (2024). Testing a conceptual model of early adversity, neural function, and psychopathology: Protocol for a retrospective observational cohort study. JMIR Research Protocols. PMID: 39287225. 
 
-Graf MD, Murgueitio N, Vogel SC, Carlson AL, Hicks L, Propper CB, Kimmel MC. (2024). Maternal prenatal stress and the offspring gut microbiome: A cross-species systematic review. Developmental Psychobiology. 
+Graf MD, **Murgueitio N**, Vogel SC, Carlson AL, Hicks L, Propper CB, Kimmel MC. (2024). Maternal prenatal stress and the offspring gut microbiome: A cross-species systematic review. Developmental Psychobiology. 
 
-Reyes-Rodriguez ML, Pérez M, Murgueitio J, Martinez Caballero M, Ortiz Gonzalez JC. (2023). Eating and Feeding Disorders in Latino Communities in the Caribbean: A Narrative Systematic Review. Revista Puertorriqueña de Psicología. 
+Reyes-Rodriguez ML, Pérez M, **Murgueitio J**, Martinez Caballero M, Ortiz Gonzalez JC. (2023). Eating and Feeding Disorders in Latino Communities in the Caribbean: A Narrative Systematic Review. Revista Puertorriqueña de Psicología. 
 
-Romano KA, Lipson SK, Beccia AL, Quatromoni PA, Murgueitio J. (2023). Disparities in eating disorder symptoms and mental healthcare engagement prior to and following the onset of the COVID ‐19 pandemic: Findings from a national study of US college students. International Journal of Eating Disorders. PMID: 36479981. 
+Romano KA, Lipson SK, Beccia AL, Quatromoni PA, **Murgueitio J**. (2023). Disparities in eating disorder symptoms and mental healthcare engagement prior to and following the onset of the COVID ‐19 pandemic: Findings from a national study of US college students. International Journal of Eating Disorders. PMID: 36479981. 
 
-Romano KA, Lipson SK, Beccia AL, Quatromoni PA, Gordon AR, Murgueitio J. (2022). Changes in the prevalence and sociodemographic correlates of eating disorder symptoms from 2013 to 2020 among a large national sample of U.S. young adults: A repeated cross‐sectional study. International Journal of Eating Disorders. PMID: 35338504. 
+Romano KA, Lipson SK, Beccia AL, Quatromoni PA, Gordon AR, **Murgueitio J**. (2022). Changes in the prevalence and sociodemographic correlates of eating disorder symptoms from 2013 to 2020 among a large national sample of U.S. young adults: A repeated cross‐sectional study. International Journal of Eating Disorders. PMID: 35338504. 
 
-Jimenez-Borja M, Jimenez-Borja V, Borja-Alvarez T, Jimenez-Mosquera CJ, Murgueitio J. (2020). Prevalence of child maltreatment in Ecuador using the ICAST-R. Child Abuse & Neglect. PMID: 31722265.
+Jimenez-Borja M, Jimenez-Borja V, Borja-Alvarez T, Jimenez-Mosquera CJ, **Murgueitio J**. (2020). Prevalence of child maltreatment in Ecuador using the ICAST-R. Child Abuse & Neglect. PMID: 31722265.
 
-## Selected Conference Presentations
-Murgueitio N, Garrisi K, Shipkova M, Sheridan MA. (2024). Autonomic nervous system activity is associated with neural correlates of emotion dysregulation in early childhood: A preliminary analysis. 63rd Annual Meeting of the American College of Neuropsychopharmacology. Poster Presentation. 
+## Selected Conference Abstracts
+**Murgueitio N**, Garrisi K, Shipkova M, Sheridan MA. (2024). Autonomic nervous system activity is associated with neural correlates of emotion dysregulation in early childhood: A preliminary analysis. 63rd Annual Meeting of the American College of Neuropsychopharmacology. Poster Abstract. 
 
-Murgueitio N, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB. (2024). Early exposure to intimate-partner violence predicts anger bias in early and middle childhood. Flux Society for Developmental Cognitive Neuroscience. Poster Presentation.
+**Murgueitio N**, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB. (2024). Early exposure to intimate-partner violence predicts anger bias in early and middle childhood. Flux Society for Developmental Cognitive Neuroscience. Poster Abstract.
 
-Murgueitio N, Garrisi K, Shipkova M, Sheridan MA. (2024). Vagal tone and neural systems underlying emotional reactivity in young children. Society for Behavioral Neuroendocrinology. Poster Presentation.
+**Murgueitio N**, Garrisi K, Shipkova M, Sheridan MA. (2024). Vagal tone and neural systems underlying emotional reactivity in young children. Society for Behavioral Neuroendocrinology. Poster Abstract.
 
-Murgueitio N, Sheridan MA, Quinn RA, Carlson AL, Styner MA, Alex AM, Stephens RL, Mills-Koonce WR, Short SJ, Knickmeyer RC, Propper CB. (2023). The gut microbiome is associated with insula structure in neonates. 62nd Annual Meeting of the American College of Neuropsychopharmacology. Poster Presentation. 
+**Murgueitio N**, Sheridan MA, Quinn RA, Carlson AL, Styner MA, Alex AM, Stephens RL, Mills-Koonce WR, Short SJ, Knickmeyer RC, Propper CB. (2023). The gut microbiome is associated with insula structure in neonates. 62nd Annual Meeting of the American College of Neuropsychopharmacology. Poster Abstract. 
 
-Murgueitio N, Sheridan MA, Bauer DJ, Propper CB. (2023). Emotional reactivity as a mechanism linking threat and psychopathology: A multimodal assessment study from infancy to childhood. Developmental Affective Neuroscience Symposium. Poster Presentation. 
+**Murgueitio N**, Sheridan MA, Bauer DJ, Propper CB. (2023). Emotional reactivity as a mechanism linking threat and psychopathology: A multimodal assessment study from infancy to childhood. Developmental Affective Neuroscience Symposium. Poster Abstract. 
 
-Murgueitio N, Carlson AL, Quinn RA, Sheridan MA, Styner MA, Birn RM, Stephens RL, Mills-Koonce WR, Short SJ, Knickmeyer RC, Propper CB.  (2023). Gut microbiome is associated with neuro-affective development during infancy. Fetal Infant Toddler Neuroimaging Group. Poster Presentation. 
+**Murgueitio N**, Carlson AL, Quinn RA, Sheridan MA, Styner MA, Birn RM, Stephens RL, Mills-Koonce WR, Short SJ, Knickmeyer RC, Propper CB.  (2023). Gut microbiome is associated with neuro-affective development during infancy. Fetal Infant Toddler Neuroimaging Group. Poster Abstract. 
 
-Murgueitio N, Garrisi K, Tate M, Meyer C, Motton S, Milojevich H, Mitchell A, Sullivan R, McLaughlin KA, Dennis TA, Myruski S, Sheridan MA. (2023). Neural correlates of attachment learning. Flux Society for Developmental Cognitive Neuroscience. Poster Presentation.
+**Murgueitio N**, Garrisi K, Tate M, Meyer C, Motton S, Milojevich H, Mitchell A, Sullivan R, McLaughlin KA, Dennis TA, Myruski S, Sheridan MA. (2023). Neural correlates of attachment learning. Flux Society for Developmental Cognitive Neuroscience. Poster Abstract.
 
-Murgueitio N, Garrisi K, Tate M, Meyer C, Motton S, Milojevich H, Mitchell A, Sullivan R, McLaughlin KA, Dennis TA, Myruski S, Sheridan MA. (2023). Impact of caregiving instability on young children’s neural processes using a novel emotion regulation fMRI paradigm. The Social Neuroscience of Relationships, Attachment, and Caregiving. Poster Presentation.
+**Murgueitio N**, Garrisi K, Tate M, Meyer C, Motton S, Milojevich H, Mitchell A, Sullivan R, McLaughlin KA, Dennis TA, Myruski S, Sheridan MA. (2023). Impact of caregiving instability on young children’s neural processes using a novel emotion regulation fMRI paradigm. The Social Neuroscience of Relationships, Attachment, and Caregiving. Poster Abstract.
 
-Murgueitio JN, McLaughlin K, Sheridan MA, Willoughby M, Mills-Koonce WR, Short SJ, Propper CB. (2022). Testing the effects of threat exposure on negative affect and parasympathetic activity during infancy and early childhood. International Society for Developmental Psychobiology. Poster Presentation.
+**Murgueitio JN**, McLaughlin K, Sheridan MA, Willoughby M, Mills-Koonce WR, Short SJ, Propper CB. (2022). Testing the effects of threat exposure on negative affect and parasympathetic activity during infancy and early childhood. International Society for Developmental Psychobiology. Poster Abstract.
 
 
 ## Contact
 
-If you are interested in talking about my research you can contact me at: jnicolas@email.unc.edu, or DM me on [![Twitter](https://img.icons8.com/material-outlined/24/000000/twitter.png)](https://twitter.com/jnmurgueitio).
+If you are interested in talking about my research you can contact me at: jnicolas@email.unc.edu, or DM me on [![X](https://img.icons8.com/material-outlined/24/000000/twitter.png)](https://twitter.com/jnmurgueitio).
 
 You can also visit my [![GitHub](https://img.icons8.com/material-outlined/24/000000/github.png)](https://github.com/nicolasmurgueitio).
 
