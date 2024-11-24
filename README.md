@@ -32,7 +32,7 @@ The gut microbiome has been identified as a possible mechanism and biomarker of 
 
 ## Publications
 
-**Murgueitio N**, Sheridan MA, Bauer DJ, Propper CB. (2024). Developmental mechanisms linking deprivation and threat to psychopathology and school outcomes. Development and Psychopathology. PMID:[![39429002] (https://pubmed.ncbi.nlm.nih.gov/39429002/)]
+**Murgueitio N**, Sheridan MA, Bauer DJ, Propper CB. (2024). Developmental mechanisms linking deprivation and threat to psychopathology and school outcomes. Development and Psychopathology. PMID: [39429002](https://pubmed.ncbi.nlm.nih.gov/39429002/).
 
 **Murgueitio N**, Tate M, Lurie L, Priddy Z, Boda S, Shipkova M, Rodriguez M, Machlin L, Furlong S, Mitchell A, McLaughlin KA, Sheridan MA. (2024). Testing a conceptual model of early adversity, neural function, and psychopathology: Protocol for a retrospective observational cohort study. JMIR Research Protocols. PMID: 39287225. 
 
