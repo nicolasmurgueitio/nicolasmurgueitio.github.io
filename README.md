@@ -47,7 +47,7 @@ Jimenez-Borja M, Jimenez-Borja V, Borja-Alvarez T, Jimenez-Mosquera CJ, **Murgue
 
 **Murgueitio N**, Trueba AF, Pluck G. (under review). The role of emotion regulation strategies in the association between physical abuse and borderline symptoms among foster care and family-based youth in Ecuador. 
 
-+Graf MD, +**Murgueitio N**, Sheridan MA, Quinn RA, Carlson AL, Vogel SC, Styner MA, Alex AM, Stephens RL, Roach J, *Sagarnaga N, Mills-Koonce WR, Azcarate-Peril AM, Short SJ, Knickmeyer RC, Propper CB. (under review). Gut microbiome is associated with insula structure in neonates. 
++Graf MD, +**Murgueitio N**, Sheridan MA, Quinn RA, Carlson AL, Vogel SC, Styner MA, Alex AM, Stephens RL, Roach J, Sagarnaga N, Mills-Koonce WR, Azcarate-Peril AM, Short SJ, Knickmeyer RC, Propper CB. (under review). Gut microbiome is associated with insula structure in neonates. 
 
 +shared first authorship
 
