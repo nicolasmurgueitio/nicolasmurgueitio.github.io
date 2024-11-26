@@ -44,7 +44,7 @@ Romano KA, Lipson SK, Beccia AL, Quatromoni PA, **Murgueitio J**. (2023). Dispar
 
 Romano KA, Lipson SK, Beccia AL, Quatromoni PA, Gordon AR, **Murgueitio J**. (2022). Changes in the prevalence and sociodemographic correlates of eating disorder symptoms from 2013 to 2020 among a large national sample of U.S. young adults: A repeated cross‐sectional study. International Journal of Eating Disorders. PMID: 35338504. [PDF](https://www.dropbox.com/scl/fi/1939vz9rw0j2ilxss10n8/Intl-J-Eating-Disorders-2022-Romano-Changes-in-the-prevalence-and-sociodemographic-correlates-of-eating-disorder.pdf?rlkey=b7ap5qte72i4nydtg9du4bf1z&dl=0) 
 
-Jimenez-Borja M, Jimenez-Borja V, Borja-Alvarez T, Jimenez-Mosquera CJ, **Murgueitio J**. (2020). Prevalence of child maltreatment in Ecuador using the ICAST-R. Child Abuse & Neglect. PMID: 31722265. [PDF](https://www.dropbox.com/scl/fi/h17icse3lrv97c33cr3im/1-s2.0-S0145213419304077-main.pdf?rlkey=ez6v8w9bfsp6p1h1yc0t38sp8&dl=0).
+Jimenez-Borja M, Jimenez-Borja V, Borja-Alvarez T, Jimenez-Mosquera CJ, **Murgueitio J**. (2020). Prevalence of child maltreatment in Ecuador using the ICAST-R. Child Abuse & Neglect. PMID: 31722265. [PDF](https://www.dropbox.com/scl/fi/h17icse3lrv97c33cr3im/1-s2.0-S0145213419304077-main.pdf?rlkey=ez6v8w9bfsp6p1h1yc0t38sp8&dl=0)
 
 ## Selected Conference Abstracts
 **Murgueitio N**, Garrisi K, Shipkova M, Sheridan MA. (2024). Autonomic nervous system activity is associated with neural correlates of emotion dysregulation in early childhood: A preliminary analysis. 63rd Annual Meeting of the American College of Neuropsychopharmacology. Poster Abstract. 
