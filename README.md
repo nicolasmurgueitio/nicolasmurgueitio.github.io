@@ -51,7 +51,7 @@ Jimenez-Borja M, Jimenez-Borja V, Borja-Alvarez T, Jimenez-Mosquera CJ, **Murgue
 
 **Murgueitio N**, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB. (2024). Early exposure to intimate-partner violence predicts anger bias in early and middle childhood. Flux Society for Developmental Cognitive Neuroscience. Poster Abstract. [PDF](https://www.dropbox.com/scl/fi/6q00pypd1m0gl31whgz3b/FLUX-2024.pdf?rlkey=p5f3cb2bn4tqb0ofljyamgrw7&dl=0)
 
-**Murgueitio N**, Garrisi K, Shipkova M, Sheridan MA. (2024). Vagal tone and neural systems underlying emotional reactivity in young children. Society for Behavioral Neuroendocrinology. Poster Abstract. [PDF]
+**Murgueitio N**, Garrisi K, Shipkova M, Sheridan MA. (2024). Vagal tone and neural systems underlying emotional reactivity in young children. Society for Behavioral Neuroendocrinology. Poster Abstract. [PDF](https://www.dropbox.com/scl/fi/b47jfpw6gc9y8bm2p9iug/SBN-2024.pdf?rlkey=722wk8eghzfi6wwquk2iht8uh&dl=0)
 
 **Murgueitio N**, Sheridan MA, Quinn RA, Carlson AL, Styner MA, Alex AM, Stephens RL, Mills-Koonce WR, Short SJ, Knickmeyer RC, Propper CB. (2023). The gut microbiome is associated with insula structure in neonates. 62nd Annual Meeting of the American College of Neuropsychopharmacology. Poster Abstract. [PDF](https://www.dropbox.com/scl/fi/cgjpd6mcewgtl8jqr7b9n/ACNP-2023.pdf?rlkey=gx8lihl50myijvln8u83y5x7e&dl=0)
 
