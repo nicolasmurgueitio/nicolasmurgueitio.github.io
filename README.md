@@ -68,7 +68,7 @@ Jimenez-Borja M, Jimenez-Borja V, Borja-Alvarez T, Jimenez-Mosquera CJ, **Murgue
 
 ## Contact
 
-If you are interested in talking about my research you can contact me at: jnicolas@email.unc.edu, or DM me on [![X](https://img.icons8.com/material-outlined/24/000000/twitter.png)](https://twitter.com/jnmurgueitio).
+If you are interested in talking about my research you can contact me at: jnicolas@email.unc.edu, or DM me on [Twitter/X](https://twitter.com/jnmurgueitio).
 
-You can also visit my [![GitHub](https://img.icons8.com/material-outlined/24/000000/github.png)](https://github.com/nicolasmurgueitio).
+You can also visit my [![GitHub](https://img.icons8.com/material-outlined/24/000000/github.png)](https://github.com/nicolasmurgueitio) page. 
 
