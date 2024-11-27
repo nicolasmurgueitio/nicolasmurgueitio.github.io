@@ -22,10 +22,6 @@ Research suggests that children exposed to childhood adversity show differences 
 
 Extensive research shows that individual autonomic nervous system functioning relate to behavioral developmenta and emotional response systems. The present study explores whether this association is in part explained by how children's brains respond to negative stimuli using fMRI. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Katie Mclaughlin).
 
-### Gut microbiome and neural strucutre
-
-The gut microbiome has been identified as a possible mechanism and biomarker of precursors of psychopathology, including how children process and respond to aversive stimuli. This project explores associations between the neonatal gut microbiome and structures of the brain involved in salience detection. This manuscript is currently under review. (Collaborators: Michelle Graf co-first author, Margaret Sheridan, Rebecca Knickmeyer, Cathi Propper).
-
 ## Publications
 
 **Murgueitio N**, Sheridan MA, Bauer DJ, Propper CB. (2024). Developmental mechanisms linking deprivation and threat to psychopathology and school outcomes. Development and Psychopathology. PMID: 39429002. [PDF](https://www.dropbox.com/scl/fi/hduhp0w4smer51uqlmosj/developmental-mechanisms-linking-deprivation-and-threat-to-psychopathology-and-school-outcomes.pdf?rlkey=nrbyabx9biwgxccikk4r2i3ov&dl=0).
