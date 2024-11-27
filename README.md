@@ -6,7 +6,7 @@ I am a PhD candidate with a focus on Developmental Neuroscience working in the S
 
 I use a variety of methodologies and approaches including task-based fMRI and structural MRI, physiology (ie, HRV, EDA), parent-reported and self-report questionnaires, genetic sequencing, psychiatric assessments, behavioral observations, statistical modeling, and machine learning.
 
-Additionally, I collaborate with scientists across disciplines to explore other questions such as how the adolescent brain processess social information and the role of prenatal exposures (ie stress, sleep, nutrition, toxic metals) on offspring neurodevelopment. 
+Additionally, I collaborate with scientists across disciplines to explore other questions such as how the brain processess social information and the role of prenatal exposures (ie stress, sleep, nutrition, toxic metals) on offspring neurodevelopment. 
 
 ## Ongoing Projects
 
