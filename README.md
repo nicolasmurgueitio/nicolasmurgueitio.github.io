@@ -28,7 +28,7 @@ Extensive research shows that individual autonomic nervous system functioning re
 
 **Murgueitio N**, Tate M, Lurie L, Priddy Z, Boda S, Shipkova M, Rodriguez M, Machlin L, Furlong S, Mitchell A, McLaughlin KA, Sheridan MA. (2024). Testing a conceptual model of early adversity, neural function, and psychopathology: Protocol for a retrospective observational cohort study. JMIR Research Protocols. PMID: 39287225. [PDF](https://www.dropbox.com/scl/fi/84jxep8gzweiy177syrkx/resprot-2024-1-e59636.pdf?rlkey=f64jdnaqf4x2q1wnig2wyvpst&dl=0).
 
-Graf MD, **Murgueitio N**, Vogel SC, Carlson AL, Hicks L, Propper CB, Kimmel MC. (2024). Maternal prenatal stress and the offspring gut microbiome: A cross-species systematic review. Developmental Psychobiology. 
+Graf MD, **Murgueitio N**, Vogel SC, Carlson AL, Hicks L, Propper CB, Kimmel MC. (2024). Maternal prenatal stress and the offspring gut microbiome: A cross-species systematic review. Developmental Psychobiology. [PDF](https://www.dropbox.com/scl/fi/l3wuliusakj1z469tfqx3/Developmental-Psychobiology-2024-Graf-Maternal-Prenatal-Stress-and-the-Offspring-Gut-Microbiome-A-Cross-Species.pdf?rlkey=a08swznaumotb564owu0brz8l&dl=0)
 
 Reyes-Rodriguez ML, Pérez M, **Murgueitio J**, Martinez Caballero M, Ortiz Gonzalez JC. (2023). Eating and Feeding Disorders in Latino Communities in the Caribbean: A Narrative Systematic Review. Revista Puertorriqueña de Psicología. [PDF](https://www.dropbox.com/scl/fi/jn00mlsdf13g9fzgyhwqa/Dialnet-TrastornosDeLaIngestaYDeLaConductaAlimentariaEnPob-9107831.pdf?rlkey=80tqf366kzs2twloqqloc7lpp&dl=0).
 
