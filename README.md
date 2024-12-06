@@ -24,11 +24,11 @@ Extensive research shows that individual autonomic nervous system functioning re
 
 ## Publications
 
+Graf MD, **Murgueitio N**, Vogel SC, Carlson AL, Hicks L, Propper CB, Kimmel MC. (2025). Maternal prenatal stress and the offspring gut microbiome: A cross-species systematic review. Developmental Psychobiology. PMID: 39636074. [PDF](https://www.dropbox.com/scl/fi/l3wuliusakj1z469tfqx3/Developmental-Psychobiology-2024-Graf-Maternal-Prenatal-Stress-and-the-Offspring-Gut-Microbiome-A-Cross-Species.pdf?rlkey=a08swznaumotb564owu0brz8l&dl=0)
+
 **Murgueitio N**, Sheridan MA, Bauer DJ, Propper CB. (2024). Developmental mechanisms linking deprivation and threat to psychopathology and school outcomes. Development and Psychopathology. PMID: 39429002. [PDF](https://www.dropbox.com/scl/fi/hduhp0w4smer51uqlmosj/developmental-mechanisms-linking-deprivation-and-threat-to-psychopathology-and-school-outcomes.pdf?rlkey=nrbyabx9biwgxccikk4r2i3ov&dl=0).
 
 **Murgueitio N**, Tate M, Lurie L, Priddy Z, Boda S, Shipkova M, Rodriguez M, Machlin L, Furlong S, Mitchell A, McLaughlin KA, Sheridan MA. (2024). Testing a conceptual model of early adversity, neural function, and psychopathology: Protocol for a retrospective observational cohort study. JMIR Research Protocols. PMID: 39287225. [PDF](https://www.dropbox.com/scl/fi/84jxep8gzweiy177syrkx/resprot-2024-1-e59636.pdf?rlkey=f64jdnaqf4x2q1wnig2wyvpst&dl=0).
-
-Graf MD, **Murgueitio N**, Vogel SC, Carlson AL, Hicks L, Propper CB, Kimmel MC. (2024). Maternal prenatal stress and the offspring gut microbiome: A cross-species systematic review. Developmental Psychobiology. PMID: 39636074. [PDF](https://www.dropbox.com/scl/fi/l3wuliusakj1z469tfqx3/Developmental-Psychobiology-2024-Graf-Maternal-Prenatal-Stress-and-the-Offspring-Gut-Microbiome-A-Cross-Species.pdf?rlkey=a08swznaumotb564owu0brz8l&dl=0)
 
 Reyes-Rodriguez ML, Pérez M, **Murgueitio J**, Martinez Caballero M, Ortiz Gonzalez JC. (2023). Eating and Feeding Disorders in Latino Communities in the Caribbean: A Narrative Systematic Review. Revista Puertorriqueña de Psicología. [PDF](https://www.dropbox.com/scl/fi/jn00mlsdf13g9fzgyhwqa/Dialnet-TrastornosDeLaIngestaYDeLaConductaAlimentariaEnPob-9107831.pdf?rlkey=80tqf366kzs2twloqqloc7lpp&dl=0).
 
@@ -43,9 +43,7 @@ Jimenez-Borja M, Jimenez-Borja V, Borja-Alvarez T, Jimenez-Mosquera CJ, **Murgue
 
 **Murgueitio N**, Trueba AF, Pluck G. (under review). The role of emotion regulation strategies in the association between physical abuse and borderline symptoms among foster care and family-based youth in Ecuador. 
 
-+Graf MD, +**Murgueitio N**, Sheridan MA, Quinn RA, Carlson AL, Vogel SC, Styner MA, Alex AM, Stephens RL, Roach J, Sagarnaga N, Mills-Koonce WR, Azcarate-Peril AM, Short SJ, Knickmeyer RC, Propper CB. (under review). Gut microbiome is associated with insula structure in neonates. 
-
-+shared first authorship
++Graf MD, +**Murgueitio N**, Sheridan MA, Quinn RA, Carlson AL, Vogel SC, Styner MA, Alex AM, Stephens RL, Roach J, Sagarnaga N, Mills-Koonce WR, Azcarate-Peril AM, Short SJ, Knickmeyer RC, Propper CB. (under review). Gut microbiome is associated with insula structure in neonates. _+shared first authorship._
 
 Vogel SC, **Murgueitio N**, Huth N, Sem K, Knickmeyer RC, Short SJ, Mills-Koonce WR, Propper CB, Wagner NJ. (under review). Timing-specific longitudinal links between the infant gut microbiome and negative affect in toddlerhood.
 
