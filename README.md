@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a PhD candidate with a focus on Developmental Neuroscience working in the Sheridan and Propper Labs at The University of North Carolina at Chapel Hill. My research explores investigates neurodevelopmental mechanisms of transdiagnostic risk. Specifically, I study how experiences of violence shape the development of learning, memory, and emotional response systems, and how these neurobiological systems interact with bodily systems (i.e., gut microbiome and vagus nerve). 
+I am a PhD candidate with a focus on Developmental Neuroscience working in the Sheridan and Propper Labs at The University of North Carolina at Chapel Hill. My research explores investigates neurodevelopmental mechanisms of transdiagnostic risk. Specifically, I study how experiences of violence shape the development of learning, memory, and emotional response systems, and how these neurobiological systems interact with bodily systems (i.e., autonomic nervous system and microbiota). 
 
 I use a variety of methodologies and approaches including task-based fMRI and structural MRI, physiology (ie, HRV, EDA), parent-reported and self-report questionnaires, genetic sequencing, psychiatric assessments, behavioral observations, statistical modeling, and machine learning.
 
