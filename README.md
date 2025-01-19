@@ -57,7 +57,7 @@ Extensive research shows that individual differences in autonomic nervous system
 ## Selected Conference Abstracts
 **Murgueitio N**, Garrisi K, Shipkova M, Sheridan MA. (2024). Autonomic nervous system activity is associated with neural correlates of emotion dysregulation in early childhood: A preliminary analysis. 63rd Annual Meeting of the American College of Neuropsychopharmacology. Poster Abstract. [PDF.](https://www.dropbox.com/scl/fi/bbjhmeqddovp3ea0i6hbd/ACNP-2024.pdf?rlkey=tqgd4oyjcy0ot159jj2evkptk&dl=0)
 
-**Murgueitio N**, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB. (2024). Early exposure to intimate-partner violence predicts anger bias in early and middle childhood. Flux Society for Developmental Cognitive Neuroscience. Poster Abstract. [PDF].(https://www.dropbox.com/scl/fi/6q00pypd1m0gl31whgz3b/FLUX-2024.pdf?rlkey=p5f3cb2bn4tqb0ofljyamgrw7&dl=0)
+**Murgueitio N**, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB. (2024). Early exposure to intimate-partner violence predicts anger bias in early and middle childhood. Flux Society for Developmental Cognitive Neuroscience. Poster Abstract. [PDF.](https://www.dropbox.com/scl/fi/6q00pypd1m0gl31whgz3b/FLUX-2024.pdf?rlkey=p5f3cb2bn4tqb0ofljyamgrw7&dl=0)
 
 **Murgueitio N**, Garrisi K, Shipkova M, Sheridan MA. (2024). Vagal tone and neural systems underlying emotional reactivity in young children. Society for Behavioral Neuroendocrinology. Poster Abstract. [PDF.](https://www.dropbox.com/scl/fi/b47jfpw6gc9y8bm2p9iug/SBN-2024.pdf?rlkey=722wk8eghzfi6wwquk2iht8uh&dl=0)
 
@@ -73,7 +73,7 @@ Extensive research shows that individual differences in autonomic nervous system
 
 ## Contact
 
-If you are interested in talking about my research you can contact me at: [jnicolas@email.unc.edu](<jnicolas@email.unc.edu>), or DM me on [Twitter/X](https://twitter.com/jnmurgueitio).
+If you are interested in talking about my research you can contact me at: [jnicolas@email.unc.edu](mailto:jnicolas@email.unc.edu), or DM me on [Twitter/X](https://twitter.com/jnmurgueitio).
 
-You can also visit my [![GitHub](https://img.icons8.com/material-outlined/24/000000/github.png)](https://github.com/nicolasmurgueitio) page. 
+You can also visit my [![GitHub](https://img.icons8.com/material-outlined/24/000000/github.png)](https://github.com/nicolasmurgueitio). 
 
