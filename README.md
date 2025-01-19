@@ -16,7 +16,7 @@ We are using a novel caregiver-stranger learning paradigm to explore how threat 
 
 ### Neural processing of caregiver cues in threat reared children
 
-This project explores how exposure to threat impacts neural processing of caregiver cues using fMRI in a sample of young children with exposure to adversity. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Regina Sullivan). [OSF Pre-registration.](https://doi.org/10.17605/OSF.IO/GPJCH)
+This project explores how exposure to threat impacts neural processing of caregiver cues using fMRI in a sample of young children with exposure to adversity. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Regina Sullivan). [OSF Pre-registration.](https://osf.io/m5d2g)
 
 ### Autonomic nervous system and neural correlates of emotional reactivity
 
