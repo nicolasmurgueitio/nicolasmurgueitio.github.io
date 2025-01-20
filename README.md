@@ -22,6 +22,9 @@ This project explores how exposure to threat impacts neural processing of caregi
 
 Extensive research shows that individual differences in autonomic nervous system function increase or decrease risk for aberrant behavioral development. This multimodal study explores associations between ANS functioning at rest and children's neural responses to negative stimuli using fMRI. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Katie Mclaughlin). [OSF Pre-registration.](https://doi.org/10.17605/OSF.IO/S7M9K)
 
+### Neural correlates of cognitive reappraisal in early childhood
+We are using a novel guided cognitive reappraisal fMRI task to investigate the neural correlates of voluntary emotion regulation strategies in early childhood. This manuscript is currently in preparation. (Collaborators: Michelle Shipkova, co-first author; Margaret Sheridan, Kristen Lindquist). [OSF Pre-registration](https://osf.io/k98pj)
+
 ## Publications
 
 Graf MD, **Murgueitio N**, Vogel SC, Carlson AL, Hicks L, Propper CB, Kimmel MC. (2025). Maternal prenatal stress and the offspring gut microbiome: A cross-species systematic review. Developmental Psychobiology. PMID: 39636074. [PDF.](https://www.dropbox.com/scl/fi/l3wuliusakj1z469tfqx3/Developmental-Psychobiology-2024-Graf-Maternal-Prenatal-Stress-and-the-Offspring-Gut-Microbiome-A-Cross-Species.pdf?rlkey=a08swznaumotb564owu0brz8l&dl=0)
