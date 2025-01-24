@@ -49,7 +49,7 @@ Jimenez-Borja M, Jimenez-Borja V, Borja-Alvarez T, Jimenez-Mosquera CJ, **Murgue
 
 +Graf MD, +**Murgueitio N**, Sheridan MA, Quinn RA, Carlson AL, Vogel SC, Styner MA, Alex AM, Stephens RL, Roach J, Sagarnaga N, Mills-Koonce WR, Azcarate-Peril AM, Short SJ, Knickmeyer RC, Propper CB. Gut microbiome is associated with insula structure in neonates. _+shared first authorship._
 
-Vogel SC, **Murgueitio N**, Huth N, Sem K, Knickmeyer RC, Short SJ, Mills-Koonce WR, Propper CB, Wagner NJ. Timing-specific longitudinal links between the infant gut microbiome and negative affect in toddlerhood. [Pre-print.](https://doi.org/10.17605/OSF.IO/S7M9K)
+Vogel SC, **Murgueitio N**, Huth N, Sem K, Knickmeyer RC, Short SJ, Mills-Koonce WR, Propper CB, Wagner NJ. Timing-specific longitudinal links between the infant gut microbiome and negative affect in toddlerhood. [Pre-print.](https://osf.io/preprints/psyarxiv/z2s8h)
 
 Wylie AC, **Murgueitio N**, Carlson AL, Fry R, Propper CB. The role of the gut microbiome in the associations between lead exposure and child neurodevelopment.
    
