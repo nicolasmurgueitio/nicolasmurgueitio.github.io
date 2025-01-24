@@ -43,19 +43,19 @@ Jimenez-Borja M, Jimenez-Borja V, Borja-Alvarez T, Jimenez-Mosquera CJ, **Murgue
 
 ## Manuscripts Under Review
 
-**Murgueitio N**, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB. (under review). Early exposure to intimate-partner violence predicts anger bias in early and middle childhood.
+**Murgueitio N**, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB.  Developmental impacts of deprivation and threat on emotion recognition. 
 
-**Murgueitio N**, Trueba AF, Pluck G. (under review). The role of emotion regulation strategies in the association between physical abuse and borderline symptoms among foster care and family-based youth in Ecuador. 
+**Murgueitio N**, Trueba AF, Pluck G. The role of emotion regulation strategies in the association between physical abuse and borderline symptoms among foster care and family-based youth in Ecuador. 
 
-+Graf MD, +**Murgueitio N**, Sheridan MA, Quinn RA, Carlson AL, Vogel SC, Styner MA, Alex AM, Stephens RL, Roach J, Sagarnaga N, Mills-Koonce WR, Azcarate-Peril AM, Short SJ, Knickmeyer RC, Propper CB. (under review). Gut microbiome is associated with insula structure in neonates. _+shared first authorship._
++Graf MD, +**Murgueitio N**, Sheridan MA, Quinn RA, Carlson AL, Vogel SC, Styner MA, Alex AM, Stephens RL, Roach J, Sagarnaga N, Mills-Koonce WR, Azcarate-Peril AM, Short SJ, Knickmeyer RC, Propper CB. Gut microbiome is associated with insula structure in neonates. _+shared first authorship._
 
-Vogel SC, **Murgueitio N**, Huth N, Sem K, Knickmeyer RC, Short SJ, Mills-Koonce WR, Propper CB, Wagner NJ. (under review). Timing-specific longitudinal links between the infant gut microbiome and negative affect in toddlerhood. [Pre-print.](https://doi.org/10.17605/OSF.IO/S7M9K)
+Vogel SC, **Murgueitio N**, Huth N, Sem K, Knickmeyer RC, Short SJ, Mills-Koonce WR, Propper CB, Wagner NJ. Timing-specific longitudinal links between the infant gut microbiome and negative affect in toddlerhood. [Pre-print.](https://doi.org/10.17605/OSF.IO/S7M9K)
 
-Wylie AC, **Murgueitio N**, Carlson AL, Fry R, Propper CB. (under review). The role of the gut microbiome in the associations between lead exposure and child neurodevelopment.
+Wylie AC, **Murgueitio N**, Carlson AL, Fry R, Propper CB. The role of the gut microbiome in the associations between lead exposure and child neurodevelopment.
    
-Propper CB, Holochwost SJ, **Murgueitio N**, Short SJ, Mills-Koonce WR. (under review). Prenatal sleep quality, hippocampal volume, and infant emotion at 6 months of age.
+Propper CB, Holochwost SJ, **Murgueitio N**, Short SJ, Mills-Koonce WR. Prenatal sleep quality, hippocampal volume, and infant emotion at 6 months of age.
    
-Brinson AK, Propper CB, **Murgueitio N**, Reed KK, Hoke M, Wasser H, Mills-Koonce WR, Knickmeyer RC, Short SJ, Thompson AL. (under review). An exploratory analysis of the associations between infant night wakings and gut microbiota at 2-weeks. 
+Brinson AK, Propper CB, **Murgueitio N**, Reed KK, Hoke M, Wasser H, Mills-Koonce WR, Knickmeyer RC, Short SJ, Thompson AL. An exploratory analysis of the associations between infant night wakings and gut microbiota at 2-weeks. 
 
 ## Selected Conference Abstracts
 **Murgueitio N**, Garrisi K, Shipkova M, Sheridan MA. (2024). Autonomic nervous system activity is associated with neural correlates of emotion dysregulation in early childhood: A preliminary analysis. 63rd Annual Meeting of the American College of Neuropsychopharmacology. Poster Abstract. [PDF.](https://www.dropbox.com/scl/fi/bbjhmeqddovp3ea0i6hbd/ACNP-2024.pdf?rlkey=tqgd4oyjcy0ot159jj2evkptk&dl=0)
