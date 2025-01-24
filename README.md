@@ -43,7 +43,7 @@ Jimenez-Borja M, Jimenez-Borja V, Borja-Alvarez T, Jimenez-Mosquera CJ, **Murgue
 
 ## Manuscripts Under Review
 
-**Murgueitio N**, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB.  Developmental impacts of deprivation and threat on emotion recognition. 
+**Murgueitio N**, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB.  Developmental impacts of deprivation and threat on emotion perception. 
 
 **Murgueitio N**, Trueba AF, Pluck G. The role of emotion regulation strategies in the association between physical abuse and borderline symptoms among foster care and family-based youth in Ecuador. 
 
