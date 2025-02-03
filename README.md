@@ -10,9 +10,9 @@ Additionally, I collaborate with scientists across disciplines to explore other 
 
 ## Ongoing Projects
 
-### Physiological systems underlying social regulation of aversive learning after threat exposure
+### Physiological systems underlying social modulation of aversive learning after threat exposure
 
-We are using a novel caregiver-stranger learning paradigm to explore how threat exposure impacts the development of aversive learning and the social regulation of aversive learning in young children. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Regina Sullivan). [OSF Pre-registration.](https://doi.org/10.17605/OSF.IO/GPJCH)
+We are using a novel caregiver-stranger learning paradigm to explore how threat exposure impacts the development of aversive learning and the social modulation of aversive learning in young children. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Regina Sullivan). [OSF Pre-registration.](https://doi.org/10.17605/OSF.IO/GPJCH)
 
 ### Neural processing of caregiver cues in threat reared children
 
