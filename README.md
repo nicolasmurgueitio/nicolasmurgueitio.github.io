@@ -2,11 +2,11 @@
 
 ## About Me
 
-I am a PhD candidate with a focus on Developmental Neuroscience working in the Sheridan and Propper Labs at The University of North Carolina at Chapel Hill. My research investigates neurodevelopmental mechanisms of transdiagnostic risk. Specifically, I study how experiences of violence shape the development of learning, memory, and emotional processing systems, and how these neurobiological systems interact with bodily systems (i.e., autonomic physiology and microbiota). 
+I am a PhD candidate with a focus on Child Psychology and Neuroscience working at The University of North Carolina at Chapel Hill. My research investigates neurodevelopmental mechanisms of transdiagnostic risk. Specifically, I study how experiences of violence shape the development of learning, memory, and emotional processing systems, and how these neurobiological systems interact with bodily systems (i.e., autonomic physiology and microbiota). 
 
 I use a variety of methodologies and approaches including task-based fMRI and structural MRI, physiology (ie, HRV, EDA), parent-reported and self-report questionnaires, genetic sequencing, psychiatric assessments, behavioral observations, statistical modeling, and machine learning.
 
-Additionally, I collaborate with scientists across disciplines to explore other questions such as the underlying neural systems of cognitive and socioemotional processes of psychiatric risk, and the developmental origins of health and disease, starting with the prenatal period. 
+Additionally, I collaborate with scientists across disciplines to explore other questions such as the environmental and neural correlates of cognitive and socioemotional development and psychiatric risk. 
 
 ## Ongoing Projects
 
@@ -26,7 +26,7 @@ Extensive research shows that individual differences in autonomic nervous system
 We are using a novel guided cognitive reappraisal fMRI task to investigate the neural correlates of voluntary emotion regulation strategies in early childhood. This manuscript is currently in preparation. (Collaborators: Michelle Shipkova [co-first author], Margaret Sheridan, Kristen Lindquist). [OSF Pre-registration.](https://osf.io/k98pj)
 
 ### Gut microbiome and  insula functional connectivity
-This project probes associations between the infant gut microbiome and functional connectivity of the insula with other regions involved in salience detection and mental reppresentation. This manuscript is currently in preparation. (Collaborators: Cathi Propper, Sarah Short, Rasmus Birn). 
+This project probes associations between the infant gut microbiome and functional connectivity of the insula and regions involved in saliency, interoception, and mental reppresentation. This manuscript is currently in preparation. (Collaborators: Cathi Propper, Sarah Short, Rasmus Birn). 
 
 ## Publications
 
