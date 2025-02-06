@@ -48,6 +48,8 @@ Jimenez-Borja M, Jimenez-Borja V, Borja-Alvarez T, Jimenez-Mosquera CJ, **Murgue
 
 **Murgueitio N**, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB.  Developmental impacts of deprivation and threat on emotion perception. 
 
+**Murgueitio N**, Propper CB, Sheridan MA. Translating rodent models of threat to developmental neuroscience. 
+
 **Murgueitio N**, Trueba AF, Pluck G. The role of emotion regulation strategies in the association between physical abuse and borderline symptoms among foster care and family-based youth in Ecuador. 
 
 +Graf MD, +**Murgueitio N**, Sheridan MA, Quinn RA, Carlson AL, Vogel SC, Styner MA, Alex AM, Stephens RL, Roach J, Sagarnaga N, Mills-Koonce WR, Azcarate-Peril AM, Short SJ, Knickmeyer RC, Propper CB. Gut microbiome is associated with insula structure in neonates. _+shared first authorship._
