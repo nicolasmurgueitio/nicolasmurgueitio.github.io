@@ -2,11 +2,11 @@
 
 ## About Me
 
-I am a PhD candidate with a focus on Child Psychology and Neuroscience working at The University of North Carolina at Chapel Hill. My research investigates neurodevelopmental mechanisms of transdiagnostic risk. Specifically, I study how experiences of violence shape the development of learning, memory, and emotional processing systems, and how these neurobiological systems interact with bodily systems (i.e., autonomic physiology and microbiota). 
+I am a PhD candidate with a focus on Child Psychology and Neuroscience working at The University of North Carolina at Chapel Hill. My research investigates neurodevelopmental mechanisms of transdiagnostic risk. Specifically, I study how developmental threat exposure (ie, violence) shapes learning, memory, and emotional processing systems, and how these neurobiological systems interact with the viscera (ie, autonomic nervous system and gut microbiome). 
 
 I use a variety of methodologies and approaches including task-based fMRI and structural MRI, physiology (ie, HRV, EDA), parent-reported and self-report questionnaires, genetic sequencing, psychiatric assessments, behavioral observations, statistical modeling, and machine learning.
 
-Additionally, I collaborate with scientists across disciplines to explore other questions such as the environmental and neural correlates of cognitive and socioemotional development and psychiatric risk. 
+Additionally, I collaborate with scientists across disciplines to explore other topics such as the environmental and neural correlates of cognitive and socioemotional development and psychiatric risk. 
 
 ## Ongoing Projects
 
@@ -14,7 +14,7 @@ Additionally, I collaborate with scientists across disciplines to explore other 
 
 We are using a novel caregiver-stranger learning paradigm to explore how threat exposure impacts the development of aversive learning and the social modulation of aversive learning in young children. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Regina Sullivan). [OSF Pre-registration.](https://doi.org/10.17605/OSF.IO/GPJCH)
 
-### Neural processing of caregiver cues in threat reared children
+### Neural processing of caregiver cues in children reared with threat
 
 This project explores how exposure to threat impacts neural processing of caregiver cues using fMRI in a sample of young children with exposure to adversity. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Regina Sullivan). [OSF Pre-registration.](https://osf.io/m5d2g)
 
