@@ -14,7 +14,7 @@ Additionally, I collaborate with scientists across disciplines to explore other 
 
 We are using a novel caregiver-stranger learning paradigm to explore how threat exposure impacts the development of aversive learning and the social modulation of aversive learning in young children. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Regina Sullivan). [OSF Pre-registration.](https://doi.org/10.17605/OSF.IO/GPJCH)
 
-### Neural processing of caregiver cues in children reared with threat
+### Neural processing of caregiver cues in children with developmental threat exposure
 
 This project explores how exposure to threat impacts neural processing of caregiver cues using fMRI in a sample of young children with exposure to adversity. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Regina Sullivan). [OSF Pre-registration.](https://osf.io/m5d2g)
 
