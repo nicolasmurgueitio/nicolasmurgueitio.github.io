@@ -46,7 +46,7 @@ Jimenez-Borja M, Jimenez-Borja V, Borja-Alvarez T, Jimenez-Mosquera CJ, **Murgue
 
 ## Manuscripts Under Review
 
-**Murgueitio N**, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB.  Developmental impacts of deprivation and threat on emotion perception. 
+**Murgueitio N**, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB.  Developmental impacts of deprivation and threat on emotion recognition. 
 
 **Murgueitio N**, Propper CB, Sheridan MA. Translating rodent models of developmental threat exposure to human neuroscience research. 
 
