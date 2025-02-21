@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a PhD candidate with a focus on Child Psychology and Translational Neuroscience working at The University of North Carolina at Chapel Hill. My research investigates neurodevelopmental mechanisms of transdiagnostic risk. Specifically, I study how developmental threat exposure (ie, violence) shapes learning, memory, and emotional processing systems, and how these neurobiological systems interact with the viscera (ie, autonomic nervous system and gut microbiome). 
+I am a PhD candidate with a focus on Child Psychology and Translational Neuroscience working at The University of North Carolina at Chapel Hill. My research investigates neurodevelopmental mechanisms of transdiagnostic risk. Specifically, I study how developmental threat exposure (ie, violence) shapes learning, memory, and emotional and social processing systems, and how these neurobiological systems interact with the viscera (ie, autonomic nervous system and gut microbiome). 
 
 I use a variety of methodologies and approaches including task-based fMRI and structural MRI, physiology (ie, HRV, EDA), parent-reported and self-report questionnaires, genetic sequencing, psychiatric assessments, behavioral observations, statistical modeling, and machine learning.
 
