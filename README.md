@@ -77,6 +77,8 @@ Brinson AK, Propper CB, **Murgueitio N**, Reed KK, Hoke M, Wasser H, Mills-Koonc
 
 **Murgueitio N**, Garrisi K, Tate M, Meyer C, Motton S, Milojevich H, Mitchell A, Sullivan R, McLaughlin KA, Dennis TA, Myruski S, Sheridan MA. (2023). Neural correlates of attachment learning. Flux Society for Developmental Cognitive Neuroscience. Poster Abstract. [PDF.](https://www.dropbox.com/scl/fi/55ejadevbvs6u2lpcmwwp/FLUX-2023.pdf?rlkey=gjbx4k33vey6sf1vxfbmwg7xb&dl=0)
 
+**Murgueitio N**, Garrisi K, Tate M, Meyer C, Motton S, Milojevich H, Mitchell A, Sullivan R, McLaughlin KA, Dennis TA, Myruski S, Sheridan MA. (2023). Impact of caregiving instability on young children’s neural processes using a novel emotion regulation fMRI paradigm. The Social Neuroscience of Relationships, Attachment, and Caregiving. Poster Abstract.[PDF.](https://www.dropbox.com/scl/fi/eo1yj39eqmt0l7xf54mtv/SN-2023.pdf?rlkey=bk2jn2qz940h6i1krhwvyuu9x&st=hyh9hylf&dl=0)
+
 **Murgueitio JN**, McLaughlin K, Sheridan MA, Willoughby M, Mills-Koonce WR, Short SJ, Propper CB. (2022). Testing the effects of threat exposure on negative affect and parasympathetic activity during infancy and early childhood. International Society for Developmental Psychobiology. Poster Abstract. [PDF.](https://www.dropbox.com/scl/fi/t00dnfkfahlzgemcagdii/ISDP-2022.pdf?rlkey=qtlmmmcufx6ryd18muwln6krt&dl=0)
 
 ## Contact
