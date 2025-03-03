@@ -28,6 +28,9 @@ We are using a novel guided cognitive reappraisal fMRI task to investigate the n
 ### Infant gut microbiome and interoceptive circuitry
 This project probes associations between the infant gut microbiome and resting-state functional connectivity of regions associated with interoceptive processing. This manuscript is currently in preparation. (Collaborators: Cathi Propper, Sarah Short, Rasmus Birn, Rebecca Knickmeyer). 
 
+### Preschool threat exposure and circuits underlying emotional reactivity in adolescents
+Leveraging longitudinal data spanning from preschool to the adolescent years, we are exploring how preschool exposure to threat shapes neural responses to negative stimuli during adolescence. This manuscript is a registered report and currently in preparation. (Collaborators: Margaret Sheridan).
+
 ## Publications
 
 Graf MD, **Murgueitio N**, Vogel SC, Carlson AL, Hicks L, Propper CB, Kimmel MC. (2025). Maternal prenatal stress and the offspring gut microbiome: A cross-species systematic review. Developmental Psychobiology. PMID: 39636074. [PDF.](https://www.dropbox.com/scl/fi/l3wuliusakj1z469tfqx3/Developmental-Psychobiology-2024-Graf-Maternal-Prenatal-Stress-and-the-Offspring-Gut-Microbiome-A-Cross-Species.pdf?rlkey=a08swznaumotb564owu0brz8l&dl=0)
