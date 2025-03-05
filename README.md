@@ -2,9 +2,9 @@
 
 ## About Me
 
-I am a PhD candidate with a focus on Child Psychology and Translational Neuroscience working at The University of North Carolina at Chapel Hill. My research investigates neurodevelopmental mechanisms of transdiagnostic risk. Specifically, I study how developmental threat exposure (ie, violence) shapes learning, memory, and systems processing emotional and social experiences, and how these neurobiological systems interact with the viscera (ie, autonomic nervous system and gut microbiome). 
+I am a PhD candidate with a focus on Child Psychology and Translational Neuroscience working at The University of North Carolina at Chapel Hill. My research investigates translational mechanisms of transdiagnostic risk. Specifically, I study how  threat exposure (ie, violence) shapes the development of learning, memory, and emotional processing systems. Moreover, I study interactions between these neural circuits and peripheral systems (ie, autonomic nervous system and gut microbiome) supporting allostatic processes. 
 
-I use a variety of methodologies and approaches including task-based fMRI and structural MRI, physiology (ie, HRV, EDA), parent-reported and self-report questionnaires, genetic sequencing, psychiatric assessments, behavioral observations, statistical modeling, and machine learning.
+I use a variety of methodologies and approaches including task-based fMRI and structural MRI, physiology (ie, HRV, EDA), questionnaires, genetic sequencing, psychiatric assessments and interviews, behavioral observations, statistical modeling, and machine learning.
 
 Additionally, I collaborate with scientists across disciplines to explore other topics such as the environmental and neural correlates of cognitive and socioemotional development and psychiatric risk. 
 
@@ -60,10 +60,10 @@ Jimenez-Borja M, Jimenez-Borja V, Borja-Alvarez T, Jimenez-Mosquera CJ, **Murgue
 Vogel SC, **Murgueitio N**, Huth N, Sem K, Knickmeyer RC, Short SJ, Mills-Koonce WR, Propper CB, Wagner NJ. Timing-specific longitudinal links between the infant gut microbiome and negative affect in toddlerhood. [Pre-print.](https://osf.io/preprints/psyarxiv/z2s8h)
 
 Wylie AC, **Murgueitio N**, Carlson AL, Fry R, Propper CB. The role of the gut microbiome in the associations between lead exposure and child neurodevelopment.
-   
-Propper CB, Holochwost SJ, **Murgueitio N**, Short SJ, Mills-Koonce WR. Prenatal sleep quality, hippocampal volume, and infant emotion at 6 months of age.
-   
+      
 Brinson AK, Propper CB, **Murgueitio N**, Reed KK, Hoke M, Wasser H, Mills-Koonce WR, Knickmeyer RC, Short SJ, Thompson AL. An exploratory analysis of the associations between infant night wakings and gut microbiota at 2-weeks. 
+
+Propper CB, Holochwost SJ,  Short SJ, Willoughby MT, Towe-Goodman N, **Murgueitio N**,Mills-Koonce WR. Prenatal sleep quality, neonatal brain volume, and infant emotion at 6 months of age.
 
 ## Selected Conference Abstracts
 **Murgueitio N**, Garrisi K, Shipkova M, Sheridan MA. (2024). Autonomic nervous system activity is associated with neural correlates of emotion dysregulation in early childhood: A preliminary analysis. 63rd Annual Meeting of the American College of Neuropsychopharmacology. Poster Abstract. [PDF.](https://www.dropbox.com/scl/fi/bbjhmeqddovp3ea0i6hbd/ACNP-2024.pdf?rlkey=tqgd4oyjcy0ot159jj2evkptk&dl=0)
