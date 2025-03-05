@@ -28,8 +28,8 @@ We are using a novel guided cognitive reappraisal fMRI task to investigate the n
 ### Infant gut microbiome and interoceptive circuitry
 This project probes associations between the infant gut microbiome and resting-state functional connectivity of regions associated with interoceptive processing. This manuscript is currently in preparation. (Collaborators: Cathi Propper, Sarah Short, Rasmus Birn, Rebecca Knickmeyer). 
 
-### Preschool threat exposure and circuits underlying emotional reactivity in adolescents
-Leveraging longitudinal data spanning from preschool to the adolescent years, we are exploring how preschool exposure to threat shapes neural responses to negative stimuli during adolescence. This manuscript is a registered report and currently in preparation. (Collaborators: Margaret Sheridan).
+### Preschool threat exposure and neural circuits underlying emotional reactivity
+Leveraging longitudinal data spanning starting in the preschool years, we are exploring how preschool exposure to threat shapes neural responses to negative stimuli in adolescents and young adults. This manuscript is a registered report and currently in preparation. (Collaborators: Margaret Sheridan).
 
 ## Publications
 
