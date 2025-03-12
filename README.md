@@ -33,19 +33,19 @@ Leveraging longitudinal data spanning starting in the preschool years, we are ex
 
 ## Publications
 
-Graf MD, **Murgueitio N**, Vogel SC, Carlson AL, Hicks L, Propper CB, Kimmel MC. (2025). Maternal prenatal stress and the offspring gut microbiome: A cross-species systematic review. Developmental Psychobiology. PMID: 39636074. [PDF.](https://www.dropbox.com/scl/fi/l3wuliusakj1z469tfqx3/Developmental-Psychobiology-2024-Graf-Maternal-Prenatal-Stress-and-the-Offspring-Gut-Microbiome-A-Cross-Species.pdf?rlkey=a08swznaumotb564owu0brz8l&dl=0)
+Graf MD, **Murgueitio N**, Vogel SC, Hicks L, Carlson AL, Propper CB, et al. Maternal Prenatal Stress and the Offspring Gut Microbiome: A Cross-Species Systematic Review. Developmental Psychobiology. 2025;67: e70005.
 
-**Murgueitio N**, Sheridan MA, Bauer DJ, Propper CB. (2024). Developmental mechanisms linking deprivation and threat to psychopathology and school outcomes. Development and Psychopathology. PMID: 39429002. [PDF.](https://www.dropbox.com/scl/fi/hduhp0w4smer51uqlmosj/developmental-mechanisms-linking-deprivation-and-threat-to-psychopathology-and-school-outcomes.pdf?rlkey=nrbyabx9biwgxccikk4r2i3ov&dl=0)
+**Murgueitio N**, Sheridan MA, Bauer DJ, Propper CB. Developmental mechanisms linking deprivation and threat to psychopathology and school outcomes. Development and Psychopathology. 2024:1–12.
 
-**Murgueitio N**, Tate M, Lurie L, Priddy Z, Boda S, Shipkova M, Rodriguez M, Machlin L, Furlong S, Mitchell A, McLaughlin KA, Sheridan MA. (2024). Testing a conceptual model of early adversity, neural function, and psychopathology: Protocol for a retrospective observational cohort study. JMIR Research Protocols. PMID: 39287225. [PDF.](https://www.dropbox.com/scl/fi/84jxep8gzweiy177syrkx/resprot-2024-1-e59636.pdf?rlkey=f64jdnaqf4x2q1wnig2wyvpst&dl=0)
+**Murgueitio N**, Tate M, Lurie L, Priddy Z, Boda S, Shipkova M, et al. Testing a Conceptual Model of Early Adversity, Neural Function, and Psychopathology: Protocol for a Retrospective Observational Cohort Study. JMIR Research Protocols. 2024;13: e59636.
 
-Reyes-Rodriguez ML, Pérez M, **Murgueitio J**, Martinez Caballero M, Ortiz Gonzalez JC. (2023). Eating and Feeding Disorders in Latino Communities in the Caribbean: A Narrative Systematic Review. Revista Puertorriqueña de Psicología. [PDF.](https://www.dropbox.com/scl/fi/jn00mlsdf13g9fzgyhwqa/Dialnet-TrastornosDeLaIngestaYDeLaConductaAlimentariaEnPob-9107831.pdf?rlkey=80tqf366kzs2twloqqloc7lpp&dl=0)
+Reyes-Rodríguez ML, Pérez M, **Murgueitio JN**, Martínez Caballero M, Ortiz-González JC. Trastornos de la ingesta y de la conducta alimentaria en poblaciones latinas en el Caribe: Una revisión narrativa sistemática. RePS. 2023; 34:194–210.
 
-Romano KA, Lipson SK, Beccia AL, Quatromoni PA, **Murgueitio J**. (2023). Disparities in eating disorder symptoms and mental healthcare engagement prior to and following the onset of the COVID ‐19 pandemic: Findings from a national study of US college students. International Journal of Eating Disorders. PMID: 36479981. [PDF.](https://www.dropbox.com/scl/fi/ktcuwc64n2iku8387leh3/Intl-J-Eating-Disorders-2022-Romano-Disparities-in-eating-disorder-symptoms-and-mental-healthcare-engagement-prior-to.pdf?rlkey=5n1szk1l1wpcbzrkckzm1yv52&dl=0)
+Romano KA, Lipson SK, Beccia AL, Quatromoni PA, **Murgueitio J**. Disparities in eating disorder symptoms and mental healthcare engagement prior to and following the onset of the COVID-19 pandemic: Findings from a national study of US college students. Intl J Eating Disorders. 2023; 56:203–215.
 
-Romano KA, Lipson SK, Beccia AL, Quatromoni PA, Gordon AR, **Murgueitio J**. (2022). Changes in the prevalence and sociodemographic correlates of eating disorder symptoms from 2013 to 2020 among a large national sample of U.S. young adults: A repeated cross‐sectional study. International Journal of Eating Disorders. PMID: 35338504. [PDF.](https://www.dropbox.com/scl/fi/1939vz9rw0j2ilxss10n8/Intl-J-Eating-Disorders-2022-Romano-Changes-in-the-prevalence-and-sociodemographic-correlates-of-eating-disorder.pdf?rlkey=b7ap5qte72i4nydtg9du4bf1z&dl=0)
+Romano KA, Lipson SK, Beccia AL, Quatromoni PA, Gordon AR, **Murgueitio J**. Changes in the prevalence and sociodemographic correlates of eating disorder symptoms from 2013 to 2020 among a large national sample of U.S. young adults: A repeated cross‐sectional study. Intl J Eating Disorders. 2022: eat.23709.
 
-Jimenez-Borja M, Jimenez-Borja V, Borja-Alvarez T, Jimenez-Mosquera CJ, **Murgueitio J**. (2020). Prevalence of child maltreatment in Ecuador using the ICAST-R. Child Abuse & Neglect. PMID: 31722265. [PDF.](https://www.dropbox.com/scl/fi/h17icse3lrv97c33cr3im/1-s2.0-S0145213419304077-main.pdf?rlkey=ez6v8w9bfsp6p1h1yc0t38sp8&dl=0)
+Jiménez-Borja M, Jiménez-Borja V, Borja-Alvarez T, Jiménez-Mosquera CJ, **Murgueitio J**. Prevalence of child maltreatment in Ecuador using the ICAST-R. Child Abuse & Neglect. 2020; 99:104230.
 
 ## Manuscripts Under Review
 
