@@ -30,6 +30,8 @@ Leveraging longitudinal data spanning starting in the preschool years, we are ex
 
 ## Publications
 
+**Murgueitio N**, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB.  Developmental impacts of deprivation and threat on emotion recognition. Neurotoxicology and Teratology, Developmental Stress Special Issue. Accepted. 
+
 Graf MD, **Murgueitio N**, Vogel SC, Hicks L, Carlson AL, Propper CB, et al. Maternal Prenatal Stress and the Offspring Gut Microbiome: A Cross-Species Systematic Review. Developmental Psychobiology. 2025;67: e70005.
 
 **Murgueitio N**, Sheridan MA, Bauer DJ, Propper CB. Developmental mechanisms linking deprivation and threat to psychopathology and school outcomes. Development and Psychopathology. 2024:1–12.
@@ -47,8 +49,6 @@ Jiménez-Borja M, Jiménez-Borja V, Borja-Alvarez T, Jiménez-Mosquera CJ, **Mur
 ## Manuscripts Under Review
 
 **Murgueitio N.** How abusive caregiving constructs the social world. _Invited submission for Nature Reviews Psychology._
-
-**Murgueitio N**, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB.  Developmental impacts of deprivation and threat on emotion recognition. 
 
 **Murgueitio N**, Propper CB, Sheridan MA. Translating rodent models of developmental threat exposure to human neuroscience research. 
 
