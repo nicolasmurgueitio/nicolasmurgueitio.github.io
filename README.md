@@ -1,34 +1,20 @@
 #  **Nicolas Murgueitio**
 
-## About Me
+## ABOUT ME
 
-I am a PhD candidate with a focus on Child Psychology and Translational Neuroscience working at The University of North Carolina at Chapel Hill. My research investigates translational mechanisms of transdiagnostic risk. Specifically, I study how  threat exposure (ie, violence) shapes the development of learning, memory, and emotional processing systems. Moreover, I study interactions between these neural circuits and peripheral systems (ie, autonomic nervous system and gut microbiome) supporting allostatic processes. 
+I am a PhD candidate with a focus on Child Psychology and Translational Neuroscience working at The University of North Carolina at Chapel Hill. My research investigates various developmental pathways involved in the development of cognitive and behavioral disorders, particularly in children. I utilize various tools from developmental neuroscience, psychophysiology, and child psychology such as task-based and structural MRI, heart-rate variability, electrodermal activity, genetic sequencing, psychiatric assessments and interviews, behavioral observations, basic and advanced statistical models, and machine learning.
 
-I use a variety of methodologies and approaches including task-based fMRI and structural MRI, physiology (ie, HRV, EDA), questionnaires, genetic sequencing, psychiatric assessments and interviews, behavioral observations, statistical modeling, and machine learning.
+## RESEARCH THEMES
 
-Additionally, I collaborate with scientists across disciplines to explore other topics such as the environmental and neural correlates of cognitive and socioemotional development and psychiatric risk. 
+### IMMEDIATE AND ENDURING CONSEQUENCES OF THREAT EXPOSURE
 
-## Ongoing Projects
+Adverse childhood experiences are prevalent and account for a large proportion of mental health disorders across the lifespan. Understanding learning and developmental mechanisms could inform novel therapeutics to support adversity-exposed populations. My work explores how experiences of threat (ie, domestic violence, abuse) impact the development of various neural, physiological, and behavioral systems that confer risk for emotional disorders. To inform paradigms, hypotheses, and analyses I rely on rodent models of abusive rearing and social adversity. In this line of work I have explored developmental mechanisms such as emotional reactivity, emotion perception, learning, memory, and sensory processing. Moreover, I explore these questions acrosss the lifespan, particularly during early childhood and adolescence/emerging adulthood. 
 
-### Physiological systems underlying social modulation of aversive learning after threat exposure
+## BRAIN-BODY INTERACTIONS
 
-We are using a novel caregiver-stranger learning paradigm to explore how threat exposure impacts the development of aversive learning and the social modulation of aversive learning in young children. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Regina Sullivan). [OSF Pre-registration.](https://doi.org/10.17605/OSF.IO/GPJCH)
+A key, and overlooked, function of the brain is to coordinate and regulate vital bodily functions such as heart beat, respiration, thermal regulation, digestion, etc. Exploring complex body-brain interactions across the lifespan could inform therapeutic efforts targeting bodily systems to improve cognitive and emotional health. In this line of work I study how various markers of brain function and structure interact with bodily systems including the autonomic and endocrine systems, and the microbiome. 
 
-### Neural processing of caregiver cues in children with developmental threat exposure
-
-This project explores how exposure to threat impacts neural processing of caregiver cues using fMRI in a sample of young children with exposure to adversity. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Regina Sullivan). [OSF Pre-registration.](https://osf.io/m5d2g)
-
-### Autonomic nervous system and neural correlates of emotional reactivity
-
-Extensive research shows that individual differences in autonomic nervous system function increase or decrease risk for aberrant behavioral development. This multimodal study explores associations between ANS functioning at rest and children's neural responses to negative stimuli using fMRI. This manuscript is currently in preparation. (Collaborators: Margaret Sheridan, Katie Mclaughlin). [OSF Pre-registration.](https://doi.org/10.17605/OSF.IO/S7M9K)
-
-### Infant gut microbiome and interoceptive circuitry
-This project probes associations between the infant gut microbiome and resting-state functional connectivity of regions associated with interoceptive processing. This manuscript is currently in preparation. (Collaborators: Cathi Propper, Sarah Short, Rasmus Birn, Rebecca Knickmeyer). 
-
-### Preschool threat exposure and neural circuits underlying emotional reactivity
-Leveraging longitudinal data spanning starting in the preschool years, we are exploring how preschool exposure to threat shapes neural responses to negative stimuli in adolescents and young adults. This manuscript is a registered report and currently in preparation. (Collaborators: Margaret Sheridan).
-
-## Publications
+## PUBLICATIONS
 
 **Murgueitio N**, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB.  Developmental impacts of deprivation and threat on emotion recognition. Neurotoxicology and Teratology, Developmental Stress Special Issue. Accepted. 
 
@@ -46,7 +32,7 @@ Romano KA, Lipson SK, Beccia AL, Quatromoni PA, Gordon AR, **Murgueitio J**. Cha
 
 Jiménez-Borja M, Jiménez-Borja V, Borja-Alvarez T, Jiménez-Mosquera CJ, **Murgueitio J**. Prevalence of child maltreatment in Ecuador using the ICAST-R. Child Abuse & Neglect. 2020; 99:104230.
 
-## Manuscripts Under Review
+## MANUSCRIPTS UNDER REVIEW
 
 **Murgueitio N.** How abusive caregiving constructs the social world. _Invited submission for Nature Reviews Psychology._
 
@@ -64,7 +50,8 @@ Brinson AK, Propper CB, **Murgueitio N**, Reed KK, Hoke M, Wasser H, Mills-Koonc
 
 Propper CB, Holochwost SJ,  Short SJ, Willoughby MT, Towe-Goodman N, **Murgueitio N**,Mills-Koonce WR. Prenatal sleep quality, neonatal brain volume, and infant emotion at 6 months of age.
 
-## Selected Conference Abstracts
+## SELECTED CONFERENCE ABSTRACTS
+
 **Murgueitio N**, Garrisi K, Shipkova M, Sheridan MA. Autonomic nervous system activity is associated with neural correlates of emotion dysregulation in early childhood: A preliminary analysis. 63rd Annual Meeting of the American College of Neuropsychopharmacology, 2024. [PDF.](https://www.dropbox.com/scl/fi/bbjhmeqddovp3ea0i6hbd/ACNP-2024.pdf?rlkey=tqgd4oyjcy0ot159jj2evkptk&dl=0)
 
 **Murgueitio N**, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB. Early exposure to intimate-partner violence predicts anger bias in early and middle childhood. Flux Society for Developmental Cognitive Neuroscience, 2024. 
@@ -85,7 +72,7 @@ Propper CB, Holochwost SJ,  Short SJ, Willoughby MT, Towe-Goodman N, **Murgueiti
 
 **Murgueitio JN**, McLaughlin K, Sheridan MA, Willoughby M, Mills-Koonce WR, Short SJ, Propper CB. Testing the effects of threat exposure on negative affect and parasympathetic activity during infancy and early childhood. International Society for Developmental Psychobiology, 2022. [PDF.](https://www.dropbox.com/scl/fi/t00dnfkfahlzgemcagdii/ISDP-2022.pdf?rlkey=qtlmmmcufx6ryd18muwln6krt&dl=0)
 
-## Contact
+## CONTACT
 
 If you are interested in talking about my research you can contact me at: [jnicolas@email.unc.edu](mailto:jnicolas@email.unc.edu), or DM me on [Twitter/X](https://twitter.com/jnmurgueitio).
 
