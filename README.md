@@ -38,8 +38,6 @@ Jiménez-Borja M, Jiménez-Borja V, Borja-Alvarez T, Jiménez-Mosquera CJ, **Mur
 
 **Murgueitio N**, Propper CB, Sheridan MA. Translating rodent models of developmental threat exposure to human neuroscience research. 
 
-**Murgueitio N**, Trueba AF, Pluck G. The role of emotion regulation strategies in the association between physical abuse and borderline symptoms among foster care and family-based youth in Ecuador. 
-
 +Graf MD, +**Murgueitio N**, Sheridan MA, Quinn RA, Carlson AL, Vogel SC, Styner MA, Alex AM, Stephens RL, Roach J, Sagarnaga N, Mills-Koonce WR, Azcarate-Peril AM, Short SJ, Knickmeyer RC, Propper CB. Gut microbiome is associated with insula structure in neonates. _+shared first authorship._
 
 Vogel SC, **Murgueitio N**, Huth N, Sem K, Knickmeyer RC, Short SJ, Mills-Koonce WR, Propper CB, Wagner NJ. Timing-specific longitudinal links between the infant gut microbiome and negative affect in toddlerhood. [Pre-print.](https://osf.io/preprints/psyarxiv/z2s8h)
