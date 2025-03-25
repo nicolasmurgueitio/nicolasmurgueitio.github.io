@@ -47,7 +47,7 @@ Wylie AC, **Murgueitio N**, Carlson AL, Fry R, Propper CB. The role of the gut m
       
 Brinson AK, Propper CB, **Murgueitio N**, Reed KK, Hoke M, Wasser H, Mills-Koonce WR, Knickmeyer RC, Short SJ, Thompson AL. An exploratory analysis of the associations between infant night wakings and gut microbiota at 2-weeks. 
 
-Propper CB, Holochwost SJ,  Short SJ, Willoughby MT, Towe-Goodman N, **Murgueitio N**,Mills-Koonce WR. Prenatal sleep quality, neonatal brain volume, and infant emotion at 6 months of age.
+Propper CB, Holochwost SJ,  Short SJ, Willoughby MT, Towe-Goodman N, **Murgueitio N**, Mills-Koonce WR. Prenatal sleep quality, neonatal brain volume, and infant emotion at 6 months of age.
 
 ## SELECTED CONFERENCE ABSTRACTS
 
