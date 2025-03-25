@@ -16,7 +16,7 @@ A key, and overlooked, function of the brain is to coordinate and regulate vital
 
 ## PUBLICATIONS
 
-**Murgueitio N**, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB.  Developmental impacts of deprivation and threat on emotion recognition. Neurotoxicology and Teratology, Developmental Stress Special Issue. Accepted. 
+**Murgueitio N**, Sheridan M, Shipkova M, Halberstadt A, Garrett-Peters P, Propper C. Developmental impacts of deprivation and threat on emotion recognition. Neurotoxicol Teratol. 2025; :107446. doi: 10.1016/j.ntt.2025.107446
 
 Graf MD, **Murgueitio N**, Vogel SC, Hicks L, Carlson AL, Propper CB, et al. Maternal Prenatal Stress and the Offspring Gut Microbiome: A Cross-Species Systematic Review. Developmental Psychobiology. 2025;67: e70005.
 
