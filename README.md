@@ -16,7 +16,7 @@ A key, and overlooked, function of the brain is to coordinate and regulate vital
 
 ## PUBLICATIONS
 
-**Murgueitio N**, Sheridan M, Shipkova M, Halberstadt A, Garrett-Peters P, Propper C. Developmental impacts of deprivation and threat on emotion recognition. Neurotoxicol Teratol. 2025; :107446. doi: 10.1016/j.ntt.2025.107446
+**Murgueitio N**, Sheridan M, Shipkova M, Halberstadt A, Garrett-Peters P, Propper C. Developmental impacts of deprivation and threat on emotion recognition. Neurotoxicol Teratol. 2025:107446. doi: 10.1016/j.ntt.2025.107446
 
 Graf MD, **Murgueitio N**, Vogel SC, Hicks L, Carlson AL, Propper CB, Kimmel M. Maternal Stress and the Offspring Gut Microbiome: A Cross-Species Systematic Review. Dev Psychobiol. 2025 Jan;67(1):e70005. doi: 10.1002/dev.70005. Review. PubMed PMID: 39636074.
 
@@ -35,9 +35,11 @@ Jiménez-Borja M, Jiménez-Borja V, Borja-Alvarez T, Jiménez-Mosquera CAJ,**Mur
 
 ## MANUSCRIPTS UNDER REVIEW
 
-**Murgueitio N.** How abusive caregiving constructs the social world. _Invited submission for Nature Reviews Psychology._
+**Murgueitio N.** How abusive caregiving constructs the social world. _Invited submission for Nat Rev Psychol_
 
 **Murgueitio N**, Propper CB, Sheridan MA. Translating rodent models of developmental threat exposure to human neuroscience research. 
+
+**Murgueitio N**, Trueba AF, Pluck G. The role of emotion regulation strategies in the association between physical abuse and borderline symptoms among foster care and family-based youth in Ecuador.
 
 +Graf MD, +**Murgueitio N**, Sheridan MA, Quinn RA, Carlson AL, Vogel SC, Styner MA, Alex AM, Stephens RL, Roach J, Sagarnaga N, Mills-Koonce WR, Azcarate-Peril AM, Short SJ, Knickmeyer RC, Propper CB. Gut microbiome is associated with insula structure in neonates. _+shared first authorship._
 
