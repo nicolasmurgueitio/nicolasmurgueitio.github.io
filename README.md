@@ -20,7 +20,7 @@ A key, and overlooked, function of the brain is to coordinate and regulate vital
 
 Graf MD, **Murgueitio N**, Vogel SC, Hicks L, Carlson AL, Propper CB, Kimmel M. Maternal Stress and the Offspring Gut Microbiome: A Cross-Species Systematic Review. Dev Psychobiol. 2025 Jan;67(1):e70005. doi: 10.1002/dev.70005. Review. PubMed PMID: 39636074.
 
-**Murgueitio N**, Sheridan MA, Bauer DJ, Propper CB. Developmental mechanisms linking Prenatal deprivation and threat to psychopathology and school outcomes. Dev Psychopathol. 2024 Oct 21;1-12. doi: 10.1017/S0954579424001664. [Epub ahead of print] PubMed PMID: 39429002.
+**Murgueitio N**, Sheridan MA, Bauer DJ, Propper CB. Developmental mechanisms linking deprivation and threat to psychopathology and school outcomes. Dev Psychopathol. 2024 Oct 21;1-12. doi: 10.1017/S0954579424001664. [Epub ahead of print] PubMed PMID: 39429002.
 
 **Murgueitio N**, Tate M, Lurie L, Priddy Z, Boda S, Shipkova M, Rodriguez M, Machlin L, Furlong S, Mitchell A, McLaughlin K, Sheridan M. Testing a Conceptual Model of Early Adversity, Neural Function, and Psychopathology: Protocol for a Retrospective Observational Cohort Study. JMIR Res Protoc. 2024 Sep 17;13:e59636. doi: 10.2196/59636. PubMed PMID: 39287225; PubMed Central PMCID: PMC11445632.
 
