@@ -16,22 +16,23 @@ A key, and overlooked, function of the brain is to coordinate and regulate vital
 
 ## PUBLICATIONS
 
-**Murgueitio N**, Sheridan M, Shipkova M, Halberstadt A, Garrett-Peters P, Propper C. Developmental impacts of deprivation and threat on emotion recognition. Neurotoxicol Teratol. 2025:107446. doi: 10.1016/j.ntt.2025.107446
+**Murgueitio N**, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB. Developmental impacts of deprivation and threat on emotion recognition. Neurotoxicol Teratol. 2025 Mar;107446.
 
-Graf MD, **Murgueitio N**, Vogel SC, Hicks L, Carlson AL, Propper CB, Kimmel M. Maternal Stress and the Offspring Gut Microbiome: A Cross-Species Systematic Review. Dev Psychobiol. 2025 Jan;67(1):e70005. doi: 10.1002/dev.70005. Review. PubMed PMID: 39636074.
+Graf MD, **Murgueitio N**, Vogel SC, Hicks L, Carlson AL, Propper CB, et al. Maternal Prenatal Stress and the Offspring Gut Microbiome: A Cross-Species Systematic Review. Dev Psychobiol. 2025;67(1):e70005.
 
-**Murgueitio N**, Sheridan MA, Bauer DJ, Propper CB. Developmental mechanisms linking deprivation and threat to psychopathology and school outcomes. Dev Psychopathol. 2024 Oct 21;1-12. doi: 10.1017/S0954579424001664. [Epub ahead of print] PubMed PMID: 39429002.
+**Murgueitio N**, Sheridan MA, Bauer DJ, Propper CB. Developmental mechanisms linking deprivation and threat to psychopathology and school outcomes. Dev Psychopathol. 2024 Oct 21;1–12.
 
-**Murgueitio N**, Tate M, Lurie L, Priddy Z, Boda S, Shipkova M, Rodriguez M, Machlin L, Furlong S, Mitchell A, McLaughlin K, Sheridan M. Testing a Conceptual Model of Early Adversity, Neural Function, and Psychopathology: Protocol for a Retrospective Observational Cohort Study. JMIR Res Protoc. 2024 Sep 17;13:e59636. doi: 10.2196/59636. PubMed PMID: 39287225; PubMed Central PMCID: PMC11445632.
+**Murgueitio N**, Tate M, Lurie L, Priddy Z, Boda S, Shipkova M, et al. Testing a Conceptual Model of Early Adversity, Neural Function, and Psychopathology: Protocol for a Retrospective Observational Cohort Study. JMIR Res Protoc. 2024 Sep 17;13(1):e59636.
 
-Reyes-Rodríguez M, Pérez M, **Murgueitio J**, Martínez Caballero M, Ortiz-González J. Trastornos de la ingesta y de la conducta alimentaria en poblaciones latinas en el Caribe: Una revisión narrativa sistemática. Revista Puertorriqueña de Psicologí¬a. 2023/09; 34(2):194-210. doi: 10.55611/reps.3402.05.
+Reyes-Rodríguez ML, Pérez M, **Murgueitio JN**, Martínez Caballero M, Ortiz-González JC. Trastornos de la ingesta y de la conducta alimentaria en poblaciones latinas en el Caribe: Una revisión narrativa sistemática. RePS. 2023 Sep 20;34(2):194–210.
 
-Romano KA, Lipson SK, Beccia AL, Quatromoni PA, **Murgueitio J**. Disparities in eating disorder symptoms and mental healthcare engagement prior to and following the onset of the COVID-19 pandemic: Findings from a national study of US college students. Int J Eat Disord. 2023 Jan;56(1):203-215. doi: 10.1002/eat.23869. Epub 2022 Dec 8. PubMed PMID: 36479981; PubMed Central PMCID: PMC9851957.
+**Murgueitio J**, Martínez-Magaña JJ, Vacuan ETC, Cortes-Morales SA, Compte EJ, Storch EA, Camarena B, Carvahlo C, Peterson R, Belangero S, Montalvo-Ortiz J, Atkinson E, Giusti-Rodríguez P, Consortium L, Bulik C. Importance of including individuals of Latin American ancestry in genetic studies of feeding and eating disorders. RePS. 2023 Sep 20;34(2):262–83.
 
-Romano KA, Lipson SK, Beccia AL, Quatromoni PA, Gordon AR, **Murgueitio J**. Changes in the prevalence and sociodemographic correlates of eating disorder symptoms from 2013 to 2020 among a large national sample of U.S. young adults: A repeated cross-sectional study. Int J Eat Disord. 2022 Jun;55(6):776-789. doi: 10.1002/eat.23709. Epub 2022 Mar 26. PubMed PMID: 35338504; PubMed Central PMCID: PMC9204707.
+Romano KA, Lipson SK, Beccia AL, Quatromoni PA, **Murgueitio J**. Disparities in eating disorder symptoms and mental healthcare engagement prior to and following the onset of the COVID-19 pandemic: Findings from a national study of US college students. Int J Eat Disord. 2023;56(1):203–15.
 
-Jiménez-Borja M, Jiménez-Borja V, Borja-Alvarez T, Jiménez-Mosquera CAJ,**Murgueitio J**. Prevalence of child maltreatment in Ecuador using the ICAST-R. Child Abuse Negl. 2020 Jan; 99:104230. doi: 10.1016/j.chiabu.2019.104230. Epub 2019 Nov 10. PubMed PMID: 31722265.
+Romano KA, Lipson SK, Beccia AL, Quatromoni PA, Gordon AR, **Murgueitio J**. Changes in the prevalence and sociodemographic correlates of eating disorder symptoms from 2013 to 2020 among a large national sample of U.S. young adults: A repeated cross‐sectional study. Int J Eat Disord. 2022 Mar 26;eat.23709.
 
+Jiménez-Borja M, Jiménez-Borja V, Borja-Alvarez T, Jiménez-Mosquera C, **Murgueitio J**. Prevalence of child maltreatment in Ecuador using the ICAST-R. Child Abuse Negl. 2020 Jan;99:104230.
 
 ## MANUSCRIPTS UNDER REVIEW
 
