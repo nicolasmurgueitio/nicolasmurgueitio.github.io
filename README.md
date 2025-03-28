@@ -2,37 +2,37 @@
 
 ## ABOUT ME
 
-I am a PhD candidate with a focus on Child Psychology and Translational Neuroscience working at The University of North Carolina at Chapel Hill. My research investigates various developmental pathways involved in the development of cognitive and behavioral disorders, particularly in children. I utilize various tools from developmental neuroscience, psychophysiology, and child psychology such as task-based and structural MRI, heart-rate variability, electrodermal activity, genetic sequencing, psychiatric assessments and interviews, behavioral observations, basic and advanced statistical models, and machine learning.
+I am a PhD candidate with a focus on Child Psychology and Translational Neuroscience working at the University of North Carolina at Chapel Hill. My research investigates multi-developmental pathways involved in the development of emotional and behavioral disorders, particularly in children. I utilize various tools from developmental neuroscience, psychophysiology, and child development such as task-based fMRI and structural MRI, heart-rate variability, electrodermal activity, genetic sequencing, psychiatric assessments and interviews, behavioral observations, statistical modeling, and machine learning.
 
 ## RESEARCH THEMES
 
 ### IMMEDIATE AND ENDURING CONSEQUENCES OF THREAT EXPOSURE
 
-Adverse childhood experiences are prevalent and account for a large proportion of mental health disorders across the lifespan. Understanding learning and developmental mechanisms could inform novel therapeutics to support adversity-exposed populations. My work explores how experiences of threat (ie, domestic violence, abuse) impact the development of various neural, physiological, and behavioral systems that confer risk for emotional disorders. To inform paradigms, hypotheses, and analyses I rely on rodent models of abusive rearing and social adversity. In this line of work I have explored developmental mechanisms such as emotional reactivity, emotion perception, learning, memory, and sensory processing. Moreover, I explore these questions acrosss the lifespan, particularly during early childhood and adolescence/emerging adulthood. 
+Adverse childhood experiences are prevalent and account for a large proportion of mental health disorders across the lifespan. Understanding learning and developmental mechanisms could inform novel therapeutics to support adversity-exposed populations. My work explores how experiences of threat (ie, domestic violence, abuse) impact the development of various neural, physiological, and behavioral systems that confer risk for emotional disorders. To inform paradigms and hypotheses I rely on rodent models of abusive rearing and social adversity. In this line of work I have explored developmental mechanisms such as emotional reactivity, emotion perception, learning, memory, and sensory processing. Moreover, I explore these questions acrosss the lifespan, particularly during early childhood and adolescence/emerging adulthood. 
 
-## BRAIN-BODY INTERACTIONS
+## MULTI-BODY-BRAIN INTERACTIONS      
 
-A key, and overlooked, function of the brain is to coordinate and regulate vital bodily functions such as heart beat, respiration, thermal regulation, digestion, etc. Exploring complex body-brain interactions across the lifespan could inform therapeutic efforts targeting bodily systems to improve cognitive and emotional health. In this line of work I study how various markers of brain function and structure interact with bodily systems including the autonomic and endocrine systems, and the microbiome. 
+A key, and overlooked, function of the brain is to coordinate and regulate vital bodily functions such as heart beat, respiration, thermal regulation, digestion, etc. Exploring complex body-brain interactions across the lifespan could inform therapeutic efforts targeting bodily systems to improve cognitive and emotional health. In this line of work I study how various markers of brain function and structure interact with bodily systems including the autonomic and endocrine systems, and the microbiome during infancy and childhood. 
 
 ## PUBLICATIONS
 
-**Murgueitio N**, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB. Developmental impacts of deprivation and threat on emotion recognition. Neurotoxicol Teratol. 2025 Mar;107446.
+**Murgueitio N**, Sheridan MA, Shipkova M, Halberstadt AG, Garrett-Peters PT, Propper CB. Developmental impacts of deprivation and threat on emotion recognition. Neurotoxicol Teratol. 2025 Mar;107446. PMID: 40139283. 
 
-Graf MD, **Murgueitio N**, Vogel SC, Hicks L, Carlson AL, Propper CB, et al. Maternal Prenatal Stress and the Offspring Gut Microbiome: A Cross-Species Systematic Review. Dev Psychobiol. 2025;67(1):e70005.
+Graf MD, **Murgueitio N**, Vogel SC, Hicks L, Carlson AL, Propper CB, Kimmel M. Maternal Prenatal Stress and the Offspring Gut Microbiome: A Cross-Species Systematic Review. Dev Psychobiol. 2025;67(1):e70005. PMID: 39636074.
 
-**Murgueitio N**, Sheridan MA, Bauer DJ, Propper CB. Developmental mechanisms linking deprivation and threat to psychopathology and school outcomes. Dev Psychopathol. 2024 Oct 21;1–12.
+**Murgueitio N**, Sheridan MA, Bauer DJ, Propper CB. Developmental mechanisms linking deprivation and threat to psychopathology and school outcomes. Dev Psychopathol. 2024 Oct 21;1–12. PMID: 39429002. 
 
-**Murgueitio N**, Tate M, Lurie L, Priddy Z, Boda S, Shipkova M, et al. Testing a Conceptual Model of Early Adversity, Neural Function, and Psychopathology: Protocol for a Retrospective Observational Cohort Study. JMIR Res Protoc. 2024 Sep 17;13(1):e59636.
+**Murgueitio N**, Tate M, Lurie L, Priddy Z, Boda S, Shipkova M, Rodriguez M, Machlin L, Furlong S, Mitchell A, McLaughlin K, Sheridan M. Testing a Conceptual Model of Early Adversity, Neural Function, and Psychopathology: Protocol for a Retrospective Observational Cohort Study. JMIR Res Protoc. 2024 Sep 17;13(1):e59636. PMID: 39287225. PMCID: PMC11445632. 
 
 Reyes-Rodríguez ML, Pérez M, **Murgueitio JN**, Martínez Caballero M, Ortiz-González JC. Trastornos de la ingesta y de la conducta alimentaria en poblaciones latinas en el Caribe: Una revisión narrativa sistemática. RePS. 2023 Sep 20;34(2):194–210.
 
-**Murgueitio J**, Martínez-Magaña JJ, Vacuan ETC, Cortes-Morales SA, Compte EJ, Storch EA, Camarena B, Carvahlo C, Peterson R, Belangero S, Montalvo-Ortiz J, Atkinson E, Giusti-Rodríguez P, Consortium L, Bulik C. Importance of including individuals of Latin American ancestry in genetic studies of feeding and eating disorders. RePS. 2023 Sep 20;34(2):262–83.
+**Murgueitio J**, Martínez-Magaña JJ, Vacuan ETC, Cortes-Morales SA, Compte EJ, Storch EA, Camarena B, Carvahlo C, Peterson R, Belangero S, Montalvo-Ortiz J, Atkinson E, Giusti-Rodríguez P, Latin American Genomics Consortium, Bulik C. Importance of including individuals of Latin American ancestry in genetic studies of feeding and eating disorders. RePS. 2023 Sep 20;34(2):262–83.
 
-Romano KA, Lipson SK, Beccia AL, Quatromoni PA, **Murgueitio J**. Disparities in eating disorder symptoms and mental healthcare engagement prior to and following the onset of the COVID-19 pandemic: Findings from a national study of US college students. Int J Eat Disord. 2023;56(1):203–15.
+Romano KA, Lipson SK, Beccia AL, Quatromoni PA, **Murgueitio J**. Disparities in eating disorder symptoms and mental healthcare engagement prior to and following the onset of the COVID-19 pandemic: Findings from a national study of US college students. Int J Eat Disord. 2023;56(1):203–15. PMID: 36479981. PMCID: PMC9851957
 
-Romano KA, Lipson SK, Beccia AL, Quatromoni PA, Gordon AR, **Murgueitio J**. Changes in the prevalence and sociodemographic correlates of eating disorder symptoms from 2013 to 2020 among a large national sample of U.S. young adults: A repeated cross‐sectional study. Int J Eat Disord. 2022 Mar 26;eat.23709.
+Romano KA, Lipson SK, Beccia AL, Quatromoni PA, Gordon AR, **Murgueitio J**. Changes in the prevalence and sociodemographic correlates of eating disorder symptoms from 2013 to 2020 among a large national sample of U.S. young adults: A repeated cross‐sectional study. Int J Eat Disord. 2022 Mar 26;eat.23709. PMID: 35338504. PMCID: PMC9204707.
 
-Jiménez-Borja M, Jiménez-Borja V, Borja-Alvarez T, Jiménez-Mosquera C, **Murgueitio J**. Prevalence of child maltreatment in Ecuador using the ICAST-R. Child Abuse Negl. 2020 Jan;99:104230.
+Jiménez-Borja M, Jiménez-Borja V, Borja-Alvarez T, Jiménez-Mosquera C, **Murgueitio J**. Prevalence of child maltreatment in Ecuador using the ICAST-R. Child Abuse Negl. 2020 Jan;99:104230. PMID: 31722265.
 
 ## MANUSCRIPTS UNDER REVIEW
 
