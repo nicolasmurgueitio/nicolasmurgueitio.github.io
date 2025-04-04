@@ -36,7 +36,7 @@ Jiménez-Borja M, Jiménez-Borja V, Borja-Alvarez T, Jiménez-Mosquera C, **Murg
 
 ## MANUSCRIPTS UNDER REVIEW
 
-**Murgueitio N.** How abusive caregiving constructs the social world. _Invited submission for Nat Rev Psychol_
+**Murgueitio N.** Mental constructs of the social world following abusive caregiving. _Invited submission for Nat Rev Psychol_
 
 **Murgueitio N**, Propper CB, Sheridan MA. Translating rodent models of developmental threat exposure to human neuroscience research. 
 
